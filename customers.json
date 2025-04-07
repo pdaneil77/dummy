@@ -1,0 +1,16 @@
+{
+  "customers":  [
+    {
+      "id": "100",
+      "name": "Pedro Gonçalves",
+      "email": "pedro.goncalves@lavinci.com",
+      "createDate": "2025-04-01 12:28:28"
+    },
+    {
+      "id": "102",
+      "name": "Gérard Ghazarian",
+      "email": "gerard.ghazarian@candidplatform.com",
+      "createDate": "2025-04-03 22:42:13"
+    }
+  ]
+}
