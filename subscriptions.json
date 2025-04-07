@@ -9,7 +9,8 @@
       "amount": 15.50,
       "status": "paid",
       "plan": "Basic",
-      "billingCycle": "monthly"
+      "billingCycle": "monthly",
+      "reference": "JDH387DJ3IDJNDJN2"
     },
     {
       "id": "2",
@@ -20,7 +21,8 @@
       "amount": 36.21,
       "status": "paid",
       "plan": "Professional",
-      "billingCycle": "monthly"
+      "billingCycle": "monthly",
+      "reference": "JGI5NJGO4HF3GHY"
     },
     {
       "id": "3",
@@ -31,7 +33,8 @@
       "amount": 36.21,
       "status": "paid",
       "plan": "Professional",
-      "billingCycle": "monthly"
+      "billingCycle": "monthly",
+      "reference": "I4KFN3OFN3OFNR4F"
     }
   ]
 }
