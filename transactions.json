@@ -15,6 +15,14 @@
       "amount": 36.21,
       "status": "paid",
       "product": "100 Credits"
+    },
+    {
+      "id": "3",
+      "userId": "100",
+      "date": "2025-04-03 12:43:12",
+      "amount": 36.21,
+      "status": "paid",
+      "product": "100 Credits"
     }
   ]
 }
