@@ -3,7 +3,7 @@
     {
       "id": "1",
       "userId": "100",
-      "date": "Tue, 01 Apr 2025 23:15:30 GMT",
+      "date": "Tue, 01 Apr 2025 23:15:30 GMT+01:00",
       "amount": 15.50,
       "status": "paid",
       "product": "5 GB",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "userId": "102",
-      "date": "Tue, 01 Apr 2025 23:15:30 GMT",
+      "date": "Tue, 01 Apr 2025 23:15:30 GMT+01:00",
       "amount": 36.21,
       "status": "paid",
       "product": "100 Credits",
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "userId": "100",
-      "date": "Sat, 05 Apr 2025 23:15:30 GMT",
+      "date": "Sat, 05 Apr 2025 23:15:30 GMT+01:00",
       "amount": 36.21,
       "status": "paid",
       "product": "100 Credits",
