@@ -4,19 +4,19 @@
       "id": "100",
       "name": "Pedro Gonçalves",
       "email": "pedro.goncalves@lavinci.com",
-      "createDate": 1743510508
+      "createDate": "Tue, 01 Apr 2025 23:15:30 GMT"
     },
     {
       "id": "102",
       "name": "Gérard Ghazarian",
       "email": "gerard.ghazarian@candidplatform.com",
-      "createDate": 1743720133
+      "createDate": "Tue, 01 Apr 2025 23:15:30 GMT"
     },
     {
       "id": "103",
       "name": "Youri van der Mijn",
       "email": "youri@candidplatform.com",
-      "createDate": 1744039312
+      "createDate": "Tue, 05 Apr 2025 23:15:30 GMT"
     }
   ]
 }
