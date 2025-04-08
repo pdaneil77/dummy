@@ -4,19 +4,19 @@
       "id": "100",
       "name": "Pedro Gonçalves",
       "email": "pedro.goncalves@lavinci.com",
-      "createDate": "Tuesday, April 1, 2025 1:15:01 PM"
+      "createDate": "2025-04-01T12:52:05Z"
     },
     {
       "id": "102",
       "name": "Gérard Ghazarian",
       "email": "gerard.ghazarian@candidplatform.com",
-      "createDate": "Tuesday, April 1, 2025 1:15:01 PM"
+      "createDate": "2025-04-01T12:52:05Z"
     },
     {
       "id": "103",
       "name": "Youri van der Mijn",
       "email": "youri@candidplatform.com",
-      "createDate": "Saturday, April 5, 2025 1:15:01 PM"
+      "createDate": "2025-04-05T12:52:05Z"
     }
   ]
 }
