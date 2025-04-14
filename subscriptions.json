@@ -1,8 +1,8 @@
 {
   "subscriptions": [
     {
-      "id": "2217",
-      "userId": "178",
+      "id": 2217,
+      "userId": 178,
       "date": 1737507695,
       "startDate": 1740435866,
       "endDate": 1771971866,
@@ -13,8 +13,8 @@
       "reference": "XMS5S7HZSDMBP0WM"
     },
     {
-      "id": "6175",
-      "userId": "105",
+      "id": 6175,
+      "userId": 105,
       "date": 1741002723,
       "startDate": 1736565398,
       "endDate": 1768101398,
@@ -25,8 +25,8 @@
       "reference": "R01FZ1MKYPWSRA2N"
     },
     {
-      "id": "8342",
-      "userId": "198",
+      "id": 8342,
+      "userId": 198,
       "date": 1743116670,
       "startDate": 1737725603,
       "endDate": 1769261603,
@@ -37,8 +37,8 @@
       "reference": "Y9DZAOJJ6J57NL26"
     },
     {
-      "id": "4384",
-      "userId": "112",
+      "id": 4384,
+      "userId": 112,
       "date": 1741434929,
       "startDate": 1742002941,
       "endDate": 1773538941,
@@ -49,8 +49,8 @@
       "reference": "HB6K1CA7NZ57XS7Y"
     },
     {
-      "id": "9488",
-      "userId": "117",
+      "id": 9488,
+      "userId": 117,
       "date": 1740013098,
       "startDate": 1738331211,
       "endDate": 1769867211,
@@ -61,8 +61,8 @@
       "reference": "0TI5YKQ5VE8GKCN9"
     },
     {
-      "id": "1383",
-      "userId": "176",
+      "id": 1383,
+      "userId": 176,
       "date": 1735809646,
       "startDate": 1743316112,
       "endDate": 1774852112,
@@ -73,8 +73,8 @@
       "reference": "AYXGFBIRAAJJIU6K"
     },
     {
-      "id": "8631",
-      "userId": "163",
+      "id": 8631,
+      "userId": 163,
       "date": 1743958965,
       "startDate": 1739357599,
       "endDate": 1770893599,
@@ -85,8 +85,8 @@
       "reference": "NJHDTWHFD8R91O6S"
     },
     {
-      "id": "1416",
-      "userId": "127",
+      "id": 1416,
+      "userId": 127,
       "date": 1739090061,
       "startDate": 1741466547,
       "endDate": 1773002547,
@@ -97,8 +97,8 @@
       "reference": "9E6NM48G0F7OZ1I9"
     },
     {
-      "id": "9683",
-      "userId": "127",
+      "id": 9683,
+      "userId": 127,
       "date": 1737289174,
       "startDate": 1742321759,
       "endDate": 1773857759,
@@ -109,8 +109,8 @@
       "reference": "J51KRBDTO2KEJY60"
     },
     {
-      "id": "9388",
-      "userId": "190",
+      "id": 9388,
+      "userId": 190,
       "date": 1742890232,
       "startDate": 1738089368,
       "endDate": 1769625368,
