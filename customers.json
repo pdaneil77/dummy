@@ -1,61 +1,61 @@
 {
   "customers": [
     {
-      "id": "163",
+      "id": 163,
       "name": "Carla Ferreira",
       "email": "carla.ferreira@example.com",
       "createDate": 1737524093
     },
     {
-      "id": "117",
+      "id": 117,
       "name": "Daniel Ramos",
       "email": "daniel.ramos@mail.com",
       "createDate": 1743726726
     },
     {
-      "id": "131",
+      "id": 131,
       "name": "Gabriela Ramos",
       "email": "gabriela.ramos@service.net",
       "createDate": 1737067019
     },
     {
-      "id": "112",
+      "id": 112,
       "name": "Daniel Martins",
       "email": "daniel.martins@company.org",
       "createDate": 1742827676
     },
     {
-      "id": "127",
+      "id": 127,
       "name": "Carla Rocha",
       "email": "carla.rocha@service.net",
       "createDate": 1743041290
     },
     {
-      "id": "178",
+      "id": 178,
       "name": "Filipe Lopes",
       "email": "filipe.lopes@example.com",
       "createDate": 1742648891
     },
     {
-      "id": "176",
+      "id": 176,
       "name": "In\u00eas Martins",
       "email": "in\u00eas.martins@example.com",
       "createDate": 1740386075
     },
     {
-      "id": "198",
+      "id": 198,
       "name": "Daniel Costa",
       "email": "daniel.costa@company.org",
       "createDate": 1740211158
     },
     {
-      "id": "105",
+      "id": 105,
       "name": "Daniel Rocha",
       "email": "daniel.rocha@company.org",
       "createDate": 1740624258
     },
     {
-      "id": "190",
+      "id": 190,
       "name": "Daniel Ferreira",
       "email": "daniel.ferreira@service.net",
       "createDate": 1740005134
