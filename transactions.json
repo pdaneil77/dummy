@@ -1,904 +1,486 @@
 {
   "transactions": [
     {
-      "id": 7428,
-      "userId": 178,
-      "date": 1741875432,
-      "amount": 47.65,
+      "id": 7721,
+      "userId": 128,
+      "date": 1687486753897,
+      "amount": 85.56,
+      "status": "expired",
+      "reference": "YS9QFO4XQOHQTQRT",
+      "product": "100 Credits"
+    },
+    {
+      "id": 6329,
+      "userId": 155,
+      "date": 1667280362607,
+      "amount": 51.54,
+      "status": "cancelled",
+      "reference": "02ZZAC60YQR9NGBL",
+      "product": "Subscription",
+      "subscriptionId": 7029
+    },
+    {
+      "id": 3075,
+      "userId": 142,
+      "date": 1672355844423,
+      "amount": 74.34,
+      "status": "cancelled",
+      "reference": "PWAZS9YC4VL4ABJY",
+      "product": "Subscription",
+      "subscriptionId": 7041
+    },
+    {
+      "id": 8730,
+      "userId": 138,
+      "date": 1727803581661,
+      "amount": 38.25,
+      "status": "active",
+      "reference": "P0PPO0GEIBQCN5LC",
+      "product": "Subscription",
+      "subscriptionId": 8746
+    },
+    {
+      "id": 8874,
+      "userId": 174,
+      "date": 1683531061510,
+      "amount": 72.89,
+      "status": "expired",
+      "reference": "SPVK91565RD9QS4U",
+      "product": "5 GB"
+    },
+    {
+      "id": 7681,
+      "userId": 132,
+      "date": 1693839221946,
+      "amount": 75.45,
+      "status": "active",
+      "reference": "F3W1KRKL3OBSVH2N",
+      "product": "Subscription",
+      "subscriptionId": 3904
+    },
+    {
+      "id": 5485,
+      "userId": 132,
+      "date": 1692248508878,
+      "amount": 90.08,
+      "status": "pending",
+      "reference": "TO7A7XUSXJG85DM1",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 7717,
+      "userId": 146,
+      "date": 1728793711748,
+      "amount": 27.2,
+      "status": "cancelled",
+      "reference": "I47VM508M1CIN20Y",
+      "product": "Subscription",
+      "subscriptionId": 3915
+    },
+    {
+      "id": 9324,
+      "userId": 187,
+      "date": 1686481802548,
+      "amount": 22.84,
+      "status": "cancelled",
+      "reference": "ENYEPH24I55R1I6Y",
+      "product": "100 Credits"
+    },
+    {
+      "id": 6016,
+      "userId": 171,
+      "date": 1691462336706,
+      "amount": 86.87,
       "status": "refund",
-      "product": "500 Credits",
-      "reference": "2LT5PXHBI32IPVQG"
+      "reference": "C57192R8CVYQ92EW",
+      "product": "Subscription",
+      "subscriptionId": 9676
     },
     {
-      "id": 1614,
-      "userId": 127,
-      "date": 1738487472,
-      "amount": 25.29,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "K02DFO25FJY1R0PD"
+      "id": 2979,
+      "userId": 130,
+      "date": 1764041590041,
+      "amount": 33.29,
+      "status": "pending",
+      "reference": "WTFCKDEIXSQ9062X",
+      "product": "100 Credits"
     },
     {
-      "id": 8270,
-      "userId": 198,
-      "date": 1737186989,
-      "amount": 29.15,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "MOQBA7EDXJUEGY1Q"
-    },
-    {
-      "id": 9000,
-      "userId": 131,
-      "date": 1735754477,
-      "amount": 38.3,
+      "id": 7298,
+      "userId": 199,
+      "date": 1748165553660,
+      "amount": 80.48,
       "status": "paid",
-      "product": "10 GB",
-      "reference": "GPV4PHHTT8N3MX7M"
+      "reference": "NXEKEHTQ32RAU1M1",
+      "product": "Unlimited"
     },
     {
-      "id": 9708,
-      "userId": 105,
-      "date": 1740007268,
-      "amount": 49.48,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "V1P5K8M5M13J8R9F"
-    },
-    {
-      "id": 5599,
+      "id": 5883,
       "userId": 176,
-      "date": 1738475441,
-      "amount": 22.9,
+      "date": 1684292936607,
+      "amount": 81.83,
       "status": "refund",
-      "product": "5 GB",
-      "reference": "5MIMJP8674NEIAP1"
+      "reference": "D6ZSR4XKTGKY70Q3",
+      "product": "Subscription",
+      "subscriptionId": 5854
     },
     {
-      "id": 8941,
-      "userId": 131,
-      "date": 1738038400,
-      "amount": 28.27,
+      "id": 2466,
+      "userId": 171,
+      "date": 1725490369140,
+      "amount": 71.6,
       "status": "cancelled",
-      "product": "5 GB",
-      "reference": "2GMAQGHXIBBHYPOC"
+      "reference": "U5TVO9OSNTT5UK06",
+      "product": "5 GB"
     },
     {
-      "id": 1676,
-      "userId": 176,
-      "date": 1737064480,
-      "amount": 24.65,
+      "id": 2424,
+      "userId": 122,
+      "date": 1716160546757,
+      "amount": 62.6,
       "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "C3T3W53BJECRWORT"
+      "reference": "R8OJQ0PZLSGP061Q",
+      "product": "Subscription",
+      "subscriptionId": 1280
     },
     {
-      "id": 3059,
-      "userId": 105,
-      "date": 1739057275,
-      "amount": 21.82,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "RUZCXQS5EQF0PFNM"
-    },
-    {
-      "id": 9984,
-      "userId": 131,
-      "date": 1739151045,
-      "amount": 47.15,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "984O4JAVEHCJIHWH"
-    },
-    {
-      "id": 2650,
-      "userId": 176,
-      "date": 1736476527,
-      "amount": 17.58,
+      "id": 1323,
+      "userId": 126,
+      "date": 1734129336289,
+      "amount": 83.32,
       "status": "refund",
-      "product": "10 GB",
-      "reference": "JSGGKJMWP2JDV71X"
+      "reference": "0YYWXXH6EO3CVMZS",
+      "product": "5 GB"
     },
     {
-      "id": 1858,
-      "userId": 198,
-      "date": 1742517495,
-      "amount": 12.9,
+      "id": 9171,
+      "userId": 116,
+      "date": 1704351507460,
+      "amount": 42.89,
       "status": "cancelled",
-      "product": "10 GB",
-      "reference": "RW3B8E88ZAM7GOF8"
+      "reference": "QMTQMHEAI8W16I2I",
+      "product": "1000 Credits"
     },
     {
-      "id": 9012,
-      "userId": 176,
-      "date": 1743962811,
-      "amount": 22.65,
+      "id": 4544,
+      "userId": 190,
+      "date": 1744728644062,
+      "amount": 79.23,
+      "status": "active",
+      "reference": "YDZQR7HGGU9OTE6M",
+      "product": "Subscription",
+      "subscriptionId": 1334
+    },
+    {
+      "id": 8474,
+      "userId": 194,
+      "date": 1729349814434,
+      "amount": 44.21,
+      "status": "pending",
+      "reference": "D3TI8N51M3OURYUY",
+      "product": "Subscription",
+      "subscriptionId": 7604
+    },
+    {
+      "id": 1878,
+      "userId": 152,
+      "date": 1731458632767,
+      "amount": 77.48,
       "status": "cancelled",
-      "product": "10 GB",
-      "reference": "2ZA6DO0YC9CVZGW6"
+      "reference": "0MNRC4H4WDE9E0H3",
+      "product": "Unlimited"
     },
     {
-      "id": 7289,
-      "userId": 163,
-      "date": 1742921544,
-      "amount": 49.8,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "92V6TMVOV3F43TFK"
+      "id": 6723,
+      "userId": 191,
+      "date": 1717950181803,
+      "amount": 70.13,
+      "status": "refund",
+      "reference": "SME0JZTSOVFYXAL6",
+      "product": "Subscription",
+      "subscriptionId": 3323
     },
     {
-      "id": 8490,
-      "userId": 198,
-      "date": 1743550664,
-      "amount": 21.35,
+      "id": 7399,
+      "userId": 146,
+      "date": 1703526791385,
+      "amount": 85.44,
+      "status": "active",
+      "reference": "KVZ6QZGNARQGAR6M",
+      "product": "10 GB"
+    },
+    {
+      "id": 5896,
+      "userId": 166,
+      "date": 1685339462870,
+      "amount": 57.77,
       "status": "cancelled",
-      "product": "5 GB",
-      "reference": "JVXY0KBPENVE2QEC"
+      "reference": "TFPARU7OOHZHRZP9",
+      "product": "100 Credits"
     },
     {
-      "id": 1868,
-      "userId": 176,
-      "date": 1736262690,
-      "amount": 29.09,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "XMEVGO9ZDSCKOYD1"
-    },
-    {
-      "id": 9017,
-      "userId": 117,
-      "date": 1736083275,
-      "amount": 27.8,
+      "id": 8360,
+      "userId": 166,
+      "date": 1727843174294,
+      "amount": 74.45,
       "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "KQMKOKATHZSG9HBZ"
+      "reference": "9W1EGC06Q1TD76XZ",
+      "product": "5 GB"
     },
     {
-      "id": 2784,
+      "id": 4660,
+      "userId": 190,
+      "date": 1713521686112,
+      "amount": 48.56,
+      "status": "expired",
+      "reference": "FEMK5BHNBYYNPLDV",
+      "product": "100 Credits"
+    },
+    {
+      "id": 1435,
       "userId": 127,
-      "date": 1736493052,
-      "amount": 49.07,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "4OFXM8DPLKC8H6PW"
+      "date": 1752888685782,
+      "amount": 81.73,
+      "status": "active",
+      "reference": "ML8XTLNTNCQZWCZP",
+      "product": "1000 Credits"
     },
     {
-      "id": 8747,
-      "userId": 112,
-      "date": 1740755035,
-      "amount": 35.85,
+      "id": 6718,
+      "userId": 122,
+      "date": 1739134369521,
+      "amount": 96.96,
+      "status": "pending",
+      "reference": "VXG67R28X2M3XDBS",
+      "product": "Subscription",
+      "subscriptionId": 6569
+    },
+    {
+      "id": 4449,
+      "userId": 190,
+      "date": 1709254974676,
+      "amount": 89.86,
+      "status": "paid",
+      "reference": "RWHEQDWMTJ85JZUG",
+      "product": "Subscription",
+      "subscriptionId": 6450
+    },
+    {
+      "id": 8853,
+      "userId": 190,
+      "date": 1652484019901,
+      "amount": 55.14,
+      "status": "paid",
+      "reference": "MHWHWPAGYHWXO98E",
+      "product": "Subscription",
+      "subscriptionId": 8710
+    },
+    {
+      "id": 9340,
+      "userId": 152,
+      "date": 1734153022246,
+      "amount": 80.29,
+      "status": "paid",
+      "reference": "W31WSFX3CD934U7I",
+      "product": "Subscription",
+      "subscriptionId": 8657
+    },
+    {
+      "id": 6062,
+      "userId": 175,
+      "date": 1727889536653,
+      "amount": 31.12,
+      "status": "paid",
+      "reference": "MPUI4ZKCKESI2LUD",
+      "product": "Subscription",
+      "subscriptionId": 7676
+    },
+    {
+      "id": 2058,
+      "userId": 179,
+      "date": 1701546190099,
+      "amount": 72.45,
+      "status": "paid",
+      "reference": "CLP25QP9O414A214",
+      "product": "Subscription",
+      "subscriptionId": 1334
+    },
+    {
+      "id": 7180,
+      "userId": 137,
+      "date": 1711297908787,
+      "amount": 41.69,
+      "status": "paid",
+      "reference": "Q641EZVM61XHLC38",
+      "product": "Subscription",
+      "subscriptionId": 4763
+    },
+    {
+      "id": 8714,
+      "userId": 166,
+      "date": 1702308491314,
+      "amount": 46.73,
+      "status": "active",
+      "reference": "4CX6TZ7RU6AT2TPM",
+      "product": "Subscription",
+      "subscriptionId": 1280
+    },
+    {
+      "id": 1243,
+      "userId": 132,
+      "date": 1756113668848,
+      "amount": 31.3,
+      "status": "active",
+      "reference": "9NFWR6AKRSH22QC0",
+      "product": "5 GB"
+    },
+    {
+      "id": 9674,
+      "userId": 142,
+      "date": 1695788382295,
+      "amount": 39.96,
+      "status": "cancelled",
+      "reference": "00LEW1R144SP6JCP",
+      "product": "5 GB"
+    },
+    {
+      "id": 2756,
+      "userId": 190,
+      "date": 1677304259022,
+      "amount": 44.68,
+      "status": "pending",
+      "reference": "BBVRDGH1BOY2JI93",
+      "product": "Subscription",
+      "subscriptionId": 5854
+    },
+    {
+      "id": 4196,
+      "userId": 125,
+      "date": 1687791300110,
+      "amount": 74.51,
       "status": "refund",
-      "product": "10 GB",
-      "reference": "H7DRKE3EAYN9J5HZ"
+      "reference": "HQP8V7IW6PGGHOXX",
+      "product": "Subscription",
+      "subscriptionId": 3940
     },
     {
-      "id": 6910,
-      "userId": 198,
-      "date": 1740453962,
-      "amount": 38.81,
+      "id": 5875,
+      "userId": 159,
+      "date": 1759127930293,
+      "amount": 80.05,
       "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "UU0ILEL68QA14858"
+      "reference": "ZMULO13ZDCD7RZHE",
+      "product": "Subscription",
+      "subscriptionId": 9676
     },
     {
-      "id": 5023,
-      "userId": 105,
-      "date": 1740353092,
-      "amount": 26.9,
+      "id": 9930,
+      "userId": 122,
+      "date": 1719655649002,
+      "amount": 43.64,
       "status": "refund",
-      "product": "100 Credits",
-      "reference": "7SGWV2ZK6IFTH6BO"
+      "reference": "L69SX4Y72HBQA5A9",
+      "product": "Subscription",
+      "subscriptionId": 7029
     },
     {
-      "id": 1163,
-      "userId": 127,
-      "date": 1742181421,
-      "amount": 41.43,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "31NAL3TC56ARQ8JQ"
+      "id": 3839,
+      "userId": 183,
+      "date": 1740869498061,
+      "amount": 42.16,
+      "status": "pending",
+      "reference": "ZBP24JO6LUEY7GNE",
+      "product": "Subscription",
+      "subscriptionId": 9787
     },
     {
-      "id": 5350,
-      "userId": 112,
-      "date": 1740659930,
-      "amount": 32.75,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "4FMNSDBQAO45WQJG"
+      "id": 1298,
+      "userId": 110,
+      "date": 1694624515854,
+      "amount": 36.1,
+      "status": "active",
+      "reference": "XS9O066P1I7CTMDJ",
+      "product": "Subscription",
+      "subscriptionId": 9053
     },
     {
-      "id": 5167,
-      "userId": 117,
-      "date": 1740916296,
-      "amount": 39.34,
+      "id": 4694,
+      "userId": 128,
+      "date": 1643773604797,
+      "amount": 47.22,
       "status": "cancelled",
-      "product": "10 GB",
-      "reference": "8ZZ3XRGUTHARLJPH"
+      "reference": "O8UC05G3Y2B28P3H",
+      "product": "Subscription",
+      "subscriptionId": 6419
     },
     {
-      "id": 3639,
-      "userId": 178,
-      "date": 1736904495,
-      "amount": 36.57,
+      "id": 3447,
+      "userId": 170,
+      "date": 1654171470993,
+      "amount": 40.14,
       "status": "paid",
-      "product": "10 GB",
-      "reference": "QYWET3DVO86LDIQX"
+      "reference": "X5MVHOYX23GBE5QY",
+      "product": "10 GB"
     },
     {
-      "id": 5153,
-      "userId": 163,
-      "date": 1741769821,
-      "amount": 48.23,
+      "id": 9682,
+      "userId": 109,
+      "date": 1663474545984,
+      "amount": 45.36,
+      "status": "pending",
+      "reference": "UJSOET3QVVV4IOAP",
+      "product": "Subscription",
+      "subscriptionId": 7593
+    },
+    {
+      "id": 6701,
+      "userId": 155,
+      "date": 1683860475514,
+      "amount": 35.12,
       "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "HLW276E4BMKZFRCX"
+      "reference": "N2O7LCQAZBJFCRAI",
+      "product": "Subscription",
+      "subscriptionId": 8657
     },
     {
-      "id": "3491",
-      "userId": "176",
-      "date": 1739711415,
-      "amount": 20.33,
+      "id": 5783,
+      "userId": 165,
+      "date": 1703918043632,
+      "amount": 94.85,
+      "status": "expired",
+      "reference": "LUEKTNN9NV1UKLAV",
+      "product": "Subscription",
+      "subscriptionId": 5854
+    },
+    {
+      "id": 9091,
+      "userId": 130,
+      "date": 1709124557267,
+      "amount": 70.77,
       "status": "cancelled",
-      "product": "5 GB",
-      "reference": "CMVCRQEV26YWAFZ5"
+      "reference": "9WSSJ696T50UDF5V",
+      "product": "Subscription",
+      "subscriptionId": 2569
     },
     {
-      "id": 9215,
-      "userId": 131,
-      "date": 1737889553,
-      "amount": 29.48,
+      "id": 7424,
+      "userId": 138,
+      "date": 1648109756365,
+      "amount": 55.02,
+      "status": "expired",
+      "reference": "RZ54P8OE1EHI4GU9",
+      "product": "Subscription",
+      "subscriptionId": 9676
+    },
+    {
+      "id": 1452,
+      "userId": 116,
+      "date": 1748386959756,
+      "amount": 48.52,
       "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "VNU9TBCP3CA7LI5K"
-    },
-    {
-      "id": 4018,
-      "userId": 163,
-      "date": 1743021732,
-      "amount": 17.87,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "L9S0UXPW948CFMBI"
-    },
-    {
-      "id": 8138,
-      "userId": 127,
-      "date": 1743830306,
-      "amount": 48.76,
-      "status": "refund",
-      "product": "5 GB",
-      "reference": "Z5I31ANJ8DPZZQM3"
-    },
-    {
-      "id": 6572,
-      "userId": 105,
-      "date": 1737147890,
-      "amount": 31.27,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "SV7F6OBIW3410N9C"
-    },
-    {
-      "id": 9022,
-      "userId": 127,
-      "date": 1736316736,
-      "amount": 37.89,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "PW6F7Q0PXBLS7J1G"
-    },
-    {
-      "id": 5516,
-      "userId": 163,
-      "date": 1738474748,
-      "amount": 12.82,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "OVVNFAVYXBRZ0K8I"
-    },
-    {
-      "id": 6570,
-      "userId": 131,
-      "date": 1737426207,
-      "amount": 16.58,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "XH51HTLNHVXG4F6E"
-    },
-    {
-      "id": 5798,
-      "userId": 131,
-      "date": 1743725385,
-      "amount": 11.4,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "8B0JMOEP2BC42KF3"
-    },
-    {
-      "id": 8519,
-      "userId": 198,
-      "date": 1736840649,
-      "amount": 35.93,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "RG90HW73FKPD4MYN"
-    },
-    {
-      "id": 5447,
-      "userId": 176,
-      "date": 1742618933,
-      "amount": 18.78,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "FUU6C9NVIF6V7BCY"
-    },
-    {
-      "id": 3850,
-      "userId": 198,
-      "date": 1740641785,
-      "amount": 39.48,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "PJM3H0JBJW9BMNBI"
-    },
-    {
-      "id": 8681,
-      "userId": 131,
-      "date": 1736389169,
-      "amount": 20.86,
-      "status": "paid",
-      "product": "5 GB",
-      "reference": "ISWHL5048WFW2L2C"
-    },
-    {
-      "id": 7233,
-      "userId": 178,
-      "date": 1737125868,
-      "amount": 49.98,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "FKQ3KQO7M0NRXR25"
-    },
-    {
-      "id": 4833,
-      "userId": 105,
-      "date": 1742255397,
-      "amount": 37.23,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "WAJS2RHA4NLIVCVC"
-    },
-    {
-      "id": 5017,
-      "userId": 178,
-      "date": 1737743538,
-      "amount": 24.46,
-      "status": "refund",
-      "product": "5 GB",
-      "reference": "F6U49ZOFGEYL0CMG"
-    },
-    {
-      "id": 1425,
-      "userId": 131,
-      "date": 1736192313,
-      "amount": 26.51,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "VNUJRUS6H5LU62J5"
-    },
-    {
-      "id": 9893,
-      "userId": 131,
-      "date": 1744140852,
-      "amount": 28.06,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "Z145J4MWP3CGJ4DP"
-    },
-    {
-      "id": 8254,
-      "userId": 131,
-      "date": 1743804368,
-      "amount": 32.87,
-      "status": "refund",
-      "product": "5 GB",
-      "reference": "C0ZFOGOA7WO9X04O"
-    },
-    {
-      "id": 4133,
-      "userId": 105,
-      "date": 1737239505,
-      "amount": 11.67,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "AVEV36YS3T67RZBO"
-    },
-    {
-      "id": 5777,
-      "userId": 178,
-      "date": 1737255109,
-      "amount": 47.27,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "QZ055JMFO6K9WQYL"
-    },
-    {
-      "id": 2050,
-      "userId": 127,
-      "date": 1736690388,
-      "amount": 13.59,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "I2IKVG9UQG9RAZLH"
-    },
-    {
-      "id": 5775,
-      "userId": 131,
-      "date": 1739632983,
-      "amount": 23.91,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "MVPWO6QVIEDEIDBP"
-    },
-    {
-      "id": 2885,
-      "userId": 131,
-      "date": 1738944895,
-      "amount": 41.41,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "J29EN7GN1QXKBVPU"
-    },
-    {
-      "id": 1884,
-      "userId": 178,
-      "date": 1741982509,
-      "amount": 43.68,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "P9E6WZTOBMZGO44I"
-    },
-    {
-      "id": 1783,
-      "userId": 117,
-      "date": 1739818002,
-      "amount": 26.47,
-      "status": "paid",
-      "product": "5 GB",
-      "reference": "ZZARFQ1K8MTR6X8Q"
-    },
-    {
-      "id": 6063,
-      "userId": 163,
-      "date": 1739330668,
-      "amount": 20.95,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "OVMZLPT8Y34M9ZIB"
-    },
-    {
-      "id": 8561,
-      "userId": 127,
-      "date": 1736944520,
-      "amount": 26.23,
-      "status": "refund",
-      "product": "500 Credits",
-      "reference": "V31ZVMHFT9BOQNV4"
-    },
-    {
-      "id": 5476,
-      "userId": 117,
-      "date": 1736239709,
-      "amount": 21.25,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "0BD4Q0DECPRYLGZ8"
-    },
-    {
-      "id": 3050,
-      "userId": 163,
-      "date": 1736899509,
-      "amount": 26.07,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "VIQN9N2014TJGVQB"
-    },
-    {
-      "id": 5805,
-      "userId": 105,
-      "date": 1736508885,
-      "amount": 48.92,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "6VKE8TZGXTIXFJEI"
-    },
-    {
-      "id": 8863,
-      "userId": 163,
-      "date": 1735970715,
-      "amount": 11.02,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "IIBK7EBJYUHB62TU"
-    },
-    {
-      "id": 6960,
-      "userId": 127,
-      "date": 1739767775,
-      "amount": 12.1,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "J961NE4VJQ4MHPCG"
-    },
-    {
-      "id": 5602,
-      "userId": 198,
-      "date": 1737068614,
-      "amount": 13.22,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "ESP0L6MVUVDG0I8G"
-    },
-    {
-      "id": 5110,
-      "userId": 112,
-      "date": 1743357578,
-      "amount": 22.78,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "IJK02F2D0UK0A3T8"
-    },
-    {
-      "id": 3516,
-      "userId": 131,
-      "date": 1741453571,
-      "amount": 45.52,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "X391DJ4U2L2AXSU5"
-    },
-    {
-      "id": 3182,
-      "userId": 131,
-      "date": 1740578381,
-      "amount": 15.24,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "X60W3BO3J6HDZQDN"
-    },
-    {
-      "id": 7698,
-      "userId": 105,
-      "date": 1741563769,
-      "amount": 48.53,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "GB91L42PMUW8W3EZ"
-    },
-    {
-      "id": 7865,
-      "userId": 198,
-      "date": 1736297949,
-      "amount": 41.61,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "B5JPGT6HJAMIVXZ1"
-    },
-    {
-      "id": 6787,
-      "userId": 127,
-      "date": 1739855237,
-      "amount": 37.07,
-      "status": "refund",
-      "product": "500 Credits",
-      "reference": "AWO5UOUL0VS0JUU3"
-    },
-    {
-      "id": 2796,
-      "userId": 117,
-      "date": 1736428798,
-      "amount": 18.39,
-      "status": "refund",
-      "product": "500 Credits",
-      "reference": "S7HPB5MQSVEMXZ41"
-    },
-    {
-      "id": 7151,
-      "userId": 112,
-      "date": 1741264313,
-      "amount": 24.89,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "WKACZUR4DGB75OU4"
-    },
-    {
-      "id": 9615,
-      "userId": 105,
-      "date": 1736015323,
-      "amount": 48.36,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "9FP6XDTBR81BIW69"
-    },
-    {
-      "id": 2621,
-      "userId": 178,
-      "date": 1743421412,
-      "amount": 30.58,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "INVJ1GQI2ROGS142"
-    },
-    {
-      "id": 5423,
-      "userId": 105,
-      "date": 1739120576,
-      "amount": 45.54,
-      "status": "refund",
-      "product": "5 GB",
-      "reference": "WOPF0C1S3RI9YM2H"
-    },
-    {
-      "id": 8916,
-      "userId": 112,
-      "date": 1741668514,
-      "amount": 47.07,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "XFBNJ70VSG9ACF67"
-    },
-    {
-      "id": 5395,
-      "userId": 178,
-      "date": 1738944208,
-      "amount": 40.49,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "14KKXBSBO4STMG3O"
-    },
-    {
-      "id": 5299,
-      "userId": 131,
-      "date": 1740559835,
-      "amount": 16.88,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "LX5BAG4H5EMOBIHI"
-    },
-    {
-      "id": 4387,
-      "userId": 105,
-      "date": 1738107032,
-      "amount": 22.92,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "O441V5UV5RP2LIDC"
-    },
-    {
-      "id": 1349,
-      "userId": 163,
-      "date": 1740026726,
-      "amount": 26.96,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "7A2O4C3RERJSORRL"
-    },
-    {
-      "id": 7007,
-      "userId": 198,
-      "date": 1737360841,
-      "amount": 15.61,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "VZ8E3A3SCUCX7N54"
-    },
-    {
-      "id": 5758,
-      "userId": 112,
-      "date": 1735696477,
-      "amount": 11.97,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "ACF1H9NGZYMLF6DP"
-    },
-    {
-      "id": 1769,
-      "userId": 198,
-      "date": 1739439743,
-      "amount": 35.86,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "EMLSZE101ZE6WIQJ"
-    },
-    {
-      "id": 2444,
-      "userId": 178,
-      "date": 1736746562,
-      "amount": 31.93,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "U2SLOMFFSAF2P9I9"
-    },
-    {
-      "id": 6344,
-      "userId": 178,
-      "date": 1742783615,
-      "amount": 21.79,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "3TUXFNECVEZVQ1PR"
-    },
-    {
-      "id": 7400,
-      "userId": 176,
-      "date": 1740336262,
-      "amount": 25.18,
-      "status": "cancelled",
-      "product": "500 Credits",
-      "reference": "7NWVRGAT8X9Z1Y2P"
-    },
-    {
-      "id": 4709,
-      "userId": 176,
-      "date": 1742143111,
-      "amount": 36.92,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "1NBL2KBZSGGJB4YB"
-    },
-    {
-      "id": 3845,
-      "userId": 163,
-      "date": 1741234152,
-      "amount": 20.45,
-      "status": "refund",
-      "product": "500 Credits",
-      "reference": "TMUADM2NQ2QPJRGM"
-    },
-    {
-      "id": 5277,
-      "userId": 163,
-      "date": 1737981219,
-      "amount": 28.08,
-      "status": "refund",
-      "product": "100 Credits",
-      "reference": "356J6ZIJX7WYJU2Q"
-    },
-    {
-      "id": 7580,
-      "userId": 131,
-      "date": 1737207998,
-      "amount": 38.33,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "Y6DDHGOCP4VGMLIZ"
-    },
-    {
-      "id": 4945,
-      "userId": 112,
-      "date": 1743486562,
-      "amount": 23.31,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "F407NCGOT7GKFSRX"
-    },
-    {
-      "id": 5982,
-      "userId": 178,
-      "date": 1736670959,
-      "amount": 40.16,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "5FMZ2921SS0PU6K0"
-    },
-    {
-      "id": 3925,
-      "userId": 163,
-      "date": 1742446505,
-      "amount": 41.0,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "ORE1E6EYOABSFFK8"
-    },
-    {
-      "id": 7486,
-      "userId": 163,
-      "date": 1738177993,
-      "amount": 17.99,
-      "status": "refund",
-      "product": "5 GB",
-      "reference": "BSQ6HGH39TZ48TQ6"
-    },
-    {
-      "id": 5069,
-      "userId": 163,
-      "date": 1743939537,
-      "amount": 16.73,
-      "status": "cancelled",
-      "product": "5 GB",
-      "reference": "P1BTV13HEI87BL4A"
-    },
-    {
-      "id": 8128,
-      "userId": 131,
-      "date": 1736826656,
-      "amount": 18.28,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "KTTOUHCFNL88C5GZ"
-    },
-    {
-      "id": 4496,
-      "userId": 117,
-      "date": 1742493880,
-      "amount": 46.89,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "H2CBALVGWNRCUZWV"
-    },
-    {
-      "id": 2370,
-      "userId": 117,
-      "date": 1739880834,
-      "amount": 45.14,
-      "status": "paid",
-      "product": "10 GB",
-      "reference": "KZ7R370OMWGVQWPZ"
-    },
-    {
-      "id": 1304,
-      "userId": 117,
-      "date": 1743341967,
-      "amount": 10.73,
-      "status": "paid",
-      "product": "500 Credits",
-      "reference": "Y46CMSQSCU1M8H70"
-    },
-    {
-      "id": 4127,
-      "userId": 127,
-      "date": 1740781565,
-      "amount": 34.38,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "S89LI0SQCCWVWFF3"
-    },
-    {
-      "id": 9062,
-      "userId": 198,
-      "date": 1738534507,
-      "amount": 16.53,
-      "status": "cancelled",
-      "product": "10 GB",
-      "reference": "0HY97YC0PEN299BY"
-    },
-    {
-      "id": 9569,
-      "userId": 176,
-      "date": 1743248242,
-      "amount": 25.36,
-      "status": "cancelled",
-      "product": "100 Credits",
-      "reference": "PLXUM3LBMNP1Q3VU"
-    },
-    {
-      "id": 8869,
-      "userId": 131,
-      "date": 1741563452,
-      "amount": 24.61,
-      "status": "refund",
-      "product": "10 GB",
-      "reference": "UYMDK62KNZKNYKAG"
-    },
-    {
-      "id": 3071,
-      "userId": 176,
-      "date": 1737236067,
-      "amount": 35.44,
-      "status": "paid",
-      "product": "100 Credits",
-      "reference": "60X5L1ZS6ZA59I3H"
+      "reference": "COP0S96H19MS4LVL",
+      "product": "Subscription",
+      "subscriptionId": 7593
     }
   ]
 }
