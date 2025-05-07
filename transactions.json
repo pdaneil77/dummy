@@ -1,1904 +1,4861 @@
 {
   "transactions": [
     {
-      "id": 5427,
-      "userId": 107,
-      "date": "2024-07-13",
-      "amount": 31.97,
-      "status": "pending",
-      "reference": "RMFLV4QBJ49BJ508",
-      "product": "100 Credits"
-    },
-    {
-      "id": 7564,
-      "userId": 121,
-      "date": "2025-02-05",
-      "amount": 36.4,
-      "status": "expired",
-      "reference": "IATNHIZEYTZ1GO4U",
-      "product": "500 Credits"
-    },
-    {
-      "id": 3696,
-      "userId": 134,
-      "date": "2025-02-20",
-      "amount": 29.39,
-      "status": "active",
-      "reference": "V66AYAW9Q31K16LI",
-      "product": "Subscription",
-      "subscriptionId": 9538
-    },
-    {
-      "id": 4201,
-      "userId": 133,
-      "date": "2024-10-06",
-      "amount": 48.97,
-      "status": "active",
-      "reference": "CJR7ZOL5WFE8Y7XC",
-      "product": "Subscription",
-      "subscriptionId": 7642
-    },
-    {
-      "id": 3980,
-      "userId": 137,
-      "date": "2025-02-02",
-      "amount": 71.64,
-      "status": "refund",
-      "reference": "LSJGXOP9AS8TYCQ0",
-      "product": "Subscription",
-      "subscriptionId": 5833
-    },
-    {
-      "id": 3475,
-      "userId": 150,
-      "date": "2024-06-18",
-      "amount": 77.47,
-      "status": "paid",
-      "reference": "Q2NQXBFYGHIPAP9H",
-      "product": "500 Credits"
-    },
-    {
-      "id": 6854,
-      "userId": 150,
-      "date": "2024-05-17",
-      "amount": 48.86,
-      "status": "pending",
-      "reference": "F1YFAF865SVBW7CV",
-      "product": "10 GB"
-    },
-    {
-      "id": 6497,
-      "userId": 146,
-      "date": "2024-08-21",
-      "amount": 27.97,
-      "status": "cancelled",
-      "reference": "EM2WECFQUSJPSZI2",
-      "product": "Subscription",
-      "subscriptionId": 1668
-    },
-    {
-      "id": 8952,
-      "userId": 148,
-      "date": "2024-08-13",
-      "amount": 68.03,
-      "status": "cancelled",
-      "reference": "07KQKQYNEWDIQD3Q",
-      "product": "Subscription",
-      "subscriptionId": 1646
-    },
-    {
-      "id": 1033,
-      "userId": 111,
-      "date": "2025-02-09",
-      "amount": 45.28,
-      "status": "pending",
-      "reference": "UVO4UUZKITUEBKVM",
-      "product": "10 GB"
-    },
-    {
-      "id": 9830,
-      "userId": 133,
-      "date": "2024-08-09",
-      "amount": 23.69,
-      "status": "pending",
-      "reference": "CS3YGBYVECHXYOLU",
-      "product": "Subscription",
-      "subscriptionId": 1552
-    },
-    {
-      "id": 5731,
-      "userId": 186,
-      "date": "2024-10-21",
-      "amount": 70.7,
-      "status": "refund",
-      "reference": "CFSZXNOJ9WMM5NSK",
-      "product": "10 GB"
-    },
-    {
-      "id": 7761,
+      "id": 8101,
       "userId": 160,
-      "date": "2025-03-20",
-      "amount": 96.66,
-      "status": "pending",
-      "reference": "S91A6XITBNWMPQLJ",
-      "product": "Unlimited"
-    },
-    {
-      "id": 7271,
-      "userId": 123,
-      "date": "2024-12-12",
-      "amount": 91.1,
-      "status": "cancelled",
-      "reference": "51TQ7O06WY9AEZBQ",
-      "product": "Subscription",
-      "subscriptionId": 6217
-    },
-    {
-      "id": 2463,
-      "userId": 181,
-      "date": "2024-08-24",
-      "amount": 30.69,
+      "date": "2024-11-24",
+      "amount": 84.84,
       "status": "refund",
-      "reference": "LW6PLA0BG2HFE4GW",
-      "product": "500 Credits"
+      "reference": "2S8MUMZJPGTW88X8",
+      "product": "Subscription",
+      "subscriptionId": 9841
     },
     {
-      "id": 2346,
-      "userId": 159,
-      "date": "2024-08-31",
-      "amount": 65.82,
-      "status": "expired",
-      "reference": "HZRWE8O3UFHNNSIX",
-      "product": "10 GB"
-    },
-    {
-      "id": 3112,
+      "id": 7448,
       "userId": 132,
-      "date": "2024-09-21",
-      "amount": 73.94,
+      "date": "2024-11-29",
+      "amount": 87.05,
       "status": "expired",
-      "reference": "4WTOHJXEBJMP1RA9",
-      "product": "Subscription",
-      "subscriptionId": 8957
+      "reference": "CQ0EMFQMAXZ7UAZP",
+      "product": "5 GB"
     },
     {
-      "id": 5239,
-      "userId": 166,
-      "date": "2025-03-26",
-      "amount": 20.26,
-      "status": "expired",
-      "reference": "NZ32ZRNUJ4V6JXXL",
-      "product": "Subscription",
-      "subscriptionId": 4288
-    },
-    {
-      "id": 2848,
-      "userId": 163,
-      "date": "2024-06-26",
-      "amount": 58.2,
-      "status": "cancelled",
-      "reference": "YX3EBZD3TCL3GTSS",
-      "product": "Subscription",
-      "subscriptionId": 6837
-    },
-    {
-      "id": 2171,
-      "userId": 175,
-      "date": "2024-08-25",
-      "amount": 27.14,
-      "status": "cancelled",
-      "reference": "SWAWZSHE21G5JDL7",
-      "product": "Subscription",
-      "subscriptionId": 5533
-    },
-    {
-      "id": 8592,
-      "userId": 167,
-      "date": "2024-08-23",
-      "amount": 60.63,
-      "status": "expired",
-      "reference": "OD9B4GHQZV9CAZ69",
-      "product": "Subscription",
-      "subscriptionId": 6837
-    },
-    {
-      "id": 4189,
-      "userId": 177,
-      "date": "2025-01-29",
-      "amount": 92.8,
-      "status": "pending",
-      "reference": "LG8K3IM35GYHE0XN",
-      "product": "Subscription",
-      "subscriptionId": 9894
-    },
-    {
-      "id": 5694,
-      "userId": 136,
-      "date": "2025-04-18",
-      "amount": 33.64,
+      "id": 2307,
+      "userId": 143,
+      "date": "2024-05-21",
+      "amount": 69.96,
       "status": "paid",
-      "reference": "T0ETA4WIDK85HXM3",
+      "reference": "GXGKHCSREVXVB4US",
+      "product": "Subscription",
+      "subscriptionId": 6234
+    },
+    {
+      "id": 5494,
+      "userId": 106,
+      "date": "2025-03-28",
+      "amount": 73.6,
+      "status": "refund",
+      "reference": "ZBBFDHMU7K15D0NW",
+      "product": "Subscription",
+      "subscriptionId": 1925
+    },
+    {
+      "id": 7258,
+      "userId": 145,
+      "date": "2025-02-07",
+      "amount": 66.94,
+      "status": "refund",
+      "reference": "9HH3L7JG1K0WXYZV",
+      "product": "Subscription",
+      "subscriptionId": 1817
+    },
+    {
+      "id": 3836,
+      "userId": 167,
+      "date": "2024-10-05",
+      "amount": 50.51,
+      "status": "active",
+      "reference": "65QIQLXHX886Y4BB",
+      "product": "Subscription",
+      "subscriptionId": 9841
+    },
+    {
+      "id": 8852,
+      "userId": 183,
+      "date": "2024-08-27",
+      "amount": 50.88,
+      "status": "active",
+      "reference": "47QK886HUVA0NBYE",
+      "product": "Subscription",
+      "subscriptionId": 3614
+    },
+    {
+      "id": 9977,
+      "userId": 124,
+      "date": "2024-01-08",
+      "amount": 52.33,
+      "status": "paid",
+      "reference": "UTIFQA87JS3XOAZV",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 5340,
+      "userId": 163,
+      "date": "2024-02-14",
+      "amount": 27.83,
+      "status": "expired",
+      "reference": "5T06C059REQAEGEF",
       "product": "1000 Credits"
     },
     {
-      "id": 7684,
-      "userId": 198,
-      "date": "2025-04-20",
-      "amount": 39.24,
-      "status": "active",
-      "reference": "HMW1W7C6ZTJKJU8X",
+      "id": 7155,
+      "userId": 147,
+      "date": "2024-01-06",
+      "amount": 97.24,
+      "status": "cancelled",
+      "reference": "TJ5NBI0GIPW7BFJ5",
       "product": "Subscription",
-      "subscriptionId": 2759
+      "subscriptionId": 2994
     },
     {
-      "id": 7183,
-      "userId": 117,
-      "date": "2024-06-21",
-      "amount": 98.69,
-      "status": "pending",
-      "reference": "XEI156NEX8DEU0GO",
+      "id": 8188,
+      "userId": 100,
+      "date": "2024-02-18",
+      "amount": 57.31,
+      "status": "cancelled",
+      "reference": "C9N1YL609BP44R65",
       "product": "100 Credits"
     },
     {
-      "id": 9599,
-      "userId": 139,
-      "date": "2025-01-29",
-      "amount": 42.36,
-      "status": "active",
-      "reference": "MI750QQLJD9SC972",
-      "product": "100 Credits"
-    },
-    {
-      "id": 8846,
-      "userId": 126,
-      "date": "2025-04-05",
-      "amount": 21.13,
-      "status": "cancelled",
-      "reference": "FCOAG1S1T0T8SLFA",
-      "product": "Subscription",
-      "subscriptionId": 7036
-    },
-    {
-      "id": 2146,
-      "userId": 101,
-      "date": "2025-01-21",
-      "amount": 66.28,
-      "status": "cancelled",
-      "reference": "VJBO70LB6ID3F5AR",
-      "product": "Subscription",
-      "subscriptionId": 2429
-    },
-    {
-      "id": 3215,
-      "userId": 178,
-      "date": "2025-02-17",
-      "amount": 27.54,
-      "status": "paid",
-      "reference": "S1VWTEQ6DMOFQXF7",
-      "product": "Subscription",
-      "subscriptionId": 5533
-    },
-    {
-      "id": 6178,
-      "userId": 176,
-      "date": "2024-10-18",
-      "amount": 64.97,
+      "id": 2393,
+      "userId": 137,
+      "date": "2024-12-26",
+      "amount": 56.74,
       "status": "refund",
-      "reference": "FIW6PDBXA4U6G7LU",
-      "product": "500 Credits"
+      "reference": "LSO1GB3Z465RBULX",
+      "product": "Subscription",
+      "subscriptionId": 7851
     },
     {
-      "id": 7097,
-      "userId": 110,
-      "date": "2024-08-27",
-      "amount": 20.2,
+      "id": 5961,
+      "userId": 135,
+      "date": "2024-06-30",
+      "amount": 27.98,
       "status": "active",
-      "reference": "HFQWMJKS51E8ODNE",
+      "reference": "CR1WP031T8PQ4IS9",
       "product": "Subscription",
-      "subscriptionId": 4351
+      "subscriptionId": 9165
     },
     {
-      "id": 4142,
-      "userId": 161,
-      "date": "2025-02-08",
-      "amount": 76.64,
-      "status": "pending",
-      "reference": "VR6Z1Z9L5DYBWJSP",
-      "product": "100 Credits"
-    },
-    {
-      "id": 2123,
-      "userId": 181,
-      "date": "2024-07-01",
-      "amount": 66.88,
-      "status": "paid",
-      "reference": "7A6PRRQCCW5VG53Z",
-      "product": "100 Credits"
-    },
-    {
-      "id": 3565,
-      "userId": 129,
-      "date": "2025-04-23",
-      "amount": 94.24,
+      "id": 8720,
+      "userId": 151,
+      "date": "2024-04-08",
+      "amount": 29.57,
       "status": "cancelled",
-      "reference": "LV5PVOALRITNRVDP",
+      "reference": "O20DU8C68YN1JGUL",
       "product": "Subscription",
-      "subscriptionId": 6217
+      "subscriptionId": 7562
     },
     {
-      "id": 1577,
-      "userId": 189,
-      "date": "2024-05-02",
-      "amount": 70.65,
-      "status": "pending",
-      "reference": "AVK5448I03D982LX",
-      "product": "Subscription",
-      "subscriptionId": 5187
-    },
-    {
-      "id": 5524,
-      "userId": 158,
-      "date": "2025-04-27",
-      "amount": 99.75,
+      "id": 2248,
+      "userId": 112,
+      "date": "2024-01-05",
+      "amount": 66.22,
       "status": "paid",
-      "reference": "KTCEIPDGYR7I89K1",
+      "reference": "D6ZP89T3HR5HT99Z",
       "product": "Subscription",
-      "subscriptionId": 6217
+      "subscriptionId": 7851
     },
     {
-      "id": 1078,
-      "userId": 144,
-      "date": "2024-07-29",
-      "amount": 57.79,
-      "status": "expired",
-      "reference": "7SYON0LS4MF36FE8",
+      "id": 6703,
+      "userId": 125,
+      "date": "2024-06-11",
+      "amount": 50.95,
+      "status": "pending",
+      "reference": "NYKFY4I6I4ESCVU6",
+      "product": "Unlimited"
+    },
+    {
+      "id": 6660,
+      "userId": 189,
+      "date": "2024-01-20",
+      "amount": 51.58,
+      "status": "paid",
+      "reference": "S2DG2YA0ZDY5VNKE",
+      "product": "Subscription",
+      "subscriptionId": 3286
+    },
+    {
+      "id": 1693,
+      "userId": 120,
+      "date": "2024-10-11",
+      "amount": 45.68,
+      "status": "refund",
+      "reference": "ZL1T85U61GJQTYE2",
       "product": "Subscription",
       "subscriptionId": 5944
     },
     {
-      "id": 9896,
-      "userId": 134,
-      "date": "2024-08-28",
-      "amount": 31.24,
-      "status": "cancelled",
-      "reference": "ZFE1G9W4OATRWIG3",
-      "product": "Subscription",
-      "subscriptionId": 1428
-    },
-    {
-      "id": 3008,
-      "userId": 175,
-      "date": "2024-09-04",
-      "amount": 92.74,
-      "status": "paid",
-      "reference": "QP8ET8O0XHM1RXAS",
-      "product": "Subscription",
-      "subscriptionId": 2932
-    },
-    {
-      "id": 5890,
-      "userId": 163,
-      "date": "2025-02-15",
-      "amount": 49.03,
-      "status": "expired",
-      "reference": "AHY3646NIK5NSG37",
-      "product": "10 GB"
-    },
-    {
-      "id": 9317,
-      "userId": 122,
-      "date": "2025-01-05",
-      "amount": 72.22,
-      "status": "expired",
-      "reference": "CTEKA0IMKYP9HKUD",
-      "product": "Subscription",
-      "subscriptionId": 1056
-    },
-    {
-      "id": 5618,
-      "userId": 115,
-      "date": "2024-08-21",
-      "amount": 74.17,
-      "status": "cancelled",
-      "reference": "UEPLWYPQKJVMJPAB",
-      "product": "100 Credits"
-    },
-    {
-      "id": 8036,
-      "userId": 184,
-      "date": "2024-07-05",
-      "amount": 97.05,
-      "status": "refund",
-      "reference": "RADB80L70J9NEPZZ",
-      "product": "Subscription",
-      "subscriptionId": 5372
-    },
-    {
-      "id": 5744,
-      "userId": 176,
-      "date": "2025-03-09",
-      "amount": 37.38,
-      "status": "pending",
-      "reference": "86QPUJP2ZHJJD3VA",
-      "product": "Subscription",
-      "subscriptionId": 2095
-    },
-    {
-      "id": 4139,
-      "userId": 180,
-      "date": "2024-10-23",
-      "amount": 62.68,
-      "status": "active",
-      "reference": "NRL6GES0NYG49MOW",
-      "product": "Subscription",
-      "subscriptionId": 9523
-    },
-    {
-      "id": 9537,
-      "userId": 166,
-      "date": "2024-10-24",
-      "amount": 24.33,
-      "status": "refund",
-      "reference": "3VNOT41QLVZX0UT7",
-      "product": "Subscription",
-      "subscriptionId": 5682
-    },
-    {
-      "id": 6856,
-      "userId": 156,
-      "date": "2025-04-12",
-      "amount": 80.79,
-      "status": "refund",
-      "reference": "DFO9SGAUL3I2Z5UH",
-      "product": "Subscription",
-      "subscriptionId": 3374
-    },
-    {
-      "id": 6939,
-      "userId": 127,
-      "date": "2025-05-01",
-      "amount": 72.55,
-      "status": "expired",
-      "reference": "HVC1VSUHXP1ZIAGY",
-      "product": "Unlimited"
-    },
-    {
-      "id": 6516,
-      "userId": 136,
-      "date": "2024-12-20",
-      "amount": 38.71,
-      "status": "cancelled",
-      "reference": "DWFN6NAKX8Q9SNF8",
-      "product": "Subscription",
-      "subscriptionId": 1428
-    },
-    {
-      "id": 6564,
-      "userId": 113,
-      "date": "2025-02-21",
-      "amount": 51.52,
-      "status": "paid",
-      "reference": "XIDCV18GCCJ1VXFE",
-      "product": "Subscription",
-      "subscriptionId": 6748
-    },
-    {
-      "id": 3355,
-      "userId": 122,
-      "date": "2024-12-07",
-      "amount": 69.46,
-      "status": "paid",
-      "reference": "VBNYVUX1CH1ZNRV4",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 9541,
-      "userId": 120,
-      "date": "2024-06-17",
-      "amount": 56.48,
-      "status": "refund",
-      "reference": "N0FX3FUOO9S6QTL2",
-      "product": "10 GB"
-    },
-    {
-      "id": 8543,
-      "userId": 182,
-      "date": "2024-09-15",
-      "amount": 28.43,
-      "status": "pending",
-      "reference": "KBQRXH7R1WF4ZP1S",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 6597,
-      "userId": 148,
-      "date": "2025-03-05",
-      "amount": 25.15,
-      "status": "expired",
-      "reference": "0ZBO48Y8FQ1LYWAN",
-      "product": "10 GB"
-    },
-    {
-      "id": 2398,
-      "userId": 116,
-      "date": "2025-04-02",
-      "amount": 45.88,
-      "status": "active",
-      "reference": "50BBB967HLONJ35X",
-      "product": "Subscription",
-      "subscriptionId": 9538
-    },
-    {
-      "id": 2849,
-      "userId": 102,
-      "date": "2024-06-19",
-      "amount": 28.54,
-      "status": "paid",
-      "reference": "2UM7H4PGRPCJJ8TR",
-      "product": "5 GB"
-    },
-    {
-      "id": 6441,
-      "userId": 108,
-      "date": "2024-08-17",
-      "amount": 79.36,
-      "status": "paid",
-      "reference": "TA7GS6MKV0475ZJC",
-      "product": "Subscription",
-      "subscriptionId": 1552
-    },
-    {
-      "id": 9104,
-      "userId": 108,
-      "date": "2024-06-19",
-      "amount": 55.05,
-      "status": "pending",
-      "reference": "CENG512VUKCJYCHC",
-      "product": "100 Credits"
-    },
-    {
-      "id": 7910,
-      "userId": 136,
-      "date": "2024-06-21",
-      "amount": 92.49,
-      "status": "pending",
-      "reference": "D4BZXPO1JUUU2YDU",
-      "product": "Subscription",
-      "subscriptionId": 7311
-    },
-    {
-      "id": 3706,
-      "userId": 124,
-      "date": "2024-10-15",
-      "amount": 71.89,
-      "status": "cancelled",
-      "reference": "JC8S7AIWY4UX5ZIQ",
-      "product": "Subscription",
-      "subscriptionId": 7761
-    },
-    {
-      "id": 4012,
-      "userId": 129,
-      "date": "2025-02-19",
-      "amount": 93.39,
-      "status": "paid",
-      "reference": "218UGPUZ85VT218N",
-      "product": "Subscription",
-      "subscriptionId": 2095
-    },
-    {
-      "id": 1297,
-      "userId": 184,
-      "date": "2024-05-10",
-      "amount": 31.67,
-      "status": "expired",
-      "reference": "KLA4WB6X9HBU13DB",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 7434,
-      "userId": 115,
-      "date": "2025-02-14",
-      "amount": 59.33,
-      "status": "paid",
-      "reference": "HAM48ZBEHA3WLFOB",
-      "product": "Subscription",
-      "subscriptionId": 2300
-    },
-    {
-      "id": 1203,
+      "id": 3077,
       "userId": 196,
-      "date": "2024-07-02",
-      "amount": 56.27,
-      "status": "expired",
-      "reference": "OQPHVX7A4OGYJCM2",
-      "product": "10 GB"
-    },
-    {
-      "id": 7972,
-      "userId": 186,
-      "date": "2024-07-19",
-      "amount": 42.45,
-      "status": "expired",
-      "reference": "D1MREZY08Q8RA9UR",
-      "product": "Subscription",
-      "subscriptionId": 4798
-    },
-    {
-      "id": 1304,
-      "userId": 168,
-      "date": "2024-08-29",
-      "amount": 24.08,
-      "status": "paid",
-      "reference": "9W0A26HYX4ORN39Q",
-      "product": "Subscription",
-      "subscriptionId": 5704
-    },
-    {
-      "id": 8105,
-      "userId": 118,
-      "date": "2024-08-26",
-      "amount": 90.47,
-      "status": "paid",
-      "reference": "SFPROMPR1KVI4SEH",
-      "product": "10 GB"
-    },
-    {
-      "id": 7688,
-      "userId": 166,
-      "date": "2024-08-03",
-      "amount": 91.07,
-      "status": "active",
-      "reference": "3TY2QITIHV01ZJGC",
-      "product": "5 GB"
-    },
-    {
-      "id": 9934,
-      "userId": 187,
-      "date": "2024-08-22",
-      "amount": 88.04,
-      "status": "expired",
-      "reference": "WJXU7QAHZ97NEOD4",
-      "product": "Subscription",
-      "subscriptionId": 5476
-    },
-    {
-      "id": 5818,
-      "userId": 163,
-      "date": "2024-05-28",
-      "amount": 94.41,
-      "status": "pending",
-      "reference": "2Q5RH6GT8C1OT0DS",
-      "product": "Unlimited"
-    },
-    {
-      "id": 3443,
-      "userId": 187,
-      "date": "2024-09-16",
-      "amount": 88.51,
-      "status": "refund",
-      "reference": "F5Q9H5DCHJH2AR2B",
-      "product": "Subscription",
-      "subscriptionId": 1419
-    },
-    {
-      "id": 8455,
-      "userId": 128,
-      "date": "2025-02-09",
-      "amount": 97.65,
-      "status": "pending",
-      "reference": "23PSAVJULBE5GAL3",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 8517,
-      "userId": 103,
-      "date": "2024-06-23",
-      "amount": 63.13,
-      "status": "expired",
-      "reference": "CH4IZ3SYSKJB9OGR",
-      "product": "500 Credits"
-    },
-    {
-      "id": 1344,
-      "userId": 193,
-      "date": "2025-03-21",
-      "amount": 72.58,
-      "status": "refund",
-      "reference": "B1H9K1219KL87VI7",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 6122,
-      "userId": 101,
-      "date": "2025-01-28",
-      "amount": 51.41,
-      "status": "refund",
-      "reference": "1VX65RVEKFCJ7V30",
-      "product": "Subscription",
-      "subscriptionId": 4853
-    },
-    {
-      "id": 5721,
-      "userId": 148,
-      "date": "2025-04-03",
-      "amount": 56.3,
-      "status": "pending",
-      "reference": "Z5ERWDDGSJBDO58H",
-      "product": "Unlimited"
-    },
-    {
-      "id": 8394,
-      "userId": 119,
-      "date": "2025-01-15",
-      "amount": 20.32,
-      "status": "paid",
-      "reference": "X15CBB23IYMT2EXM",
-      "product": "500 Credits"
-    },
-    {
-      "id": 8305,
-      "userId": 104,
-      "date": "2025-04-04",
-      "amount": 37.02,
-      "status": "expired",
-      "reference": "PU70OVARYNIVGU8B",
-      "product": "Subscription",
-      "subscriptionId": 2429
-    },
-    {
-      "id": 1105,
-      "userId": 169,
-      "date": "2025-01-03",
-      "amount": 89.14,
-      "status": "active",
-      "reference": "5X88QI2PR85WWHXU",
-      "product": "Subscription",
-      "subscriptionId": 7036
-    },
-    {
-      "id": 2959,
-      "userId": 121,
-      "date": "2024-07-02",
-      "amount": 30.16,
-      "status": "refund",
-      "reference": "5409EECER6DJMZXN",
-      "product": "Subscription",
-      "subscriptionId": 5665
-    },
-    {
-      "id": 1897,
-      "userId": 200,
-      "date": "2024-08-28",
-      "amount": 90.94,
-      "status": "expired",
-      "reference": "SK7SWDD90YRMKMXM",
-      "product": "Subscription",
-      "subscriptionId": 7818
-    },
-    {
-      "id": 4531,
-      "userId": 133,
-      "date": "2024-12-16",
-      "amount": 32.19,
-      "status": "refund",
-      "reference": "15S1GQ0087SAKOX0",
-      "product": "5 GB"
-    },
-    {
-      "id": 7046,
-      "userId": 175,
-      "date": "2025-01-05",
-      "amount": 84.91,
-      "status": "cancelled",
-      "reference": "YTA9APA84W6OHM8L",
-      "product": "Unlimited"
-    },
-    {
-      "id": 7445,
-      "userId": 191,
-      "date": "2024-07-02",
-      "amount": 32.1,
-      "status": "refund",
-      "reference": "2F9TJOCJA3H89BSS",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 8808,
-      "userId": 168,
-      "date": "2025-02-13",
-      "amount": 46.68,
-      "status": "pending",
-      "reference": "KFM1YTC1ZG1RP0X0",
-      "product": "Unlimited"
-    },
-    {
-      "id": 6214,
-      "userId": 144,
-      "date": "2024-05-25",
-      "amount": 54.67,
-      "status": "expired",
-      "reference": "M4TP7ZGVYVVH60PZ",
-      "product": "5 GB"
-    },
-    {
-      "id": 3729,
-      "userId": 200,
-      "date": "2024-11-25",
-      "amount": 71.76,
-      "status": "cancelled",
-      "reference": "KR2YYRX6CQY4WTA7",
-      "product": "10 GB"
-    },
-    {
-      "id": 7634,
-      "userId": 128,
-      "date": "2024-10-22",
-      "amount": 40.62,
-      "status": "refund",
-      "reference": "TSTQ3LBJ4RPEJU5M",
-      "product": "Subscription",
-      "subscriptionId": 2878
-    },
-    {
-      "id": 5940,
-      "userId": 144,
-      "date": "2024-10-18",
-      "amount": 23.47,
-      "status": "paid",
-      "reference": "S8UROVZN6JOPKZ55",
-      "product": "10 GB"
-    },
-    {
-      "id": 9332,
-      "userId": 130,
-      "date": "2024-12-27",
-      "amount": 53.73,
-      "status": "expired",
-      "reference": "BSS1L2ZV9OB2UGBW",
-      "product": "Subscription",
-      "subscriptionId": 8080
-    },
-    {
-      "id": 9240,
-      "userId": 112,
-      "date": "2024-12-10",
-      "amount": 34.01,
-      "status": "active",
-      "reference": "I80NPOCKRQE4LKC4",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 7874,
-      "userId": 166,
-      "date": "2025-02-14",
-      "amount": 84.97,
-      "status": "expired",
-      "reference": "IFV50IQRSG4ZBBMC",
-      "product": "Subscription",
-      "subscriptionId": 1936
-    },
-    {
-      "id": 5131,
-      "userId": 132,
-      "date": "2024-09-13",
-      "amount": 75.67,
-      "status": "expired",
-      "reference": "ARINK6R6879KPZ5T",
-      "product": "10 GB"
-    },
-    {
-      "id": 4050,
-      "userId": 148,
-      "date": "2024-05-29",
-      "amount": 82.52,
-      "status": "active",
-      "reference": "EMMKGJAOXZQTYNPP",
-      "product": "Subscription",
-      "subscriptionId": 9107
-    },
-    {
-      "id": 9836,
-      "userId": 187,
-      "date": "2025-01-10",
-      "amount": 30,
-      "status": "expired",
-      "reference": "GMQUAUZHIYCW6BAS",
-      "product": "Subscription",
-      "subscriptionId": 7803
-    },
-    {
-      "id": 7331,
-      "userId": 155,
-      "date": "2025-03-29",
-      "amount": 85.26,
-      "status": "cancelled",
-      "reference": "T91MUJG5XZCAIO3P",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 6941,
-      "userId": 115,
-      "date": "2025-02-21",
-      "amount": 83.2,
-      "status": "refund",
-      "reference": "6RML7OKXOUD9WNDJ",
-      "product": "Subscription",
-      "subscriptionId": 6748
-    },
-    {
-      "id": 1077,
-      "userId": 171,
-      "date": "2025-02-01",
-      "amount": 70.14,
-      "status": "expired",
-      "reference": "0E4QH2HT5BOE0ILY",
-      "product": "100 Credits"
-    },
-    {
-      "id": 9621,
-      "userId": 156,
-      "date": "2024-11-06",
-      "amount": 52.13,
-      "status": "cancelled",
-      "reference": "T2BHPASC6AJ87J2O",
-      "product": "100 Credits"
-    },
-    {
-      "id": 1378,
-      "userId": 105,
-      "date": "2024-08-24",
-      "amount": 76.95,
-      "status": "cancelled",
-      "reference": "YBYGQ28WBIFXQXCT",
-      "product": "Subscription",
-      "subscriptionId": 7761
-    },
-    {
-      "id": 7895,
-      "userId": 171,
-      "date": "2025-03-21",
-      "amount": 97.69,
-      "status": "expired",
-      "reference": "7XNQ8G2PKN7HVPCK",
-      "product": "Subscription",
-      "subscriptionId": 2073
-    },
-    {
-      "id": 8932,
-      "userId": 129,
-      "date": "2024-09-18",
-      "amount": 39.71,
-      "status": "refund",
-      "reference": "JP887RFMZT7L80MK",
-      "product": "100 Credits"
-    },
-    {
-      "id": 6732,
-      "userId": 173,
-      "date": "2025-04-27",
-      "amount": 31.45,
-      "status": "expired",
-      "reference": "D9EEJR8E75EUVWHV",
-      "product": "Subscription",
-      "subscriptionId": 3436
-    },
-    {
-      "id": 4481,
-      "userId": 116,
-      "date": "2024-05-06",
-      "amount": 47.51,
-      "status": "refund",
-      "reference": "A516RLRMUYJEQDPP",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 9461,
-      "userId": 161,
-      "date": "2024-09-14",
-      "amount": 34.76,
-      "status": "active",
-      "reference": "ZWL4K3D96UDF9OQQ",
-      "product": "Subscription",
-      "subscriptionId": 7080
-    },
-    {
-      "id": 7285,
-      "userId": 108,
-      "date": "2025-02-18",
-      "amount": 75.37,
-      "status": "refund",
-      "reference": "O3QTJOLCVRGC3SQ0",
-      "product": "Subscription",
-      "subscriptionId": 4020
-    },
-    {
-      "id": 8156,
-      "userId": 158,
-      "date": "2025-03-18",
-      "amount": 39.84,
-      "status": "pending",
-      "reference": "HB63DQ0USVMHCG8T",
-      "product": "500 Credits"
-    },
-    {
-      "id": 1484,
-      "userId": 131,
-      "date": "2025-04-15",
-      "amount": 64.56,
-      "status": "expired",
-      "reference": "CCF1HNJ62BBG9P4Z",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 4028,
-      "userId": 174,
-      "date": "2024-07-24",
-      "amount": 90.81,
-      "status": "paid",
-      "reference": "0PBY7IF2MX0TI37J",
-      "product": "Subscription",
-      "subscriptionId": 6998
-    },
-    {
-      "id": 1799,
-      "userId": 185,
-      "date": "2024-06-20",
-      "amount": 52.25,
-      "status": "paid",
-      "reference": "PQNCLGPD92NGP79J",
-      "product": "100 Credits"
-    },
-    {
-      "id": 3600,
-      "userId": 142,
-      "date": "2024-11-23",
-      "amount": 64.44,
-      "status": "paid",
-      "reference": "MJ78TTECNF56HT2E",
-      "product": "Subscription",
-      "subscriptionId": 6145
-    },
-    {
-      "id": 5877,
-      "userId": 143,
-      "date": "2025-01-16",
-      "amount": 73.89,
-      "status": "cancelled",
-      "reference": "29I5ZXY5V8863UT7",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 2774,
-      "userId": 136,
-      "date": "2024-09-15",
-      "amount": 86.68,
-      "status": "active",
-      "reference": "1N4CJ6P8Q7AHS464",
-      "product": "5 GB"
-    },
-    {
-      "id": 9016,
-      "userId": 132,
-      "date": "2024-09-05",
-      "amount": 93.97,
-      "status": "refund",
-      "reference": "ZIAUMLT7638AW17Y",
-      "product": "500 Credits"
-    },
-    {
-      "id": 7993,
-      "userId": 197,
-      "date": "2024-12-12",
-      "amount": 23.71,
-      "status": "paid",
-      "reference": "XDVQHGTGNX0C986S",
-      "product": "Subscription",
-      "subscriptionId": 7343
-    },
-    {
-      "id": 6626,
-      "userId": 185,
-      "date": "2024-07-12",
-      "amount": 58.41,
-      "status": "pending",
-      "reference": "BLL2DDERM5CV059U",
-      "product": "10 GB"
-    },
-    {
-      "id": 8031,
-      "userId": 109,
-      "date": "2024-11-27",
-      "amount": 43.16,
-      "status": "paid",
-      "reference": "G2U6UW7PUDPKKL3Y",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 3174,
-      "userId": 144,
-      "date": "2024-07-27",
-      "amount": 24.98,
-      "status": "pending",
-      "reference": "BKEF6TVRUZBVVBHH",
-      "product": "500 Credits"
-    },
-    {
-      "id": 3255,
-      "userId": 100,
-      "date": "2024-09-29",
-      "amount": 48.93,
-      "status": "cancelled",
-      "reference": "PWAFSGL387B091JG",
-      "product": "500 Credits"
-    },
-    {
-      "id": 9421,
-      "userId": 156,
-      "date": "2024-07-28",
-      "amount": 95.85,
-      "status": "pending",
-      "reference": "QL6UNTJM6XPGQFPC",
-      "product": "Subscription",
-      "subscriptionId": 7977
-    },
-    {
-      "id": 2114,
-      "userId": 155,
-      "date": "2024-12-05",
-      "amount": 33.08,
-      "status": "cancelled",
-      "reference": "P9J02JNX1D4YVMNX",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 5996,
-      "userId": 100,
-      "date": "2025-03-31",
-      "amount": 57.8,
-      "status": "pending",
-      "reference": "59S5BQ1351QAFDFU",
-      "product": "10 GB"
-    },
-    {
-      "id": 4586,
-      "userId": 158,
-      "date": "2024-09-17",
-      "amount": 83.59,
-      "status": "active",
-      "reference": "X1MV5WZDUUQFCWAE",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 4874,
-      "userId": 114,
-      "date": "2025-03-28",
-      "amount": 94.98,
-      "status": "paid",
-      "reference": "GGDBWZNJYHYWHXRD",
-      "product": "500 Credits"
-    },
-    {
-      "id": 4300,
-      "userId": 105,
-      "date": "2024-05-26",
-      "amount": 92.2,
-      "status": "pending",
-      "reference": "3JY3PXNAWDBOQYMS",
-      "product": "Subscription",
-      "subscriptionId": 5257
-    },
-    {
-      "id": 8694,
-      "userId": 100,
-      "date": "2024-06-05",
-      "amount": 49.59,
-      "status": "cancelled",
-      "reference": "57LTDUMALZ5PORLG",
-      "product": "Subscription",
-      "subscriptionId": 8984
-    },
-    {
-      "id": 9743,
-      "userId": 176,
       "date": "2024-06-19",
-      "amount": 36.37,
-      "status": "cancelled",
-      "reference": "EJ9RZ9MXNXXYK6F8",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 3590,
-      "userId": 145,
-      "date": "2025-01-19",
-      "amount": 74.87,
-      "status": "refund",
-      "reference": "P6X3K9J4C8VO2M34",
-      "product": "10 GB"
-    },
-    {
-      "id": 9798,
-      "userId": 172,
-      "date": "2024-12-09",
-      "amount": 98.94,
-      "status": "paid",
-      "reference": "LXTZVOVF5W5712FS",
-      "product": "Unlimited"
-    },
-    {
-      "id": 3523,
-      "userId": 164,
-      "date": "2024-05-16",
-      "amount": 97.54,
-      "status": "refund",
-      "reference": "U803HZUBQDJPSEOM",
-      "product": "Subscription",
-      "subscriptionId": 7409
-    },
-    {
-      "id": 3132,
-      "userId": 118,
-      "date": "2024-10-14",
-      "amount": 59.13,
+      "amount": 55.9,
       "status": "expired",
-      "reference": "Y7ZKNFQFCWYHU2QF",
-      "product": "10 GB"
-    },
-    {
-      "id": 1399,
-      "userId": 177,
-      "date": "2024-07-27",
-      "amount": 55.63,
-      "status": "active",
-      "reference": "P7KQBVBTJH68FBON",
+      "reference": "0U5X798KSUE4I8MG",
       "product": "Subscription",
-      "subscriptionId": 7343
+      "subscriptionId": 3605
     },
     {
-      "id": 5538,
-      "userId": 188,
-      "date": "2025-03-10",
-      "amount": 91.93,
-      "status": "active",
-      "reference": "KX2U0QN1TQIFH3YH",
-      "product": "10 GB"
-    },
-    {
-      "id": 8545,
-      "userId": 157,
-      "date": "2025-02-16",
-      "amount": 23.87,
-      "status": "active",
-      "reference": "SQCMS67ANT3X46MJ",
-      "product": "Subscription",
-      "subscriptionId": 1936
-    },
-    {
-      "id": 7828,
-      "userId": 125,
-      "date": "2025-03-03",
-      "amount": 98.47,
+      "id": 1465,
+      "userId": 142,
+      "date": "2025-02-01",
+      "amount": 87.15,
       "status": "pending",
-      "reference": "SSOLP66F07XK0F66",
+      "reference": "WM3P6WWUYGSA7K1X",
       "product": "Subscription",
-      "subscriptionId": 4853
+      "subscriptionId": 7018
     },
     {
-      "id": 6360,
-      "userId": 172,
-      "date": "2024-11-09",
-      "amount": 69.79,
-      "status": "expired",
-      "reference": "IG0KM8U19MQYRP38",
-      "product": "Subscription",
-      "subscriptionId": 7605
-    },
-    {
-      "id": 2095,
-      "userId": 150,
-      "date": "2025-03-17",
-      "amount": 99.23,
-      "status": "pending",
-      "reference": "6OPBLED743D7HDHU",
-      "product": "Subscription",
-      "subscriptionId": 2000
-    },
-    {
-      "id": 5326,
-      "userId": 135,
-      "date": "2025-02-10",
-      "amount": 32.13,
-      "status": "expired",
-      "reference": "YAH6H7G8ST0GCG99",
-      "product": "Subscription",
-      "subscriptionId": 8957
-    },
-    {
-      "id": 2550,
-      "userId": 117,
-      "date": "2024-12-21",
-      "amount": 24.5,
-      "status": "pending",
-      "reference": "8O5BE4FZ2KJ056A0",
-      "product": "Subscription",
-      "subscriptionId": 5372
-    },
-    {
-      "id": 8818,
-      "userId": 180,
-      "date": "2024-07-31",
-      "amount": 34.29,
+      "id": 5751,
+      "userId": 182,
+      "date": "2025-03-22",
+      "amount": 98.87,
       "status": "refund",
-      "reference": "4IQSL122WVQ6DSSA",
-      "product": "5 GB"
-    },
-    {
-      "id": 2899,
-      "userId": 115,
-      "date": "2024-05-08",
-      "amount": 25.62,
-      "status": "refund",
-      "reference": "20ELW6R0XPPETT9S",
-      "product": "Subscription",
-      "subscriptionId": 2551
-    },
-    {
-      "id": 9049,
-      "userId": 199,
-      "date": "2024-06-25",
-      "amount": 96.29,
-      "status": "pending",
-      "reference": "OW58LFMDI5CCINUU",
-      "product": "5 GB"
-    },
-    {
-      "id": 9245,
-      "userId": 118,
-      "date": "2024-11-25",
-      "amount": 88.59,
-      "status": "refund",
-      "reference": "MQAREMJTNIJSSAJG",
-      "product": "Subscription",
-      "subscriptionId": 5669
-    },
-    {
-      "id": 9452,
-      "userId": 124,
-      "date": "2024-05-22",
-      "amount": 72.55,
-      "status": "active",
-      "reference": "HASH8S5YBBB6VBWW",
-      "product": "5 GB"
-    },
-    {
-      "id": 8514,
-      "userId": 155,
-      "date": "2025-03-07",
-      "amount": 94.47,
-      "status": "cancelled",
-      "reference": "ZPQ9HK94MBNJOC7E",
-      "product": "Subscription",
-      "subscriptionId": 5665
-    },
-    {
-      "id": 2219,
-      "userId": 134,
-      "date": "2024-05-02",
-      "amount": 85.33,
-      "status": "expired",
-      "reference": "TPJ6G3RO40BCIN1W",
-      "product": "Subscription",
-      "subscriptionId": 5833
-    },
-    {
-      "id": 3758,
-      "userId": 104,
-      "date": "2024-05-27",
-      "amount": 53.73,
-      "status": "expired",
-      "reference": "ZRUI14J09FG0NMJP",
-      "product": "5 GB"
-    },
-    {
-      "id": 9405,
-      "userId": 110,
-      "date": "2024-10-18",
-      "amount": 99.14,
-      "status": "pending",
-      "reference": "4YNL7WJ6P4L1VOCN",
-      "product": "Subscription",
-      "subscriptionId": 8563
-    },
-    {
-      "id": 6537,
-      "userId": 161,
-      "date": "2024-06-04",
-      "amount": 96.49,
-      "status": "cancelled",
-      "reference": "QI3VV1V4XKZZT0PF",
-      "product": "Subscription",
-      "subscriptionId": 9688
-    },
-    {
-      "id": 2411,
-      "userId": 187,
-      "date": "2024-07-22",
-      "amount": 24.19,
-      "status": "refund",
-      "reference": "T3SN3LF03H6ZF2VC",
-      "product": "10 GB"
-    },
-    {
-      "id": 8827,
-      "userId": 164,
-      "date": "2024-09-14",
-      "amount": 28.8,
-      "status": "paid",
-      "reference": "6B29SMGHJ7SVRBV7",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 1368,
-      "userId": 193,
-      "date": "2025-01-27",
-      "amount": 43.1,
-      "status": "refund",
-      "reference": "G5PIOT9OXVW6E2VZ",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 1606,
-      "userId": 153,
-      "date": "2024-11-11",
-      "amount": 77.38,
-      "status": "expired",
-      "reference": "QHSA1ZZXGBL4LV3P",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 7929,
-      "userId": 135,
-      "date": "2024-10-30",
-      "amount": 81.33,
-      "status": "expired",
-      "reference": "KFYIL7VUNH4KKH0P",
+      "reference": "VJ7DG1OW8WZ0WX1P",
       "product": "500 Credits"
     },
     {
-      "id": 5634,
-      "userId": 144,
-      "date": "2025-03-30",
-      "amount": 74.57,
-      "status": "active",
-      "reference": "9JZSWT4CW2VREVUZ",
-      "product": "500 Credits"
-    },
-    {
-      "id": 6667,
-      "userId": 195,
-      "date": "2025-04-29",
-      "amount": 91.92,
-      "status": "active",
-      "reference": "2U3W96FNWR959PNQ",
-      "product": "500 Credits"
-    },
-    {
-      "id": 9767,
-      "userId": 152,
-      "date": "2024-12-31",
-      "amount": 47.54,
-      "status": "expired",
-      "reference": "TH62ESIZPUJ07AQT",
-      "product": "Subscription",
-      "subscriptionId": 9688
-    },
-    {
-      "id": 7182,
-      "userId": 179,
-      "date": "2025-02-22",
-      "amount": 49.76,
-      "status": "cancelled",
-      "reference": "C8J20J3OHSOBJI7C",
-      "product": "Subscription",
-      "subscriptionId": 7080
-    },
-    {
-      "id": 6384,
-      "userId": 176,
-      "date": "2024-07-05",
-      "amount": 55.76,
-      "status": "active",
-      "reference": "2Z873G2QZUK7GJ2T",
-      "product": "Subscription",
-      "subscriptionId": 3436
-    },
-    {
-      "id": 8199,
-      "userId": 173,
-      "date": "2025-03-30",
-      "amount": 84.82,
-      "status": "cancelled",
-      "reference": "2FDF9HAK1GDS2BTH",
-      "product": "Subscription",
-      "subscriptionId": 5372
-    },
-    {
-      "id": 7016,
-      "userId": 167,
-      "date": "2024-07-04",
-      "amount": 90.37,
-      "status": "active",
-      "reference": "6TEQY4XQMS1VV65R",
-      "product": "10 GB"
-    },
-    {
-      "id": 9893,
+      "id": 6666,
       "userId": 159,
-      "date": "2024-07-12",
-      "amount": 97.2,
-      "status": "pending",
-      "reference": "0DMC2FHGMY59XG1A",
-      "product": "Subscription",
-      "subscriptionId": 9051
-    },
-    {
-      "id": 7819,
-      "userId": 169,
-      "date": "2024-09-27",
-      "amount": 68.99,
-      "status": "pending",
-      "reference": "QN28L2JQDTGSPPRP",
-      "product": "100 Credits"
-    },
-    {
-      "id": 1579,
-      "userId": 111,
-      "date": "2025-04-11",
-      "amount": 53.36,
-      "status": "refund",
-      "reference": "X2SX92OIUFKSSEWC",
-      "product": "10 GB"
-    },
-    {
-      "id": 7297,
-      "userId": 125,
-      "date": "2024-07-06",
-      "amount": 51.61,
-      "status": "expired",
-      "reference": "RQVL54X927B6WRXZ",
-      "product": "10 GB"
-    },
-    {
-      "id": 4399,
-      "userId": 194,
-      "date": "2024-10-08",
-      "amount": 81.73,
-      "status": "expired",
-      "reference": "YUZP89O0DFRUE3JR",
-      "product": "500 Credits"
-    },
-    {
-      "id": 1116,
-      "userId": 165,
-      "date": "2024-09-01",
-      "amount": 88.38,
-      "status": "refund",
-      "reference": "19V2W69WRUWI7C91",
-      "product": "100 Credits"
-    },
-    {
-      "id": 1316,
-      "userId": 188,
-      "date": "2025-02-09",
-      "amount": 34.39,
-      "status": "paid",
-      "reference": "F9VQECTXYR2OICXE",
-      "product": "Subscription",
-      "subscriptionId": 5187
-    },
-    {
-      "id": 9264,
-      "userId": 130,
-      "date": "2024-12-21",
-      "amount": 22.52,
-      "status": "expired",
-      "reference": "MDBDRSVASMK0EXSO",
-      "product": "100 Credits"
-    },
-    {
-      "id": 9730,
-      "userId": 150,
-      "date": "2025-02-07",
-      "amount": 46.5,
-      "status": "paid",
-      "reference": "WW5LFO7BCXSR1WMY",
-      "product": "5 GB"
-    },
-    {
-      "id": 5508,
-      "userId": 188,
-      "date": "2024-11-30",
-      "amount": 44.5,
-      "status": "paid",
-      "reference": "71ISUPKY7TPNJMG2",
-      "product": "500 Credits"
-    },
-    {
-      "id": 6375,
-      "userId": 195,
-      "date": "2025-02-24",
-      "amount": 52.9,
-      "status": "expired",
-      "reference": "9NHBO5CI50YD4MXV",
-      "product": "Subscription",
-      "subscriptionId": 1646
-    },
-    {
-      "id": 2362,
-      "userId": 111,
-      "date": "2024-12-07",
-      "amount": 83.61,
+      "date": "2024-02-26",
+      "amount": 20.19,
       "status": "active",
-      "reference": "9JOTQRPEIX7KUTS1",
+      "reference": "88F3N48WNN674M6J",
       "product": "Subscription",
-      "subscriptionId": 4798
+      "subscriptionId": 7429
     },
     {
-      "id": 5903,
-      "userId": 178,
-      "date": "2024-11-20",
-      "amount": 40.69,
-      "status": "cancelled",
-      "reference": "HY9IQV0ROYR1T7ZX",
-      "product": "500 Credits"
-    },
-    {
-      "id": 6986,
-      "userId": 188,
-      "date": "2024-11-19",
-      "amount": 61.01,
-      "status": "cancelled",
-      "reference": "PP55N2PTGV78VRDV",
-      "product": "Subscription",
-      "subscriptionId": 1056
-    },
-    {
-      "id": 2824,
-      "userId": 132,
-      "date": "2024-09-27",
-      "amount": 90.34,
-      "status": "expired",
-      "reference": "GT0330U66OMLJ0K5",
-      "product": "100 Credits"
-    },
-    {
-      "id": 4451,
-      "userId": 119,
-      "date": "2025-01-19",
-      "amount": 28.73,
-      "status": "refund",
-      "reference": "OMZ314JWN8P3S8FW",
-      "product": "Subscription",
-      "subscriptionId": 9107
-    },
-    {
-      "id": 7456,
-      "userId": 148,
-      "date": "2024-10-24",
-      "amount": 38.47,
-      "status": "paid",
-      "reference": "092RO0KNEVGDPUBU",
-      "product": "Subscription",
-      "subscriptionId": 9239
-    },
-    {
-      "id": 3212,
-      "userId": 138,
-      "date": "2025-04-25",
-      "amount": 50.71,
-      "status": "pending",
-      "reference": "FYSTAN8HABU6G70D",
-      "product": "Subscription",
-      "subscriptionId": 2095
-    },
-    {
-      "id": 5862,
-      "userId": 122,
-      "date": "2024-09-11",
-      "amount": 28.23,
-      "status": "cancelled",
-      "reference": "I1ITMBFX0DYNPK06",
-      "product": "Unlimited"
-    },
-    {
-      "id": 2142,
-      "userId": 188,
-      "date": "2024-11-07",
-      "amount": 73.63,
-      "status": "expired",
-      "reference": "2GHLJ7UCT589EXV1",
-      "product": "Subscription",
-      "subscriptionId": 9523
-    },
-    {
-      "id": 2143,
-      "userId": 188,
-      "date": "2025-04-20",
-      "amount": 92.67,
-      "status": "refund",
-      "reference": "XGOOFOQUBJ37D6YK",
-      "product": "Subscription",
-      "subscriptionId": 8192
-    },
-    {
-      "id": 3131,
-      "userId": 194,
-      "date": "2024-09-15",
-      "amount": 21.54,
-      "status": "expired",
-      "reference": "ACGGX5J1VLK0MCEH",
-      "product": "10 GB"
-    },
-    {
-      "id": 9115,
-      "userId": 188,
-      "date": "2024-06-03",
-      "amount": 33.27,
-      "status": "pending",
-      "reference": "T7S6CXTHUHKYLNW5",
-      "product": "Subscription",
-      "subscriptionId": 4020
-    },
-    {
-      "id": 4853,
+      "id": 8815,
       "userId": 181,
-      "date": "2024-09-27",
-      "amount": 77.33,
+      "date": "2024-06-02",
+      "amount": 50.75,
+      "status": "paid",
+      "reference": "P7YSMC1J2MQQTYFB",
+      "product": "Subscription",
+      "subscriptionId": 5065
+    },
+    {
+      "id": 4706,
+      "userId": 177,
+      "date": "2024-12-07",
+      "amount": 58.07,
       "status": "active",
-      "reference": "96PPY2UHQRBWUTY8",
+      "reference": "I6MBO7XUR7P64B9B",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 5089,
+      "userId": 108,
+      "date": "2024-08-06",
+      "amount": 22.07,
+      "status": "paid",
+      "reference": "DHJY8OZP3FQGPX9Z",
+      "product": "Subscription",
+      "subscriptionId": 9841
+    },
+    {
+      "id": 1103,
+      "userId": 196,
+      "date": "2024-07-26",
+      "amount": 98.31,
+      "status": "pending",
+      "reference": "G54NO6RA6SG9O4ER",
+      "product": "Subscription",
+      "subscriptionId": 7864
+    },
+    {
+      "id": 9712,
+      "userId": 160,
+      "date": "2024-11-18",
+      "amount": 34.85,
+      "status": "pending",
+      "reference": "P9QJ34955L8TNDO0",
+      "product": "Subscription",
+      "subscriptionId": 6234
+    },
+    {
+      "id": 6404,
+      "userId": 114,
+      "date": "2024-09-12",
+      "amount": 48.66,
+      "status": "pending",
+      "reference": "MBAFGGQL75IZYHX7",
+      "product": "Subscription",
+      "subscriptionId": 3605
+    },
+    {
+      "id": 6295,
+      "userId": 195,
+      "date": "2024-02-27",
+      "amount": 42.49,
+      "status": "cancelled",
+      "reference": "LOOBW0Z2D7FFO382",
+      "product": "5 GB"
+    },
+    {
+      "id": 2564,
+      "userId": 144,
+      "date": "2025-02-02",
+      "amount": 24.03,
+      "status": "pending",
+      "reference": "LKUI2ME4NI2BRO8W",
+      "product": "Subscription",
+      "subscriptionId": 8111
+    },
+    {
+      "id": 5820,
+      "userId": 172,
+      "date": "2024-06-08",
+      "amount": 75.1,
+      "status": "expired",
+      "reference": "YBI10Y9X38UYXSY2",
+      "product": "Subscription",
+      "subscriptionId": 4064
+    },
+    {
+      "id": 8789,
+      "userId": 171,
+      "date": "2024-02-08",
+      "amount": 79.03,
+      "status": "active",
+      "reference": "TVUMHW6MWTPNGSNL",
+      "product": "Subscription",
+      "subscriptionId": 9182
+    },
+    {
+      "id": 6087,
+      "userId": 162,
+      "date": "2024-03-27",
+      "amount": 34.93,
+      "status": "active",
+      "reference": "DHDFPJMY4FWAYYNC",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 9144,
+      "userId": 113,
+      "date": "2025-02-28",
+      "amount": 53.65,
+      "status": "cancelled",
+      "reference": "UHC5BWFW3N3S3K2K",
       "product": "Unlimited"
     },
     {
-      "id": 8255,
-      "userId": 144,
-      "date": "2025-01-03",
-      "amount": 25.34,
-      "status": "expired",
-      "reference": "ZP5AYOXVXS5FWHIM",
+      "id": 1732,
+      "userId": 190,
+      "date": "2024-02-16",
+      "amount": 45.99,
+      "status": "refund",
+      "reference": "RNUVMACJUK28YO60",
       "product": "Subscription",
-      "subscriptionId": 5476
+      "subscriptionId": 9582
     },
     {
-      "id": 1549,
-      "userId": 197,
-      "date": "2025-03-18",
-      "amount": 85.8,
-      "status": "refund",
-      "reference": "JS5P4OJCR1X993B1",
-      "product": "5 GB"
+      "id": 6367,
+      "userId": 183,
+      "date": "2024-11-17",
+      "amount": 49.7,
+      "status": "active",
+      "reference": "UTJIGO7F5M6N0M7I",
+      "product": "Subscription",
+      "subscriptionId": 2486
     },
     {
-      "id": 2776,
-      "userId": 126,
-      "date": "2024-06-08",
-      "amount": 29.12,
+      "id": 8792,
+      "userId": 190,
+      "date": "2025-04-09",
+      "amount": 28.52,
+      "status": "expired",
+      "reference": "K837AQXQ01LHD04E",
+      "product": "Subscription",
+      "subscriptionId": 5072
+    },
+    {
+      "id": 8771,
+      "userId": 198,
+      "date": "2024-05-30",
+      "amount": 61.96,
       "status": "refund",
-      "reference": "GGNXBV3AD1XGXDOE",
+      "reference": "XNUD7HIKPRYM3V8T",
       "product": "100 Credits"
     },
     {
-      "id": 7585,
-      "userId": 172,
-      "date": "2024-10-09",
-      "amount": 85.35,
-      "status": "active",
-      "reference": "D8F523ENPK48F2R7",
+      "id": 8413,
+      "userId": 159,
+      "date": "2024-08-19",
+      "amount": 29.56,
+      "status": "expired",
+      "reference": "4F4IBJLT2CY2DRBC",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 6885,
+      "userId": 187,
+      "date": "2024-08-07",
+      "amount": 44.95,
+      "status": "cancelled",
+      "reference": "2E0P9TUKOJ31YBH8",
+      "product": "Subscription",
+      "subscriptionId": 1285
+    },
+    {
+      "id": 5108,
+      "userId": 121,
+      "date": "2024-06-17",
+      "amount": 66.41,
+      "status": "expired",
+      "reference": "XHVURSXKOEX459JA",
       "product": "5 GB"
     },
     {
-      "id": 6860,
-      "userId": 109,
-      "date": "2024-10-31",
-      "amount": 50.52,
+      "id": 5888,
+      "userId": 126,
+      "date": "2024-12-03",
+      "amount": 88.25,
+      "status": "cancelled",
+      "reference": "RC321QCBLQQBI6L0",
+      "product": "Subscription",
+      "subscriptionId": 2994
+    },
+    {
+      "id": 6662,
+      "userId": 140,
+      "date": "2024-04-25",
+      "amount": 28.33,
       "status": "refund",
-      "reference": "IXK7UUHP5KAELZOK",
+      "reference": "7BRHCYKIIJYJ8DAT",
       "product": "Subscription",
-      "subscriptionId": 9107
+      "subscriptionId": 8432
     },
     {
-      "id": 2886,
-      "userId": 144,
-      "date": "2025-01-28",
-      "amount": 98.26,
+      "id": 5545,
+      "userId": 108,
+      "date": "2024-03-18",
+      "amount": 61.67,
+      "status": "refund",
+      "reference": "XBWM5BT9UD5M5DHS",
+      "product": "Subscription",
+      "subscriptionId": 7018
+    },
+    {
+      "id": 1652,
+      "userId": 164,
+      "date": "2024-05-01",
+      "amount": 65.14,
       "status": "paid",
-      "reference": "QE7L827C32CHOHE5",
+      "reference": "DGIECO8JFZOP73I9",
       "product": "Subscription",
-      "subscriptionId": 6998
+      "subscriptionId": 2994
     },
     {
-      "id": 7306,
-      "userId": 165,
-      "date": "2024-12-14",
-      "amount": 56.32,
-      "status": "pending",
-      "reference": "95B7KQYTEZ5J1KQU",
+      "id": 5921,
+      "userId": 107,
+      "date": "2025-03-20",
+      "amount": 54.13,
+      "status": "expired",
+      "reference": "VJAB1R66938J563W",
       "product": "Subscription",
-      "subscriptionId": 2098
+      "subscriptionId": 6067
+    },
+    {
+      "id": 2936,
+      "userId": 175,
+      "date": "2024-06-25",
+      "amount": 85.83,
+      "status": "cancelled",
+      "reference": "JA4GWBYLAGQYDQ1L",
+      "product": "Subscription",
+      "subscriptionId": 4744
+    },
+    {
+      "id": 1238,
+      "userId": 132,
+      "date": "2024-10-10",
+      "amount": 62.76,
+      "status": "cancelled",
+      "reference": "R35RX57KXZGLC8RT",
+      "product": "Subscription",
+      "subscriptionId": 7018
+    },
+    {
+      "id": 4173,
+      "userId": 182,
+      "date": "2024-12-10",
+      "amount": 91.98,
+      "status": "cancelled",
+      "reference": "CJUNUZSI3CP8HWIE",
+      "product": "Unlimited"
+    },
+    {
+      "id": 7721,
+      "userId": 135,
+      "date": "2024-01-18",
+      "amount": 94.8,
+      "status": "paid",
+      "reference": "YGU5VP50SSKAE396",
+      "product": "10 GB"
+    },
+    {
+      "id": 1269,
+      "userId": 150,
+      "date": "2024-07-25",
+      "amount": 56.12,
+      "status": "paid",
+      "reference": "73U71X0FZ1TJOBWQ",
+      "product": "5 GB"
+    },
+    {
+      "id": 9756,
+      "userId": 194,
+      "date": "2024-01-30",
+      "amount": 87.99,
+      "status": "paid",
+      "reference": "4CQ8YVR6L71B6X8Y",
+      "product": "Subscription",
+      "subscriptionId": 4827
     },
     {
       "id": 8653,
-      "userId": 101,
-      "date": "2024-09-04",
-      "amount": 34.03,
-      "status": "pending",
-      "reference": "N978IDL4CFOJ490R",
-      "product": "Subscription",
-      "subscriptionId": 5845
-    },
-    {
-      "id": 1149,
-      "userId": 145,
-      "date": "2024-12-26",
-      "amount": 68.1,
-      "status": "active",
-      "reference": "0Z9C9RZ2HZUGA4L7",
-      "product": "1000 Credits"
-    },
-    {
-      "id": 8971,
-      "userId": 186,
-      "date": "2024-08-15",
-      "amount": 43.72,
+      "userId": 163,
+      "date": "2025-02-01",
+      "amount": 64.07,
       "status": "refund",
-      "reference": "ODPYDOPSEIIOO1G7",
-      "product": "Unlimited"
+      "reference": "ETHRSIL8JWGO6NVF",
+      "product": "500 Credits"
     },
     {
-      "id": 1667,
-      "userId": 173,
-      "date": "2024-08-14",
-      "amount": 94.69,
-      "status": "active",
-      "reference": "17XROANRFOW28TCV",
+      "id": 7244,
+      "userId": 120,
+      "date": "2024-09-15",
+      "amount": 27.22,
+      "status": "paid",
+      "reference": "93GQK3C92VRME82G",
       "product": "100 Credits"
     },
     {
-      "id": 4455,
-      "userId": 162,
-      "date": "2025-02-13",
-      "amount": 88.03,
-      "status": "paid",
-      "reference": "6VX6RQWAEAY31ZH2",
-      "product": "5 GB"
-    },
-    {
-      "id": 1840,
-      "userId": 111,
-      "date": "2024-10-29",
-      "amount": 28.04,
-      "status": "paid",
-      "reference": "KO02YFRJFGL4M4RO",
-      "product": "Subscription",
-      "subscriptionId": 9767
-    },
-    {
-      "id": 7528,
-      "userId": 183,
-      "date": "2025-02-19",
-      "amount": 22.8,
+      "id": 8718,
+      "userId": 102,
+      "date": "2025-03-29",
+      "amount": 91.13,
       "status": "expired",
-      "reference": "BOESH3Y8FYEAUAMD",
+      "reference": "VEBOA3M0JWU6UIQ5",
+      "product": "100 Credits"
+    },
+    {
+      "id": 3582,
+      "userId": 192,
+      "date": "2025-04-03",
+      "amount": 84.62,
+      "status": "refund",
+      "reference": "ZO42WCCSK8GZGNF1",
       "product": "Unlimited"
     },
     {
-      "id": 7345,
-      "userId": 138,
-      "date": "2025-01-10",
-      "amount": 33.52,
+      "id": 7559,
+      "userId": 117,
+      "date": "2024-09-28",
+      "amount": 96.56,
       "status": "cancelled",
-      "reference": "U80OKMLG8H09IJRO",
+      "reference": "8N7D1PVDE4XIXVSL",
       "product": "Subscription",
-      "subscriptionId": 6957
+      "subscriptionId": 1479
+    },
+    {
+      "id": 3643,
+      "userId": 178,
+      "date": "2024-01-07",
+      "amount": 72.06,
+      "status": "active",
+      "reference": "N2HYS15U3W78SPK0",
+      "product": "10 GB"
+    },
+    {
+      "id": 6625,
+      "userId": 126,
+      "date": "2024-06-30",
+      "amount": 93.22,
+      "status": "refund",
+      "reference": "8CBNG1DXOOCBTZYV",
+      "product": "Subscription",
+      "subscriptionId": 8042
+    },
+    {
+      "id": 3972,
+      "userId": 111,
+      "date": "2024-09-15",
+      "amount": 89.87,
+      "status": "pending",
+      "reference": "LFK7XRB78L6L2FBS",
+      "product": "Subscription",
+      "subscriptionId": 3770
+    },
+    {
+      "id": 2636,
+      "userId": 145,
+      "date": "2024-12-11",
+      "amount": 57.42,
+      "status": "paid",
+      "reference": "TZ87P0PAY2NST350",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 4166,
+      "userId": 151,
+      "date": "2024-09-23",
+      "amount": 79.99,
+      "status": "paid",
+      "reference": "IQ2QTMEGFE213V7Y",
+      "product": "Subscription",
+      "subscriptionId": 3605
+    },
+    {
+      "id": 6543,
+      "userId": 189,
+      "date": "2024-03-13",
+      "amount": 87.54,
+      "status": "active",
+      "reference": "J39FIYX8LUEZ6BVA",
+      "product": "Subscription",
+      "subscriptionId": 3614
+    },
+    {
+      "id": 1604,
+      "userId": 189,
+      "date": "2025-04-02",
+      "amount": 79.3,
+      "status": "paid",
+      "reference": "RJ7KXSHT7GUSKSAK",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 9886,
+      "userId": 105,
+      "date": "2025-02-09",
+      "amount": 29.99,
+      "status": "refund",
+      "reference": "RHQ04KU5L68FTHCF",
+      "product": "500 Credits"
+    },
+    {
+      "id": 6867,
+      "userId": 199,
+      "date": "2024-11-08",
+      "amount": 71.2,
+      "status": "cancelled",
+      "reference": "J72T3E7P33GAKADK",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 3350,
+      "userId": 102,
+      "date": "2024-04-11",
+      "amount": 41.82,
+      "status": "expired",
+      "reference": "QJ7CZHD5LBQX6DLT",
+      "product": "10 GB"
+    },
+    {
+      "id": 9234,
+      "userId": 197,
+      "date": "2024-07-20",
+      "amount": 48.29,
+      "status": "paid",
+      "reference": "IGG47IPKFALOAOO8",
+      "product": "500 Credits"
+    },
+    {
+      "id": 7038,
+      "userId": 111,
+      "date": "2024-08-04",
+      "amount": 24.59,
+      "status": "pending",
+      "reference": "72X4FR302ABG9NRV",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 6507,
+      "userId": 177,
+      "date": "2024-01-05",
+      "amount": 91.45,
+      "status": "expired",
+      "reference": "7TYMQ480XJVLV1DB",
+      "product": "Subscription",
+      "subscriptionId": 5384
+    },
+    {
+      "id": 6584,
+      "userId": 161,
+      "date": "2024-09-14",
+      "amount": 27.11,
+      "status": "paid",
+      "reference": "5BNP3XLRCMI2GUFY",
+      "product": "Subscription",
+      "subscriptionId": 5384
+    },
+    {
+      "id": 3880,
+      "userId": 186,
+      "date": "2025-01-24",
+      "amount": 32.6,
+      "status": "cancelled",
+      "reference": "WH3VJNT0LZWTCIQO",
+      "product": "Subscription",
+      "subscriptionId": 1679
+    },
+    {
+      "id": 6536,
+      "userId": 119,
+      "date": "2024-04-11",
+      "amount": 54.41,
+      "status": "pending",
+      "reference": "1AW3L8CWCIP13RX4",
+      "product": "Subscription",
+      "subscriptionId": 8042
+    },
+    {
+      "id": 3795,
+      "userId": 163,
+      "date": "2024-01-12",
+      "amount": 44.36,
+      "status": "active",
+      "reference": "1SYQ09QNQLRS2CHF",
+      "product": "Subscription",
+      "subscriptionId": 2362
+    },
+    {
+      "id": 8067,
+      "userId": 174,
+      "date": "2024-05-25",
+      "amount": 20.49,
+      "status": "refund",
+      "reference": "HUSVIMF68DNTOZWN",
+      "product": "Subscription",
+      "subscriptionId": 7018
+    },
+    {
+      "id": 7906,
+      "userId": 145,
+      "date": "2024-07-13",
+      "amount": 48.81,
+      "status": "refund",
+      "reference": "KJRQBZXJEVSXWPAL",
+      "product": "500 Credits"
+    },
+    {
+      "id": 1328,
+      "userId": 122,
+      "date": "2025-02-12",
+      "amount": 36.81,
+      "status": "expired",
+      "reference": "PWQ4CNZ7VDZAIFNL",
+      "product": "500 Credits"
+    },
+    {
+      "id": 4040,
+      "userId": 198,
+      "date": "2024-12-24",
+      "amount": 79.11,
+      "status": "paid",
+      "reference": "ELDUUWKZ882TJR11",
+      "product": "Subscription",
+      "subscriptionId": 4033
+    },
+    {
+      "id": 2061,
+      "userId": 106,
+      "date": "2025-03-26",
+      "amount": 34.03,
+      "status": "active",
+      "reference": "W2LEAKD9H3NKUQDF",
+      "product": "10 GB"
+    },
+    {
+      "id": 6409,
+      "userId": 178,
+      "date": "2024-12-09",
+      "amount": 30.55,
+      "status": "refund",
+      "reference": "OZOBT824MA058FRB",
+      "product": "Subscription",
+      "subscriptionId": 3498
+    },
+    {
+      "id": 1689,
+      "userId": 121,
+      "date": "2024-05-17",
+      "amount": 73.88,
+      "status": "expired",
+      "reference": "IWT28MLRCGUCRY5Y",
+      "product": "Subscription",
+      "subscriptionId": 1208
+    },
+    {
+      "id": 5151,
+      "userId": 100,
+      "date": "2024-11-15",
+      "amount": 61.66,
+      "status": "refund",
+      "reference": "PZB90VJJKWZFIM90",
+      "product": "5 GB"
+    },
+    {
+      "id": 2367,
+      "userId": 181,
+      "date": "2024-06-10",
+      "amount": 62.09,
+      "status": "expired",
+      "reference": "NGJYZJQR8SOGVXLG",
+      "product": "Unlimited"
+    },
+    {
+      "id": 8935,
+      "userId": 163,
+      "date": "2024-08-05",
+      "amount": 25.27,
+      "status": "active",
+      "reference": "23KKD16RAR37SS5F",
+      "product": "Subscription",
+      "subscriptionId": 8358
+    },
+    {
+      "id": 7301,
+      "userId": 113,
+      "date": "2024-06-13",
+      "amount": 73.47,
+      "status": "cancelled",
+      "reference": "P884B1N0MOZQTV4H",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 6955,
+      "userId": 132,
+      "date": "2024-03-08",
+      "amount": 89.41,
+      "status": "active",
+      "reference": "75COFLDSXKX6CI50",
+      "product": "Subscription",
+      "subscriptionId": 3818
+    },
+    {
+      "id": 5747,
+      "userId": 141,
+      "date": "2024-04-11",
+      "amount": 96.91,
+      "status": "active",
+      "reference": "L266G5K1ENM1ZA58",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 1861,
+      "userId": 180,
+      "date": "2024-03-29",
+      "amount": 36.07,
+      "status": "expired",
+      "reference": "05DPIE2K0HI8EQNM",
+      "product": "Subscription",
+      "subscriptionId": 8703
+    },
+    {
+      "id": 6277,
+      "userId": 119,
+      "date": "2025-02-12",
+      "amount": 73.75,
+      "status": "cancelled",
+      "reference": "C3ZEBVMY2QLWZTWO",
+      "product": "500 Credits"
+    },
+    {
+      "id": 5231,
+      "userId": 182,
+      "date": "2024-06-25",
+      "amount": 29.34,
+      "status": "expired",
+      "reference": "L7LT9E2KFZ78XEI8",
+      "product": "Subscription",
+      "subscriptionId": 2362
+    },
+    {
+      "id": 2150,
+      "userId": 124,
+      "date": "2025-02-26",
+      "amount": 59.55,
+      "status": "refund",
+      "reference": "SSAHM5RDGVKI6K6R",
+      "product": "Subscription",
+      "subscriptionId": 4996
+    },
+    {
+      "id": 4789,
+      "userId": 181,
+      "date": "2024-07-19",
+      "amount": 78.96,
+      "status": "pending",
+      "reference": "O1KWP22IN4KDG4JW",
+      "product": "10 GB"
+    },
+    {
+      "id": 7339,
+      "userId": 103,
+      "date": "2025-04-15",
+      "amount": 95.81,
+      "status": "pending",
+      "reference": "ROLS7WEJ6VGYKHTD",
+      "product": "Subscription",
+      "subscriptionId": 6067
+    },
+    {
+      "id": 7182,
+      "userId": 120,
+      "date": "2024-11-04",
+      "amount": 36.94,
+      "status": "refund",
+      "reference": "C7II8U6YPKZM2NOG",
+      "product": "Subscription",
+      "subscriptionId": 3286
+    },
+    {
+      "id": 9599,
+      "userId": 185,
+      "date": "2024-11-16",
+      "amount": 83,
+      "status": "active",
+      "reference": "4K0F71M2L5JF83X0",
+      "product": "Subscription",
+      "subscriptionId": 9841
+    },
+    {
+      "id": 5586,
+      "userId": 113,
+      "date": "2024-02-28",
+      "amount": 58.92,
+      "status": "cancelled",
+      "reference": "UQXE2GI4E9DBX42Y",
+      "product": "Subscription",
+      "subscriptionId": 9497
+    },
+    {
+      "id": 2102,
+      "userId": 189,
+      "date": "2024-07-17",
+      "amount": 64.83,
+      "status": "refund",
+      "reference": "735SSDLALYZEZMKT",
+      "product": "Unlimited"
+    },
+    {
+      "id": 6038,
+      "userId": 143,
+      "date": "2024-10-08",
+      "amount": 55.09,
+      "status": "active",
+      "reference": "JG00YAU2PVWS027B",
+      "product": "Subscription",
+      "subscriptionId": 1208
+    },
+    {
+      "id": 3682,
+      "userId": 145,
+      "date": "2024-01-21",
+      "amount": 62.01,
+      "status": "refund",
+      "reference": "C69VWXH0FKM5GNSJ",
+      "product": "Subscription",
+      "subscriptionId": 1679
+    },
+    {
+      "id": 4262,
+      "userId": 141,
+      "date": "2024-03-14",
+      "amount": 55.77,
+      "status": "paid",
+      "reference": "X1GK74RZZZI41GWG",
+      "product": "Subscription",
+      "subscriptionId": 6645
+    },
+    {
+      "id": 2805,
+      "userId": 148,
+      "date": "2024-07-01",
+      "amount": 65.43,
+      "status": "expired",
+      "reference": "B3QR1M5TQNKWHUBE",
+      "product": "Subscription",
+      "subscriptionId": 5706
+    },
+    {
+      "id": 3772,
+      "userId": 122,
+      "date": "2024-11-21",
+      "amount": 41.44,
+      "status": "paid",
+      "reference": "J3TI2L2WGG7GLXFF",
+      "product": "Subscription",
+      "subscriptionId": 6471
+    },
+    {
+      "id": 8744,
+      "userId": 158,
+      "date": "2025-03-21",
+      "amount": 29.48,
+      "status": "expired",
+      "reference": "1U0IQQS5Q35IV86E",
+      "product": "5 GB"
+    },
+    {
+      "id": 9039,
+      "userId": 136,
+      "date": "2024-01-14",
+      "amount": 67.15,
+      "status": "expired",
+      "reference": "KNJR4I9UHODFMIRR",
+      "product": "Subscription",
+      "subscriptionId": 7802
+    },
+    {
+      "id": 8613,
+      "userId": 103,
+      "date": "2024-07-06",
+      "amount": 43.47,
+      "status": "pending",
+      "reference": "9UT3Y4U2R05EJB9U",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 4637,
+      "userId": 143,
+      "date": "2025-01-09",
+      "amount": 71.93,
+      "status": "paid",
+      "reference": "GO91ZX4VJI10RDH3",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 1256,
+      "userId": 174,
+      "date": "2024-01-22",
+      "amount": 33.49,
+      "status": "cancelled",
+      "reference": "C2V59T8DH1OJUJ1Q",
+      "product": "5 GB"
+    },
+    {
+      "id": 8942,
+      "userId": 124,
+      "date": "2025-03-30",
+      "amount": 93.82,
+      "status": "expired",
+      "reference": "T6OSFFEFZD120IMW",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1594,
+      "userId": 172,
+      "date": "2024-07-07",
+      "amount": 40.05,
+      "status": "cancelled",
+      "reference": "9XOXR9C1EBJF5S3O",
+      "product": "Subscription",
+      "subscriptionId": 2362
+    },
+    {
+      "id": 4761,
+      "userId": 123,
+      "date": "2024-05-10",
+      "amount": 89.04,
+      "status": "pending",
+      "reference": "9DXBIEY54M88RJNQ",
+      "product": "Subscription",
+      "subscriptionId": 7571
+    },
+    {
+      "id": 3567,
+      "userId": 172,
+      "date": "2024-06-23",
+      "amount": 96.31,
+      "status": "paid",
+      "reference": "6SE3KC3XMRAHW05W",
+      "product": "Subscription",
+      "subscriptionId": 8556
+    },
+    {
+      "id": 9109,
+      "userId": 128,
+      "date": "2024-06-27",
+      "amount": 71.65,
+      "status": "expired",
+      "reference": "1UXRN3N4QL06RX0R",
+      "product": "10 GB"
+    },
+    {
+      "id": 5709,
+      "userId": 177,
+      "date": "2024-06-06",
+      "amount": 93.59,
+      "status": "pending",
+      "reference": "J33DEPR7K3TJ72X0",
+      "product": "Subscription",
+      "subscriptionId": 4744
+    },
+    {
+      "id": 8010,
+      "userId": 152,
+      "date": "2024-10-30",
+      "amount": 44.74,
+      "status": "pending",
+      "reference": "2KXUMF8O964Y180N",
+      "product": "Subscription",
+      "subscriptionId": 8432
+    },
+    {
+      "id": 1585,
+      "userId": 183,
+      "date": "2024-08-11",
+      "amount": 72.06,
+      "status": "pending",
+      "reference": "JAY0CKSXVHFA8Z2I",
+      "product": "10 GB"
+    },
+    {
+      "id": 7209,
+      "userId": 127,
+      "date": "2025-02-09",
+      "amount": 22.46,
+      "status": "expired",
+      "reference": "1EBA5AHT95I6GYNN",
+      "product": "Subscription",
+      "subscriptionId": 9841
+    },
+    {
+      "id": 8332,
+      "userId": 145,
+      "date": "2025-04-14",
+      "amount": 49.01,
+      "status": "pending",
+      "reference": "OWXO60LQ7MM20ZVO",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 6870,
+      "userId": 187,
+      "date": "2024-06-06",
+      "amount": 52.83,
+      "status": "active",
+      "reference": "GQ7G31XIAHOS5I01",
+      "product": "Subscription",
+      "subscriptionId": 2891
+    },
+    {
+      "id": 9047,
+      "userId": 178,
+      "date": "2024-11-04",
+      "amount": 31.86,
+      "status": "paid",
+      "reference": "QH7F7S074H8KSDK3",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 9356,
+      "userId": 139,
+      "date": "2025-04-02",
+      "amount": 31.33,
+      "status": "expired",
+      "reference": "8G20YHFK0D0CBI4S",
+      "product": "Subscription",
+      "subscriptionId": 4827
+    },
+    {
+      "id": 1701,
+      "userId": 125,
+      "date": "2025-03-25",
+      "amount": 86.38,
+      "status": "paid",
+      "reference": "9UZV1L3HTFAIQ3SN",
+      "product": "Subscription",
+      "subscriptionId": 5111
+    },
+    {
+      "id": 3125,
+      "userId": 122,
+      "date": "2025-03-02",
+      "amount": 41.63,
+      "status": "paid",
+      "reference": "EZVV3G2Z8EAUPXSL",
+      "product": "500 Credits"
+    },
+    {
+      "id": 4781,
+      "userId": 177,
+      "date": "2024-04-29",
+      "amount": 98.5,
+      "status": "paid",
+      "reference": "86535BFLD23DPRJ9",
+      "product": "500 Credits"
+    },
+    {
+      "id": 8008,
+      "userId": 104,
+      "date": "2024-08-15",
+      "amount": 69.63,
+      "status": "refund",
+      "reference": "URLSHS25FVM6YHL5",
+      "product": "Subscription",
+      "subscriptionId": 5072
+    },
+    {
+      "id": 1010,
+      "userId": 158,
+      "date": "2024-12-30",
+      "amount": 41.03,
+      "status": "expired",
+      "reference": "BJ98UH476VN2J4GI",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1471,
+      "userId": 190,
+      "date": "2024-02-18",
+      "amount": 48.8,
+      "status": "expired",
+      "reference": "MQJAATSN2PY7LNBU",
+      "product": "Subscription",
+      "subscriptionId": 5368
+    },
+    {
+      "id": 6731,
+      "userId": 199,
+      "date": "2025-02-14",
+      "amount": 80.19,
+      "status": "paid",
+      "reference": "57FXJP1ZUOYG7HUV",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 7439,
+      "userId": 175,
+      "date": "2024-06-09",
+      "amount": 71.17,
+      "status": "paid",
+      "reference": "KBYO7S0C045PGPNR",
+      "product": "Subscription",
+      "subscriptionId": 8111
+    },
+    {
+      "id": 1546,
+      "userId": 123,
+      "date": "2024-04-24",
+      "amount": 94.54,
+      "status": "refund",
+      "reference": "E64KLTGZDBMI3S68",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 7118,
+      "userId": 189,
+      "date": "2024-03-05",
+      "amount": 95.71,
+      "status": "pending",
+      "reference": "70581D250UUC12GG",
+      "product": "Unlimited"
+    },
+    {
+      "id": 7648,
+      "userId": 180,
+      "date": "2024-05-26",
+      "amount": 72.82,
+      "status": "paid",
+      "reference": "C2M5E9N921BFQ7Q3",
+      "product": "500 Credits"
+    },
+    {
+      "id": 7940,
+      "userId": 183,
+      "date": "2024-08-04",
+      "amount": 60.89,
+      "status": "expired",
+      "reference": "Z73O4LHEJZNWNWGG",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 3131,
+      "userId": 195,
+      "date": "2024-12-09",
+      "amount": 30.44,
+      "status": "active",
+      "reference": "1H01LGC6456DQS5T",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 5563,
+      "userId": 145,
+      "date": "2025-02-23",
+      "amount": 55.1,
+      "status": "pending",
+      "reference": "AMFAOBV407V6H5HM",
+      "product": "Subscription",
+      "subscriptionId": 3818
+    },
+    {
+      "id": 6551,
+      "userId": 110,
+      "date": "2024-05-02",
+      "amount": 98.77,
+      "status": "cancelled",
+      "reference": "2YIZ3F9XFU9J6MEI",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 3384,
+      "userId": 130,
+      "date": "2024-11-19",
+      "amount": 40.91,
+      "status": "cancelled",
+      "reference": "A6TRBSLEZ876IK43",
+      "product": "Subscription",
+      "subscriptionId": 5783
+    },
+    {
+      "id": 4975,
+      "userId": 179,
+      "date": "2024-06-23",
+      "amount": 64.57,
+      "status": "cancelled",
+      "reference": "JSL9MWHNKQRUCBYV",
+      "product": "Subscription",
+      "subscriptionId": 6234
+    },
+    {
+      "id": 2402,
+      "userId": 157,
+      "date": "2024-04-27",
+      "amount": 52.6,
+      "status": "pending",
+      "reference": "B1BTIOVJFZZURI5E",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 6864,
+      "userId": 197,
+      "date": "2024-08-28",
+      "amount": 30.31,
+      "status": "paid",
+      "reference": "SNEUQBEUA1Y21R26",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 4905,
+      "userId": 159,
+      "date": "2024-02-28",
+      "amount": 88.06,
+      "status": "active",
+      "reference": "A0TFOOSMG59L7KT2",
+      "product": "Subscription",
+      "subscriptionId": 2106
+    },
+    {
+      "id": 6736,
+      "userId": 131,
+      "date": "2024-12-24",
+      "amount": 63,
+      "status": "expired",
+      "reference": "CMHQA46UJADBMPKI",
+      "product": "Subscription",
+      "subscriptionId": 2675
+    },
+    {
+      "id": 8790,
+      "userId": 196,
+      "date": "2024-10-14",
+      "amount": 49.49,
+      "status": "expired",
+      "reference": "FEUP54AAE79PGMPH",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 4429,
+      "userId": 153,
+      "date": "2024-11-05",
+      "amount": 82.2,
+      "status": "refund",
+      "reference": "GSNMZEV7WAV62OVE",
+      "product": "Subscription",
+      "subscriptionId": 9138
+    },
+    {
+      "id": 9748,
+      "userId": 181,
+      "date": "2024-03-01",
+      "amount": 38.2,
+      "status": "refund",
+      "reference": "Q0SKKQ33K5Q3F1FW",
+      "product": "Subscription",
+      "subscriptionId": 9138
+    },
+    {
+      "id": 6353,
+      "userId": 148,
+      "date": "2024-08-18",
+      "amount": 72.91,
+      "status": "pending",
+      "reference": "S9LQ28OY47M6RAK3",
+      "product": "Subscription",
+      "subscriptionId": 7046
+    },
+    {
+      "id": 3947,
+      "userId": 176,
+      "date": "2024-09-04",
+      "amount": 73.31,
+      "status": "cancelled",
+      "reference": "T2Q91GCKLAU7FT2S",
+      "product": "Subscription",
+      "subscriptionId": 3588
+    },
+    {
+      "id": 4284,
+      "userId": 183,
+      "date": "2025-02-01",
+      "amount": 24.76,
+      "status": "pending",
+      "reference": "RLQISNM3T5KPF0HN",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 9517,
+      "userId": 108,
+      "date": "2024-05-14",
+      "amount": 40.37,
+      "status": "refund",
+      "reference": "DKUCXQSPTRXNOQX2",
+      "product": "Subscription",
+      "subscriptionId": 3550
+    },
+    {
+      "id": 7951,
+      "userId": 124,
+      "date": "2025-04-25",
+      "amount": 53.49,
+      "status": "paid",
+      "reference": "GF2QBYUEQGW5OQCS",
+      "product": "Subscription",
+      "subscriptionId": 1285
+    },
+    {
+      "id": 8548,
+      "userId": 147,
+      "date": "2024-05-18",
+      "amount": 50.93,
+      "status": "pending",
+      "reference": "DIG39W8VKKKJ3V90",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 1055,
+      "userId": 126,
+      "date": "2025-01-22",
+      "amount": 52.04,
+      "status": "active",
+      "reference": "XDFNDIGZUIUH0W76",
+      "product": "Subscription",
+      "subscriptionId": 7985
+    },
+    {
+      "id": 6207,
+      "userId": 200,
+      "date": "2024-09-24",
+      "amount": 52.78,
+      "status": "active",
+      "reference": "9839YO154VOZ3ZU1",
+      "product": "Subscription",
+      "subscriptionId": 1208
+    },
+    {
+      "id": 5999,
+      "userId": 105,
+      "date": "2024-08-25",
+      "amount": 53.24,
+      "status": "cancelled",
+      "reference": "TQJZCPT2J86OTFOP",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 7872,
+      "userId": 140,
+      "date": "2024-06-08",
+      "amount": 54.36,
+      "status": "pending",
+      "reference": "KV3TUGZ6QWPC12ZK",
+      "product": "Subscription",
+      "subscriptionId": 6326
+    },
+    {
+      "id": 9997,
+      "userId": 142,
+      "date": "2025-02-13",
+      "amount": 87.74,
+      "status": "paid",
+      "reference": "6M9RQMZVXEXTAECC",
+      "product": "Subscription",
+      "subscriptionId": 7985
+    },
+    {
+      "id": 7942,
+      "userId": 127,
+      "date": "2025-01-31",
+      "amount": 99.37,
+      "status": "cancelled",
+      "reference": "A43WJAXZUPHG9GD2",
+      "product": "Subscription",
+      "subscriptionId": 5828
+    },
+    {
+      "id": 7035,
+      "userId": 165,
+      "date": "2024-11-21",
+      "amount": 50.01,
+      "status": "refund",
+      "reference": "5DJ7G9RNPXR21FOC",
+      "product": "Subscription",
+      "subscriptionId": 4468
+    },
+    {
+      "id": 4645,
+      "userId": 179,
+      "date": "2024-01-09",
+      "amount": 54.07,
+      "status": "cancelled",
+      "reference": "W4LQNEI8PATDH3YN",
+      "product": "10 GB"
+    },
+    {
+      "id": 2800,
+      "userId": 123,
+      "date": "2024-05-21",
+      "amount": 79.41,
+      "status": "pending",
+      "reference": "926B9UKTCMYBGMN8",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 2949,
+      "userId": 179,
+      "date": "2025-03-03",
+      "amount": 62.08,
+      "status": "cancelled",
+      "reference": "OO1X6KTG5F44DW9S",
+      "product": "Subscription",
+      "subscriptionId": 7028
+    },
+    {
+      "id": 5431,
+      "userId": 182,
+      "date": "2024-09-12",
+      "amount": 77.39,
+      "status": "active",
+      "reference": "YKIVOSOVPAFVPA7G",
+      "product": "Subscription",
+      "subscriptionId": 6645
+    },
+    {
+      "id": 1353,
+      "userId": 174,
+      "date": "2025-03-24",
+      "amount": 39.39,
+      "status": "refund",
+      "reference": "WML7LDGYP5C8M3GC",
+      "product": "5 GB"
+    },
+    {
+      "id": 8179,
+      "userId": 104,
+      "date": "2025-01-19",
+      "amount": 29.08,
+      "status": "active",
+      "reference": "4I10G6C7UN2AS0GS",
+      "product": "Subscription",
+      "subscriptionId": 5368
+    },
+    {
+      "id": 4213,
+      "userId": 120,
+      "date": "2024-04-26",
+      "amount": 41.92,
+      "status": "expired",
+      "reference": "EB5CJO4NQA5M9ATV",
+      "product": "Subscription",
+      "subscriptionId": 3946
+    },
+    {
+      "id": 3069,
+      "userId": 186,
+      "date": "2025-04-15",
+      "amount": 94.09,
+      "status": "active",
+      "reference": "2VV12RHJET92DRHD",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 4915,
+      "userId": 199,
+      "date": "2024-06-18",
+      "amount": 24,
+      "status": "paid",
+      "reference": "XMXIZUJ5T5BT1KEM",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 1639,
+      "userId": 151,
+      "date": "2024-08-14",
+      "amount": 44.51,
+      "status": "paid",
+      "reference": "3IPQRPRIH55KAJ9E",
+      "product": "Subscription",
+      "subscriptionId": 6067
+    },
+    {
+      "id": 7534,
+      "userId": 175,
+      "date": "2025-03-03",
+      "amount": 72.76,
+      "status": "cancelled",
+      "reference": "19V7OPF8G7Z6Y4L7",
+      "product": "Subscription",
+      "subscriptionId": 8189
+    },
+    {
+      "id": 5311,
+      "userId": 159,
+      "date": "2024-03-12",
+      "amount": 68.02,
+      "status": "expired",
+      "reference": "RZAQK5NFCZLY84II",
+      "product": "Unlimited"
+    },
+    {
+      "id": 5365,
+      "userId": 173,
+      "date": "2024-12-24",
+      "amount": 92.77,
+      "status": "pending",
+      "reference": "UEN7TLOQW9KL73BY",
+      "product": "Subscription",
+      "subscriptionId": 6067
+    },
+    {
+      "id": 9811,
+      "userId": 107,
+      "date": "2025-03-30",
+      "amount": 98.73,
+      "status": "paid",
+      "reference": "LFNHG8NQJ6EOCGLR",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 5434,
+      "userId": 152,
+      "date": "2024-08-01",
+      "amount": 25.16,
+      "status": "pending",
+      "reference": "D7WBYR9WS5BCFSP8",
+      "product": "Subscription",
+      "subscriptionId": 7269
+    },
+    {
+      "id": 3236,
+      "userId": 184,
+      "date": "2024-10-07",
+      "amount": 67.57,
+      "status": "pending",
+      "reference": "XMI5S76HEBI0TQTW",
+      "product": "Subscription",
+      "subscriptionId": 7851
+    },
+    {
+      "id": 6307,
+      "userId": 194,
+      "date": "2024-08-05",
+      "amount": 71,
+      "status": "paid",
+      "reference": "FEL5YNSLOTKYTC5S",
+      "product": "Subscription",
+      "subscriptionId": 6471
+    },
+    {
+      "id": 6521,
+      "userId": 120,
+      "date": "2024-08-14",
+      "amount": 85.95,
+      "status": "refund",
+      "reference": "5EPA46QENM0AQWDA",
+      "product": "100 Credits"
+    },
+    {
+      "id": 4818,
+      "userId": 104,
+      "date": "2024-09-15",
+      "amount": 82.98,
+      "status": "paid",
+      "reference": "SYRHWIQZDLL0HW03",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 5144,
+      "userId": 110,
+      "date": "2025-04-10",
+      "amount": 25.16,
+      "status": "refund",
+      "reference": "YVJ9XGSDXNYLO8O7",
+      "product": "Subscription",
+      "subscriptionId": 6239
+    },
+    {
+      "id": 3539,
+      "userId": 186,
+      "date": "2024-02-15",
+      "amount": 52,
+      "status": "paid",
+      "reference": "AA4NRMG7T0N25VTS",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1528,
+      "userId": 199,
+      "date": "2024-03-25",
+      "amount": 62.54,
+      "status": "expired",
+      "reference": "J6NY8BE6Z3VQOFTG",
+      "product": "5 GB"
+    },
+    {
+      "id": 3933,
+      "userId": 175,
+      "date": "2024-10-22",
+      "amount": 89.25,
+      "status": "expired",
+      "reference": "W3FFA8GP4XJAL2Y8",
+      "product": "Unlimited"
+    },
+    {
+      "id": 9877,
+      "userId": 149,
+      "date": "2024-05-02",
+      "amount": 44.39,
+      "status": "paid",
+      "reference": "N454ZMRN2UIW043K",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 6238,
+      "userId": 144,
+      "date": "2024-12-04",
+      "amount": 86.97,
+      "status": "expired",
+      "reference": "DI2KUS4PK70JTV0V",
+      "product": "Subscription",
+      "subscriptionId": 7548
+    },
+    {
+      "id": 8901,
+      "userId": 118,
+      "date": "2024-03-06",
+      "amount": 48.98,
+      "status": "active",
+      "reference": "CPHHBHPDBDE1SFJB",
+      "product": "Subscription",
+      "subscriptionId": 8189
+    },
+    {
+      "id": 7608,
+      "userId": 109,
+      "date": "2024-06-14",
+      "amount": 60.12,
+      "status": "paid",
+      "reference": "0I2YOC0KXK810KYQ",
+      "product": "100 Credits"
+    },
+    {
+      "id": 4285,
+      "userId": 138,
+      "date": "2025-04-30",
+      "amount": 36.29,
+      "status": "expired",
+      "reference": "Y3M5KCAJNQF2VRNK",
+      "product": "Subscription",
+      "subscriptionId": 5944
+    },
+    {
+      "id": 1128,
+      "userId": 118,
+      "date": "2025-04-08",
+      "amount": 33.27,
+      "status": "paid",
+      "reference": "1MEC7VZMCMNSA9IJ",
+      "product": "Subscription",
+      "subscriptionId": 8040
+    },
+    {
+      "id": 2262,
+      "userId": 149,
+      "date": "2025-04-22",
+      "amount": 24.92,
+      "status": "cancelled",
+      "reference": "DM7AD4QDFH859K7M",
+      "product": "Subscription",
+      "subscriptionId": 3605
+    },
+    {
+      "id": 6199,
+      "userId": 157,
+      "date": "2024-03-23",
+      "amount": 43.69,
+      "status": "refund",
+      "reference": "L4U5BEUKPL95Q4ML",
+      "product": "Subscription",
+      "subscriptionId": 3770
+    },
+    {
+      "id": 5887,
+      "userId": 109,
+      "date": "2024-10-13",
+      "amount": 36.43,
+      "status": "active",
+      "reference": "HULGYFRQHBNE7351",
+      "product": "Subscription",
+      "subscriptionId": 2106
+    },
+    {
+      "id": 9259,
+      "userId": 136,
+      "date": "2024-08-09",
+      "amount": 43.73,
+      "status": "cancelled",
+      "reference": "R6IIWR41LGTHFP11",
+      "product": "Subscription",
+      "subscriptionId": 3550
+    },
+    {
+      "id": 3545,
+      "userId": 133,
+      "date": "2024-01-24",
+      "amount": 38.42,
+      "status": "active",
+      "reference": "30HZRRN772BBI7CB",
+      "product": "Subscription",
+      "subscriptionId": 4744
+    },
+    {
+      "id": 8503,
+      "userId": 180,
+      "date": "2025-03-11",
+      "amount": 92.93,
+      "status": "refund",
+      "reference": "DIQYSX4Z77QL9S20",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 6074,
+      "userId": 112,
+      "date": "2024-10-02",
+      "amount": 85.39,
+      "status": "active",
+      "reference": "JMW37LGYHU0HJMA0",
+      "product": "Subscription",
+      "subscriptionId": 4315
+    },
+    {
+      "id": 8435,
+      "userId": 193,
+      "date": "2024-03-29",
+      "amount": 35.33,
+      "status": "active",
+      "reference": "KJWG34RDADWA6G8P",
+      "product": "10 GB"
+    },
+    {
+      "id": 7402,
+      "userId": 163,
+      "date": "2024-01-28",
+      "amount": 67.76,
+      "status": "pending",
+      "reference": "R66QJP6P3RSV15XD",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 4840,
+      "userId": 133,
+      "date": "2024-11-21",
+      "amount": 38.24,
+      "status": "paid",
+      "reference": "OBFETEW15IJ78MSQ",
+      "product": "Unlimited"
+    },
+    {
+      "id": 3626,
+      "userId": 100,
+      "date": "2024-06-24",
+      "amount": 35.92,
+      "status": "refund",
+      "reference": "B6M4ZHKM6OOFVSRU",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 6713,
+      "userId": 168,
+      "date": "2024-10-26",
+      "amount": 76.1,
+      "status": "paid",
+      "reference": "T1UW8W3FIG2LHUO8",
+      "product": "5 GB"
+    },
+    {
+      "id": 4988,
+      "userId": 109,
+      "date": "2024-09-20",
+      "amount": 50.47,
+      "status": "expired",
+      "reference": "27W6E4CA3RABQ9RZ",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 3931,
+      "userId": 164,
+      "date": "2024-03-30",
+      "amount": 93.81,
+      "status": "refund",
+      "reference": "V1LQZ82CHNAL3WGM",
+      "product": "Subscription",
+      "subscriptionId": 8703
+    },
+    {
+      "id": 2286,
+      "userId": 113,
+      "date": "2024-04-02",
+      "amount": 64.65,
+      "status": "paid",
+      "reference": "ARFR5S8ZRP34DMC0",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 9156,
+      "userId": 138,
+      "date": "2024-07-09",
+      "amount": 58.32,
+      "status": "pending",
+      "reference": "AF1YH8JF1Y9OUT81",
+      "product": "Subscription",
+      "subscriptionId": 5111
+    },
+    {
+      "id": 8488,
+      "userId": 182,
+      "date": "2024-04-29",
+      "amount": 45.99,
+      "status": "expired",
+      "reference": "WBRTM40W2WMGGX1Q",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 9728,
+      "userId": 125,
+      "date": "2024-12-09",
+      "amount": 84.64,
+      "status": "active",
+      "reference": "M6V1ACJMD78LM0V3",
+      "product": "100 Credits"
+    },
+    {
+      "id": 2920,
+      "userId": 122,
+      "date": "2024-06-21",
+      "amount": 92.5,
+      "status": "pending",
+      "reference": "8KEYP3PGCWJGHD86",
+      "product": "Subscription",
+      "subscriptionId": 1817
+    },
+    {
+      "id": 1943,
+      "userId": 170,
+      "date": "2024-03-02",
+      "amount": 29.81,
+      "status": "paid",
+      "reference": "3Q2PHVO6K702SPF5",
+      "product": "Subscription",
+      "subscriptionId": 3946
+    },
+    {
+      "id": 7069,
+      "userId": 200,
+      "date": "2024-01-12",
+      "amount": 34.19,
+      "status": "active",
+      "reference": "JSE5LJPO3O0A5ZCZ",
+      "product": "Subscription",
+      "subscriptionId": 9044
+    },
+    {
+      "id": 5592,
+      "userId": 171,
+      "date": "2024-08-06",
+      "amount": 67.04,
+      "status": "refund",
+      "reference": "T4YQTDCVFU1RHANR",
+      "product": "10 GB"
+    },
+    {
+      "id": 9301,
+      "userId": 170,
+      "date": "2024-05-08",
+      "amount": 22.1,
+      "status": "refund",
+      "reference": "382X6OIXGWKNUTG9",
+      "product": "Subscription",
+      "subscriptionId": 1925
+    },
+    {
+      "id": 9731,
+      "userId": 161,
+      "date": "2024-06-07",
+      "amount": 62.24,
+      "status": "paid",
+      "reference": "D2AWCMQX35T9ODXW",
+      "product": "10 GB"
+    },
+    {
+      "id": 9217,
+      "userId": 194,
+      "date": "2025-01-28",
+      "amount": 24.92,
+      "status": "cancelled",
+      "reference": "QUQGSN90LW50TIHZ",
+      "product": "Subscription",
+      "subscriptionId": 7985
+    },
+    {
+      "id": 2265,
+      "userId": 186,
+      "date": "2025-03-24",
+      "amount": 78.7,
+      "status": "paid",
+      "reference": "HYKA1UG14B7IXXXA",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 1698,
+      "userId": 138,
+      "date": "2024-01-20",
+      "amount": 73.26,
+      "status": "refund",
+      "reference": "2PPWHCOSHI15F79A",
+      "product": "10 GB"
+    },
+    {
+      "id": 6880,
+      "userId": 137,
+      "date": "2024-01-25",
+      "amount": 91.97,
+      "status": "refund",
+      "reference": "0EVOYCSON7KGF3S8",
+      "product": "500 Credits"
+    },
+    {
+      "id": 9258,
+      "userId": 124,
+      "date": "2025-01-06",
+      "amount": 82.06,
+      "status": "active",
+      "reference": "8UNTSJY0BUM0CYL4",
+      "product": "Subscription",
+      "subscriptionId": 7802
+    },
+    {
+      "id": 2414,
+      "userId": 134,
+      "date": "2024-08-26",
+      "amount": 84.98,
+      "status": "pending",
+      "reference": "X69112929S4N2DVE",
+      "product": "Subscription",
+      "subscriptionId": 5065
+    },
+    {
+      "id": 6496,
+      "userId": 109,
+      "date": "2024-03-04",
+      "amount": 77.49,
+      "status": "active",
+      "reference": "ZU1HZJYAZ6HOL37G",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 3455,
+      "userId": 112,
+      "date": "2024-12-10",
+      "amount": 57.23,
+      "status": "refund",
+      "reference": "7DH98IXA8CS0VQDD",
+      "product": "100 Credits"
+    },
+    {
+      "id": 7799,
+      "userId": 192,
+      "date": "2024-06-21",
+      "amount": 40.19,
+      "status": "active",
+      "reference": "X9U72XZ5WX4J7R5A",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 6940,
+      "userId": 199,
+      "date": "2025-01-06",
+      "amount": 75.06,
+      "status": "expired",
+      "reference": "A3TY1JE9DN9HLC7C",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 4710,
+      "userId": 158,
+      "date": "2024-06-05",
+      "amount": 51.26,
+      "status": "cancelled",
+      "reference": "2LFUCOGINPXLJKXA",
+      "product": "Subscription",
+      "subscriptionId": 2730
+    },
+    {
+      "id": 4659,
+      "userId": 116,
+      "date": "2025-04-12",
+      "amount": 44.19,
+      "status": "paid",
+      "reference": "CU1C67840CWPX91A",
+      "product": "5 GB"
+    },
+    {
+      "id": 7624,
+      "userId": 200,
+      "date": "2024-08-23",
+      "amount": 55.35,
+      "status": "active",
+      "reference": "IOF30ZAD8JO7GW9H",
+      "product": "5 GB"
+    },
+    {
+      "id": 9974,
+      "userId": 162,
+      "date": "2025-04-22",
+      "amount": 92.13,
+      "status": "pending",
+      "reference": "BQKM0ZK5DHUC0Y0Q",
+      "product": "Subscription",
+      "subscriptionId": 2362
+    },
+    {
+      "id": 2520,
+      "userId": 124,
+      "date": "2024-01-11",
+      "amount": 35.84,
+      "status": "refund",
+      "reference": "R7R3G3SWC3EI4QV1",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 6717,
+      "userId": 162,
+      "date": "2024-08-12",
+      "amount": 72.76,
+      "status": "pending",
+      "reference": "LHS45SGEL1AXXJVQ",
+      "product": "5 GB"
+    },
+    {
+      "id": 3477,
+      "userId": 196,
+      "date": "2024-04-02",
+      "amount": 98.18,
+      "status": "pending",
+      "reference": "DE5BMSDIX4W7T7H5",
+      "product": "Subscription",
+      "subscriptionId": 7802
+    },
+    {
+      "id": 1463,
+      "userId": 101,
+      "date": "2025-04-25",
+      "amount": 28.15,
+      "status": "active",
+      "reference": "UKWKV0PCV2C3OES2",
+      "product": "10 GB"
+    },
+    {
+      "id": 7125,
+      "userId": 176,
+      "date": "2024-05-12",
+      "amount": 53.51,
+      "status": "expired",
+      "reference": "UFCPK6OJ0QWM6B0O",
+      "product": "Subscription",
+      "subscriptionId": 5065
+    },
+    {
+      "id": 3693,
+      "userId": 154,
+      "date": "2024-07-09",
+      "amount": 60.15,
+      "status": "pending",
+      "reference": "Z4WZHJDKB82W47MX",
+      "product": "Subscription",
+      "subscriptionId": 5072
+    },
+    {
+      "id": 5883,
+      "userId": 184,
+      "date": "2024-02-01",
+      "amount": 59.32,
+      "status": "pending",
+      "reference": "04GOSWWBP6USBGOW",
+      "product": "Subscription",
+      "subscriptionId": 7046
+    },
+    {
+      "id": 2501,
+      "userId": 141,
+      "date": "2024-02-22",
+      "amount": 69.21,
+      "status": "paid",
+      "reference": "KS2PX3KXGWH01IZH",
+      "product": "Subscription",
+      "subscriptionId": 6067
+    },
+    {
+      "id": 8860,
+      "userId": 113,
+      "date": "2024-05-22",
+      "amount": 71.18,
+      "status": "cancelled",
+      "reference": "UAYOK3W71D3DCCVX",
+      "product": "Subscription",
+      "subscriptionId": 2486
+    },
+    {
+      "id": 8052,
+      "userId": 151,
+      "date": "2025-03-02",
+      "amount": 95.19,
+      "status": "active",
+      "reference": "S887FW40R2AS9LIB",
+      "product": "Subscription",
+      "subscriptionId": 9182
+    },
+    {
+      "id": 7372,
+      "userId": 156,
+      "date": "2024-01-31",
+      "amount": 60.21,
+      "status": "expired",
+      "reference": "03PMTO9XFO9EG5O2",
+      "product": "Subscription",
+      "subscriptionId": 1285
+    },
+    {
+      "id": 9033,
+      "userId": 106,
+      "date": "2024-08-31",
+      "amount": 50.55,
+      "status": "paid",
+      "reference": "H2B2B31QA8E8T9WF",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 4968,
+      "userId": 105,
+      "date": "2024-08-01",
+      "amount": 39.04,
+      "status": "paid",
+      "reference": "DK374NGRKW5GZSX9",
+      "product": "Subscription",
+      "subscriptionId": 3946
+    },
+    {
+      "id": 8769,
+      "userId": 115,
+      "date": "2024-11-06",
+      "amount": 39.35,
+      "status": "expired",
+      "reference": "1026IVLLRAKAZ1M4",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 2676,
+      "userId": 185,
+      "date": "2025-03-22",
+      "amount": 31.73,
+      "status": "cancelled",
+      "reference": "S0XJY9JA6773WL5E",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 3823,
+      "userId": 140,
+      "date": "2024-04-22",
+      "amount": 78.73,
+      "status": "active",
+      "reference": "8LS9HM004H1Y9TOS",
+      "product": "Subscription",
+      "subscriptionId": 2730
+    },
+    {
+      "id": 4148,
+      "userId": 120,
+      "date": "2024-03-24",
+      "amount": 92.16,
+      "status": "pending",
+      "reference": "KL2K6YIB7UFE7Q2B",
+      "product": "Subscription",
+      "subscriptionId": 2486
+    },
+    {
+      "id": 5251,
+      "userId": 134,
+      "date": "2025-01-10",
+      "amount": 84.87,
+      "status": "active",
+      "reference": "OENSEF5IXDX3OUUF",
+      "product": "5 GB"
+    },
+    {
+      "id": 1021,
+      "userId": 132,
+      "date": "2024-12-13",
+      "amount": 58.36,
+      "status": "active",
+      "reference": "WM7DM5HNKNZJREN6",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 5344,
+      "userId": 183,
+      "date": "2025-03-26",
+      "amount": 45.17,
+      "status": "paid",
+      "reference": "PHZVJH8M2CG5HPAV",
+      "product": "Subscription",
+      "subscriptionId": 9497
+    },
+    {
+      "id": 4829,
+      "userId": 125,
+      "date": "2024-04-26",
+      "amount": 37.47,
+      "status": "expired",
+      "reference": "A5R5J2QJIV7XFJUE",
+      "product": "Subscription",
+      "subscriptionId": 3498
+    },
+    {
+      "id": 8632,
+      "userId": 122,
+      "date": "2024-07-09",
+      "amount": 68,
+      "status": "active",
+      "reference": "ASXD4YSFA3KYI0PD",
+      "product": "Subscription",
+      "subscriptionId": 5072
+    },
+    {
+      "id": 7343,
+      "userId": 158,
+      "date": "2024-05-13",
+      "amount": 71.73,
+      "status": "active",
+      "reference": "B5JGC88OQPC51MM6",
+      "product": "Unlimited"
+    },
+    {
+      "id": 5690,
+      "userId": 158,
+      "date": "2024-10-16",
+      "amount": 37.17,
+      "status": "pending",
+      "reference": "EIE5P1EFWZZT8W18",
+      "product": "Subscription",
+      "subscriptionId": 7136
+    },
+    {
+      "id": 2321,
+      "userId": 188,
+      "date": "2025-03-23",
+      "amount": 79.53,
+      "status": "pending",
+      "reference": "R15O5CZ11XO40RBL",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 9140,
+      "userId": 145,
+      "date": "2024-07-22",
+      "amount": 73.21,
+      "status": "cancelled",
+      "reference": "X2NBRQT72J7PRHYF",
+      "product": "Subscription",
+      "subscriptionId": 8040
+    },
+    {
+      "id": 4575,
+      "userId": 148,
+      "date": "2025-04-18",
+      "amount": 53.55,
+      "status": "expired",
+      "reference": "URUPBRTKSOK5BH69",
+      "product": "Subscription",
+      "subscriptionId": 7985
+    },
+    {
+      "id": 9099,
+      "userId": 181,
+      "date": "2024-02-13",
+      "amount": 96.11,
+      "status": "paid",
+      "reference": "MB3IEBL0ILNT39YT",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 7908,
+      "userId": 142,
+      "date": "2024-06-18",
+      "amount": 87.36,
+      "status": "expired",
+      "reference": "QTM4BCY33C5CYH3M",
+      "product": "Subscription",
+      "subscriptionId": 5819
+    },
+    {
+      "id": 4552,
+      "userId": 129,
+      "date": "2024-07-01",
+      "amount": 48.46,
+      "status": "cancelled",
+      "reference": "MOR2Z2G45VJHOV9E",
+      "product": "100 Credits"
+    },
+    {
+      "id": 2009,
+      "userId": 171,
+      "date": "2024-04-01",
+      "amount": 82.42,
+      "status": "pending",
+      "reference": "55RVIZIFMLS7351I",
+      "product": "Unlimited"
+    },
+    {
+      "id": 4093,
+      "userId": 153,
+      "date": "2024-06-12",
+      "amount": 72.71,
+      "status": "active",
+      "reference": "D11YDVWNVZPVJUYK",
+      "product": "Subscription",
+      "subscriptionId": 7931
+    },
+    {
+      "id": 6915,
+      "userId": 142,
+      "date": "2024-07-06",
+      "amount": 62.51,
+      "status": "refund",
+      "reference": "RQRWREV86QGYWJO0",
+      "product": "Subscription",
+      "subscriptionId": 4110
+    },
+    {
+      "id": 5262,
+      "userId": 183,
+      "date": "2024-12-16",
+      "amount": 33.41,
+      "status": "cancelled",
+      "reference": "1W73GECFHLFVAN8N",
+      "product": "Subscription",
+      "subscriptionId": 1679
+    },
+    {
+      "id": 4522,
+      "userId": 137,
+      "date": "2024-11-03",
+      "amount": 98.79,
+      "status": "cancelled",
+      "reference": "M1J7SGFA0Q2RXBTF",
+      "product": "Subscription",
+      "subscriptionId": 7851
+    },
+    {
+      "id": 3964,
+      "userId": 129,
+      "date": "2024-12-17",
+      "amount": 77.87,
+      "status": "pending",
+      "reference": "32O5T086H1CS5DVW",
+      "product": "5 GB"
+    },
+    {
+      "id": 6511,
+      "userId": 129,
+      "date": "2024-05-15",
+      "amount": 87.47,
+      "status": "cancelled",
+      "reference": "GJINGW2XLBCYT5GN",
+      "product": "Subscription",
+      "subscriptionId": 1285
+    },
+    {
+      "id": 7878,
+      "userId": 118,
+      "date": "2024-11-01",
+      "amount": 23.33,
+      "status": "active",
+      "reference": "B40AGOSJBC7BH0D6",
+      "product": "Subscription",
+      "subscriptionId": 6471
+    },
+    {
+      "id": 2659,
+      "userId": 100,
+      "date": "2024-02-04",
+      "amount": 36.13,
+      "status": "expired",
+      "reference": "1Y04Q4SCHYJQY8T1",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 8417,
+      "userId": 188,
+      "date": "2024-06-08",
+      "amount": 77.67,
+      "status": "pending",
+      "reference": "B3JLQ349I6OEEFMU",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1745,
+      "userId": 132,
+      "date": "2024-09-12",
+      "amount": 53.68,
+      "status": "paid",
+      "reference": "JVDSRKTJ8MGATRIZ",
+      "product": "Subscription",
+      "subscriptionId": 6768
+    },
+    {
+      "id": 8766,
+      "userId": 114,
+      "date": "2024-04-22",
+      "amount": 43.02,
+      "status": "pending",
+      "reference": "383OKHRMOMDVET3B",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 7019,
+      "userId": 185,
+      "date": "2024-07-29",
+      "amount": 54.57,
+      "status": "expired",
+      "reference": "441GEXI6DP2F6FXW",
+      "product": "Subscription",
+      "subscriptionId": 7592
+    },
+    {
+      "id": 7549,
+      "userId": 191,
+      "date": "2024-10-30",
+      "amount": 42.42,
+      "status": "cancelled",
+      "reference": "DWO7HRIQ6FTX8KZL",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 5401,
+      "userId": 131,
+      "date": "2024-11-07",
+      "amount": 84.71,
+      "status": "active",
+      "reference": "56H4YWR9G9HBCI65",
+      "product": "Subscription",
+      "subscriptionId": 3286
+    },
+    {
+      "id": 9287,
+      "userId": 132,
+      "date": "2025-02-10",
+      "amount": 37.05,
+      "status": "paid",
+      "reference": "CVK18PNPX5KGGE83",
+      "product": "Subscription",
+      "subscriptionId": 3286
+    },
+    {
+      "id": 2573,
+      "userId": 117,
+      "date": "2025-03-10",
+      "amount": 52.53,
+      "status": "paid",
+      "reference": "Z4UAZIXVK5W01TKE",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 1650,
+      "userId": 119,
+      "date": "2025-04-12",
+      "amount": 53.86,
+      "status": "pending",
+      "reference": "21NPS073U2BADCPU",
+      "product": "Subscription",
+      "subscriptionId": 5111
+    },
+    {
+      "id": 2139,
+      "userId": 141,
+      "date": "2024-12-31",
+      "amount": 72.2,
+      "status": "paid",
+      "reference": "NZIB5Z5LZV72MZT0",
+      "product": "10 GB"
+    },
+    {
+      "id": 4412,
+      "userId": 126,
+      "date": "2024-08-17",
+      "amount": 82.57,
+      "status": "pending",
+      "reference": "QHGWCZD30NJ92UG2",
+      "product": "Subscription",
+      "subscriptionId": 2362
+    },
+    {
+      "id": 8758,
+      "userId": 111,
+      "date": "2024-12-02",
+      "amount": 70.6,
+      "status": "cancelled",
+      "reference": "VUPTDW3AQS6OVJ73",
+      "product": "Subscription",
+      "subscriptionId": 7536
+    },
+    {
+      "id": 4985,
+      "userId": 156,
+      "date": "2024-11-11",
+      "amount": 74.14,
+      "status": "cancelled",
+      "reference": "YFEOSWNOMP69JL09",
+      "product": "Subscription",
+      "subscriptionId": 2730
+    },
+    {
+      "id": 5946,
+      "userId": 112,
+      "date": "2024-05-30",
+      "amount": 89.88,
+      "status": "paid",
+      "reference": "I7H199NSANOS3MM7",
+      "product": "Subscription",
+      "subscriptionId": 8556
+    },
+    {
+      "id": 2273,
+      "userId": 149,
+      "date": "2025-04-13",
+      "amount": 39.26,
+      "status": "cancelled",
+      "reference": "GWWCJIU0CN8UW1JV",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 3254,
+      "userId": 178,
+      "date": "2024-05-11",
+      "amount": 89.16,
+      "status": "paid",
+      "reference": "DVG9J8JHVOC5ITNV",
+      "product": "Subscription",
+      "subscriptionId": 7851
+    },
+    {
+      "id": 4563,
+      "userId": 117,
+      "date": "2024-05-09",
+      "amount": 26.76,
+      "status": "pending",
+      "reference": "48ATKYRWX4GWPG3X",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 3005,
+      "userId": 157,
+      "date": "2024-08-18",
+      "amount": 97.63,
+      "status": "refund",
+      "reference": "JKTFEMBS28HNFWRU",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 1305,
+      "userId": 176,
+      "date": "2024-05-23",
+      "amount": 65.72,
+      "status": "active",
+      "reference": "X58KR6Q63O7JBFCR",
+      "product": "Unlimited"
+    },
+    {
+      "id": 6989,
+      "userId": 174,
+      "date": "2025-02-08",
+      "amount": 42.88,
+      "status": "refund",
+      "reference": "PVHLZMJ0GO6T56P7",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 4902,
+      "userId": 149,
+      "date": "2025-01-23",
+      "amount": 91.41,
+      "status": "active",
+      "reference": "RQS9PMUFOYZAPEWO",
+      "product": "Subscription",
+      "subscriptionId": 8703
+    },
+    {
+      "id": 5156,
+      "userId": 198,
+      "date": "2024-02-26",
+      "amount": 37.53,
+      "status": "pending",
+      "reference": "1VA62D89CTCQ69GF",
+      "product": "Subscription",
+      "subscriptionId": 7028
+    },
+    {
+      "id": 8224,
+      "userId": 164,
+      "date": "2024-03-06",
+      "amount": 74.51,
+      "status": "paid",
+      "reference": "COJM0OX886JVJANL",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 8150,
+      "userId": 105,
+      "date": "2024-01-26",
+      "amount": 28.37,
+      "status": "paid",
+      "reference": "KV5S0UZKTPYE43BB",
+      "product": "Subscription",
+      "subscriptionId": 5940
+    },
+    {
+      "id": 4159,
+      "userId": 114,
+      "date": "2024-07-05",
+      "amount": 62.29,
+      "status": "paid",
+      "reference": "ZTWM8HVKSE1UV0JE",
+      "product": "5 GB"
+    },
+    {
+      "id": 7353,
+      "userId": 100,
+      "date": "2024-06-04",
+      "amount": 64.24,
+      "status": "paid",
+      "reference": "9TPSC0WTAA5YYCRO",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 6615,
+      "userId": 100,
+      "date": "2024-09-14",
+      "amount": 46.07,
+      "status": "cancelled",
+      "reference": "EQG1AQW6PQ5STH12",
+      "product": "5 GB"
+    },
+    {
+      "id": 3608,
+      "userId": 124,
+      "date": "2024-12-01",
+      "amount": 29.17,
+      "status": "pending",
+      "reference": "HHS8HF0PFVSO4VNM",
+      "product": "Subscription",
+      "subscriptionId": 7046
+    },
+    {
+      "id": 9422,
+      "userId": 128,
+      "date": "2024-07-18",
+      "amount": 78.91,
+      "status": "pending",
+      "reference": "9CJ17V0LBNLX8V18",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 5486,
+      "userId": 196,
+      "date": "2024-04-17",
+      "amount": 71.02,
+      "status": "paid",
+      "reference": "YF6MMT7NVXNEAZ5I",
+      "product": "10 GB"
+    },
+    {
+      "id": 6874,
+      "userId": 123,
+      "date": "2024-10-18",
+      "amount": 37.9,
+      "status": "refund",
+      "reference": "SJ4CVGOLXW0HVNGT",
+      "product": "Subscription",
+      "subscriptionId": 8189
+    },
+    {
+      "id": 9521,
+      "userId": 148,
+      "date": "2024-05-28",
+      "amount": 46.27,
+      "status": "pending",
+      "reference": "KT2MV474F4L89EZH",
+      "product": "Subscription",
+      "subscriptionId": 1479
+    },
+    {
+      "id": 9215,
+      "userId": 119,
+      "date": "2025-01-31",
+      "amount": 87.46,
+      "status": "expired",
+      "reference": "ZGQ4DUPS5V52ZWON",
+      "product": "Subscription",
+      "subscriptionId": 8040
+    },
+    {
+      "id": 5506,
+      "userId": 139,
+      "date": "2024-09-08",
+      "amount": 69.28,
+      "status": "pending",
+      "reference": "UJFB587PBQ5WZ8UX",
+      "product": "Unlimited"
+    },
+    {
+      "id": 3150,
+      "userId": 104,
+      "date": "2024-09-01",
+      "amount": 68.4,
+      "status": "active",
+      "reference": "Y4RHPS95IEM103X8",
+      "product": "Subscription",
+      "subscriptionId": 9138
+    },
+    {
+      "id": 1647,
+      "userId": 173,
+      "date": "2024-05-27",
+      "amount": 61.94,
+      "status": "expired",
+      "reference": "FTLCW1I3Y5QSJQQJ",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 6947,
+      "userId": 133,
+      "date": "2024-01-15",
+      "amount": 58.3,
+      "status": "paid",
+      "reference": "2UDTDB6N12XC0V51",
+      "product": "Subscription",
+      "subscriptionId": 8556
+    },
+    {
+      "id": 1613,
+      "userId": 105,
+      "date": "2024-11-27",
+      "amount": 39.49,
+      "status": "expired",
+      "reference": "LZADVD1QVCS3Q63N",
+      "product": "500 Credits"
+    },
+    {
+      "id": 7063,
+      "userId": 129,
+      "date": "2024-05-26",
+      "amount": 32.69,
+      "status": "refund",
+      "reference": "3UD1KQE2Z4J4U77P",
+      "product": "Subscription",
+      "subscriptionId": 6239
+    },
+    {
+      "id": 7765,
+      "userId": 143,
+      "date": "2024-05-28",
+      "amount": 61.83,
+      "status": "pending",
+      "reference": "UPNPSK7FN0X4JPLS",
+      "product": "Subscription",
+      "subscriptionId": 9182
+    },
+    {
+      "id": 8245,
+      "userId": 142,
+      "date": "2024-04-27",
+      "amount": 43.34,
+      "status": "active",
+      "reference": "BMUXK30YBMOFQUVT",
+      "product": "Subscription",
+      "subscriptionId": 7536
+    },
+    {
+      "id": 2460,
+      "userId": 187,
+      "date": "2024-06-27",
+      "amount": 42.52,
+      "status": "active",
+      "reference": "RXGVIYV1Q68MTFTU",
+      "product": "Subscription",
+      "subscriptionId": 2994
+    },
+    {
+      "id": 9498,
+      "userId": 100,
+      "date": "2024-07-08",
+      "amount": 36.02,
+      "status": "active",
+      "reference": "JWBYHEPQS6R8N718",
+      "product": "Subscription",
+      "subscriptionId": 6471
+    },
+    {
+      "id": 3293,
+      "userId": 156,
+      "date": "2024-02-15",
+      "amount": 28.39,
+      "status": "paid",
+      "reference": "5LWL02PXGIFPVEOU",
+      "product": "Subscription",
+      "subscriptionId": 5384
+    },
+    {
+      "id": 4686,
+      "userId": 116,
+      "date": "2024-01-05",
+      "amount": 20.68,
+      "status": "active",
+      "reference": "YV523ZENGQOYV7PU",
+      "product": "Subscription",
+      "subscriptionId": 9841
+    },
+    {
+      "id": 1675,
+      "userId": 125,
+      "date": "2024-03-08",
+      "amount": 28.99,
+      "status": "cancelled",
+      "reference": "OY2UB0LWVR2341NH",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 1694,
+      "userId": 142,
+      "date": "2024-10-13",
+      "amount": 74.96,
+      "status": "expired",
+      "reference": "7OW82R3BYMV9LT5W",
+      "product": "5 GB"
+    },
+    {
+      "id": 1851,
+      "userId": 195,
+      "date": "2025-01-06",
+      "amount": 64.34,
+      "status": "expired",
+      "reference": "ICPLMLE85A2UDUNF",
+      "product": "Unlimited"
+    },
+    {
+      "id": 2884,
+      "userId": 143,
+      "date": "2024-12-02",
+      "amount": 90.76,
+      "status": "active",
+      "reference": "Z0NZDDO39AFNV2X8",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 4438,
+      "userId": 142,
+      "date": "2024-01-05",
+      "amount": 57.05,
+      "status": "cancelled",
+      "reference": "UD90HM0H1U76RMK2",
+      "product": "Subscription",
+      "subscriptionId": 7993
+    },
+    {
+      "id": 3071,
+      "userId": 171,
+      "date": "2024-05-21",
+      "amount": 52.36,
+      "status": "expired",
+      "reference": "2YTUXE14F1RV817O",
+      "product": "Subscription",
+      "subscriptionId": 5819
+    },
+    {
+      "id": 9200,
+      "userId": 121,
+      "date": "2024-04-20",
+      "amount": 79.3,
+      "status": "paid",
+      "reference": "3SR4EWC4ZXKT0822",
+      "product": "Subscription",
+      "subscriptionId": 8703
+    },
+    {
+      "id": 8755,
+      "userId": 143,
+      "date": "2024-02-25",
+      "amount": 43.47,
+      "status": "expired",
+      "reference": "MWSFL4SOLT09E2RH",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 9246,
+      "userId": 159,
+      "date": "2025-03-05",
+      "amount": 97.34,
+      "status": "pending",
+      "reference": "8DPI95F01YW7R0LY",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 1716,
+      "userId": 171,
+      "date": "2024-01-16",
+      "amount": 35.2,
+      "status": "expired",
+      "reference": "BTCDW2Y6T874XZX2",
+      "product": "Subscription",
+      "subscriptionId": 7046
+    },
+    {
+      "id": 3984,
+      "userId": 189,
+      "date": "2024-01-19",
+      "amount": 60.37,
+      "status": "cancelled",
+      "reference": "PIZB495BZFD2Q7LP",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 9936,
+      "userId": 190,
+      "date": "2024-07-11",
+      "amount": 39.32,
+      "status": "expired",
+      "reference": "CKM7JNH8FDTQ6FP9",
+      "product": "500 Credits"
+    },
+    {
+      "id": 5222,
+      "userId": 192,
+      "date": "2024-07-25",
+      "amount": 51.38,
+      "status": "active",
+      "reference": "YX7PVL33J8P1HN7P",
+      "product": "Subscription",
+      "subscriptionId": 2891
+    },
+    {
+      "id": 4372,
+      "userId": 147,
+      "date": "2024-10-06",
+      "amount": 70.96,
+      "status": "pending",
+      "reference": "Z89PD5R27WKF988H",
+      "product": "10 GB"
+    },
+    {
+      "id": 5484,
+      "userId": 137,
+      "date": "2024-11-14",
+      "amount": 75.42,
+      "status": "pending",
+      "reference": "XSBN5IUILZZ59RNG",
+      "product": "Subscription",
+      "subscriptionId": 7851
+    },
+    {
+      "id": 5160,
+      "userId": 126,
+      "date": "2024-09-26",
+      "amount": 60.98,
+      "status": "refund",
+      "reference": "XY21UOJ20C8UEZKS",
+      "product": "Subscription",
+      "subscriptionId": 7802
+    },
+    {
+      "id": 9069,
+      "userId": 125,
+      "date": "2024-01-06",
+      "amount": 69.9,
+      "status": "pending",
+      "reference": "J7XNJ5L3LC5ISSG3",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 8507,
+      "userId": 119,
+      "date": "2024-07-28",
+      "amount": 99.94,
+      "status": "cancelled",
+      "reference": "7ZROVHE2N2SI7AC4",
+      "product": "Subscription",
+      "subscriptionId": 4064
+    },
+    {
+      "id": 3561,
+      "userId": 122,
+      "date": "2024-04-27",
+      "amount": 45.12,
+      "status": "cancelled",
+      "reference": "Q302VNAZQ59HRGJO",
+      "product": "Subscription",
+      "subscriptionId": 9044
+    },
+    {
+      "id": 6620,
+      "userId": 182,
+      "date": "2025-03-07",
+      "amount": 66.88,
+      "status": "cancelled",
+      "reference": "UTK3JZ1HYEVN1T45",
+      "product": "Subscription",
+      "subscriptionId": 3614
+    },
+    {
+      "id": 1476,
+      "userId": 118,
+      "date": "2024-07-15",
+      "amount": 50.3,
+      "status": "pending",
+      "reference": "W15IV2I41XRO5ZA8",
+      "product": "Subscription",
+      "subscriptionId": 8358
+    },
+    {
+      "id": 1831,
+      "userId": 109,
+      "date": "2024-11-14",
+      "amount": 69.29,
+      "status": "paid",
+      "reference": "E7V1CM4T1CZBRR89",
+      "product": "Subscription",
+      "subscriptionId": 5828
+    },
+    {
+      "id": 2819,
+      "userId": 146,
+      "date": "2024-11-26",
+      "amount": 91.61,
+      "status": "cancelled",
+      "reference": "Y1ZBCRWJR05ZM8XZ",
+      "product": "5 GB"
+    },
+    {
+      "id": 9237,
+      "userId": 130,
+      "date": "2025-04-11",
+      "amount": 89.77,
+      "status": "cancelled",
+      "reference": "XK1BFE8CSONG2QPY",
+      "product": "Subscription",
+      "subscriptionId": 1679
+    },
+    {
+      "id": 1374,
+      "userId": 189,
+      "date": "2024-11-13",
+      "amount": 45.66,
+      "status": "active",
+      "reference": "0GBECADTJOXLL4A2",
+      "product": "Subscription",
+      "subscriptionId": 4315
+    },
+    {
+      "id": 9584,
+      "userId": 167,
+      "date": "2025-01-22",
+      "amount": 33.51,
+      "status": "pending",
+      "reference": "K2CYA3SGOBEETXBW",
+      "product": "Subscription",
+      "subscriptionId": 8042
+    },
+    {
+      "id": 7530,
+      "userId": 125,
+      "date": "2024-10-29",
+      "amount": 97.98,
+      "status": "pending",
+      "reference": "0FE9U4CJHJ6CSON0",
+      "product": "10 GB"
+    },
+    {
+      "id": 2552,
+      "userId": 108,
+      "date": "2024-08-18",
+      "amount": 27.56,
+      "status": "pending",
+      "reference": "07CYS5PN5GJUNKVJ",
+      "product": "5 GB"
+    },
+    {
+      "id": 1949,
+      "userId": 179,
+      "date": "2024-12-24",
+      "amount": 45.16,
+      "status": "active",
+      "reference": "SLD11FMCIZWJZHUR",
+      "product": "10 GB"
+    },
+    {
+      "id": 8929,
+      "userId": 190,
+      "date": "2024-08-09",
+      "amount": 27.38,
+      "status": "refund",
+      "reference": "63HZ1ZOG8OJO9UDM",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 3371,
+      "userId": 161,
+      "date": "2024-02-19",
+      "amount": 51.64,
+      "status": "pending",
+      "reference": "T8IIN55V1RBGT1LR",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 4660,
+      "userId": 104,
+      "date": "2024-09-28",
+      "amount": 69.96,
+      "status": "active",
+      "reference": "001GO45BFW84UESW",
+      "product": "Subscription",
+      "subscriptionId": 1925
+    },
+    {
+      "id": 2903,
+      "userId": 138,
+      "date": "2025-03-18",
+      "amount": 43.01,
+      "status": "refund",
+      "reference": "HGAVFTIV1Q18XWEM",
+      "product": "10 GB"
+    },
+    {
+      "id": 6853,
+      "userId": 180,
+      "date": "2024-02-10",
+      "amount": 42.78,
+      "status": "expired",
+      "reference": "774J15B8O66EX4PJ",
+      "product": "500 Credits"
+    },
+    {
+      "id": 5516,
+      "userId": 124,
+      "date": "2024-09-18",
+      "amount": 88.81,
+      "status": "refund",
+      "reference": "ZD4E6ESHP34RXX8Q",
+      "product": "500 Credits"
+    },
+    {
+      "id": 1929,
+      "userId": 106,
+      "date": "2024-01-31",
+      "amount": 30.08,
+      "status": "expired",
+      "reference": "ZUUXB75W08IGI81D",
+      "product": "Subscription",
+      "subscriptionId": 6768
+    },
+    {
+      "id": 2076,
+      "userId": 145,
+      "date": "2024-03-10",
+      "amount": 70.24,
+      "status": "active",
+      "reference": "HX78WTHN1PYI34FM",
+      "product": "Subscription",
+      "subscriptionId": 8042
+    },
+    {
+      "id": 9348,
+      "userId": 182,
+      "date": "2024-07-03",
+      "amount": 55.03,
+      "status": "paid",
+      "reference": "4KJ0KKXM1B7ERDLL",
+      "product": "Subscription",
+      "subscriptionId": 7548
+    },
+    {
+      "id": 4021,
+      "userId": 138,
+      "date": "2024-09-04",
+      "amount": 54.45,
+      "status": "active",
+      "reference": "JLZG5PSFU025L9XJ",
+      "product": "500 Credits"
+    },
+    {
+      "id": 4087,
+      "userId": 133,
+      "date": "2024-12-18",
+      "amount": 48.73,
+      "status": "refund",
+      "reference": "4I059XAAL5PNNTPK",
+      "product": "Subscription",
+      "subscriptionId": 9497
+    },
+    {
+      "id": 3716,
+      "userId": 169,
+      "date": "2025-02-25",
+      "amount": 78.42,
+      "status": "cancelled",
+      "reference": "GJFMHQ3U09GI4PFP",
+      "product": "Subscription",
+      "subscriptionId": 2994
+    },
+    {
+      "id": 3751,
+      "userId": 158,
+      "date": "2024-04-22",
+      "amount": 70.32,
+      "status": "paid",
+      "reference": "31HFKRCHBMOXW386",
+      "product": "Subscription",
+      "subscriptionId": 7162
+    },
+    {
+      "id": 9279,
+      "userId": 171,
+      "date": "2024-07-31",
+      "amount": 27.39,
+      "status": "refund",
+      "reference": "LDLYRH72NXUCZ0PG",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 2601,
+      "userId": 152,
+      "date": "2024-04-01",
+      "amount": 67.03,
+      "status": "refund",
+      "reference": "1LH2FV0BXM3FKMSS",
+      "product": "5 GB"
+    },
+    {
+      "id": 5797,
+      "userId": 200,
+      "date": "2025-03-14",
+      "amount": 55.18,
+      "status": "pending",
+      "reference": "Q1I7JABI8TI6TJ1J",
+      "product": "Subscription",
+      "subscriptionId": 2730
+    },
+    {
+      "id": 7781,
+      "userId": 119,
+      "date": "2024-10-12",
+      "amount": 50.81,
+      "status": "refund",
+      "reference": "E7D29MA1JW20WLDS",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 1433,
+      "userId": 193,
+      "date": "2024-05-30",
+      "amount": 34.34,
+      "status": "pending",
+      "reference": "VHEP8YXXHAYQ3MLK",
+      "product": "Subscription",
+      "subscriptionId": 7488
+    },
+    {
+      "id": 1012,
+      "userId": 181,
+      "date": "2025-03-30",
+      "amount": 52.1,
+      "status": "expired",
+      "reference": "K3HIUE77K3HK9FD5",
+      "product": "500 Credits"
+    },
+    {
+      "id": 7794,
+      "userId": 174,
+      "date": "2024-07-21",
+      "amount": 21.85,
+      "status": "pending",
+      "reference": "SEBKOXVB2WYJZWJK",
+      "product": "Subscription",
+      "subscriptionId": 7018
+    },
+    {
+      "id": 6522,
+      "userId": 101,
+      "date": "2024-05-21",
+      "amount": 82.33,
+      "status": "paid",
+      "reference": "M3XPX3HYPTR4GGFO",
+      "product": "5 GB"
+    },
+    {
+      "id": 4584,
+      "userId": 116,
+      "date": "2024-10-24",
+      "amount": 48.34,
+      "status": "refund",
+      "reference": "NH5TWCH8Y1SIEL3K",
+      "product": "Subscription",
+      "subscriptionId": 2994
+    },
+    {
+      "id": 6568,
+      "userId": 164,
+      "date": "2024-10-08",
+      "amount": 49.53,
+      "status": "refund",
+      "reference": "DEHNBIWZIULUWR13",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 5659,
+      "userId": 121,
+      "date": "2024-08-29",
+      "amount": 91.77,
+      "status": "pending",
+      "reference": "YK9K62AWPFCLGGN4",
+      "product": "Subscription",
+      "subscriptionId": 5944
+    },
+    {
+      "id": 4865,
+      "userId": 200,
+      "date": "2024-11-27",
+      "amount": 83.13,
+      "status": "refund",
+      "reference": "L737LFZTFPN3FHFB",
+      "product": "Subscription",
+      "subscriptionId": 5819
+    },
+    {
+      "id": 6172,
+      "userId": 117,
+      "date": "2024-12-23",
+      "amount": 96.45,
+      "status": "active",
+      "reference": "TTNH0CYAFG08X50S",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 7998,
+      "userId": 164,
+      "date": "2024-10-02",
+      "amount": 63.32,
+      "status": "cancelled",
+      "reference": "QAZ7WNM0JBK120XL",
+      "product": "Subscription",
+      "subscriptionId": 5944
+    },
+    {
+      "id": 6923,
+      "userId": 189,
+      "date": "2024-09-02",
+      "amount": 70.23,
+      "status": "expired",
+      "reference": "A1WPCYHXLPT84J5K",
+      "product": "5 GB"
+    },
+    {
+      "id": 4786,
+      "userId": 195,
+      "date": "2025-02-07",
+      "amount": 79.38,
+      "status": "pending",
+      "reference": "SDCG4S7F0MB6S231",
+      "product": "Subscription",
+      "subscriptionId": 8703
+    },
+    {
+      "id": 3841,
+      "userId": 199,
+      "date": "2024-03-15",
+      "amount": 24.79,
+      "status": "expired",
+      "reference": "ZLX4R0C52LI4R3ZS",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 1273,
+      "userId": 112,
+      "date": "2024-06-24",
+      "amount": 68.46,
+      "status": "expired",
+      "reference": "7CVMK25C1RJSJ93Z",
+      "product": "5 GB"
+    },
+    {
+      "id": 5485,
+      "userId": 196,
+      "date": "2024-04-11",
+      "amount": 49.74,
+      "status": "refund",
+      "reference": "Q8TTPZ6JMET7RX5B",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 9973,
+      "userId": 172,
+      "date": "2024-07-28",
+      "amount": 78.92,
+      "status": "refund",
+      "reference": "EBEH7D8PEBLFAN2X",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 7800,
+      "userId": 161,
+      "date": "2024-12-02",
+      "amount": 77.29,
+      "status": "expired",
+      "reference": "U983HZCWZSVOKJKX",
+      "product": "Unlimited"
+    },
+    {
+      "id": 8115,
+      "userId": 108,
+      "date": "2024-07-01",
+      "amount": 45.06,
+      "status": "active",
+      "reference": "DVPYZOOU9R7UOHOC",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1372,
+      "userId": 172,
+      "date": "2024-02-20",
+      "amount": 51.42,
+      "status": "active",
+      "reference": "UJMKBU6M9Y7G2FBS",
+      "product": "Subscription",
+      "subscriptionId": 1285
+    },
+    {
+      "id": 6089,
+      "userId": 154,
+      "date": "2024-06-30",
+      "amount": 95.46,
+      "status": "expired",
+      "reference": "D6ZMDGVSJQT7RXTO",
+      "product": "10 GB"
+    },
+    {
+      "id": 5266,
+      "userId": 156,
+      "date": "2024-12-04",
+      "amount": 60.26,
+      "status": "expired",
+      "reference": "W4WOCSQI09OHWONJ",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 6148,
+      "userId": 103,
+      "date": "2025-01-06",
+      "amount": 72.15,
+      "status": "paid",
+      "reference": "DPSTL1O1Q7VG1CML",
+      "product": "Subscription",
+      "subscriptionId": 3588
+    },
+    {
+      "id": 7277,
+      "userId": 175,
+      "date": "2025-04-05",
+      "amount": 49.49,
+      "status": "active",
+      "reference": "J7VIL0JG8KO9YLTC",
+      "product": "10 GB"
+    },
+    {
+      "id": 6658,
+      "userId": 159,
+      "date": "2024-04-18",
+      "amount": 56.63,
+      "status": "active",
+      "reference": "NP3MY1GC6DXTHNHN",
+      "product": "Subscription",
+      "subscriptionId": 5368
+    },
+    {
+      "id": 3454,
+      "userId": 136,
+      "date": "2024-10-02",
+      "amount": 99.11,
+      "status": "paid",
+      "reference": "Y675UI6OQDNR330I",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 7825,
+      "userId": 122,
+      "date": "2025-03-16",
+      "amount": 84.99,
+      "status": "pending",
+      "reference": "LL6XKJI0IIUGZP3K",
+      "product": "5 GB"
+    },
+    {
+      "id": 4082,
+      "userId": 140,
+      "date": "2024-01-30",
+      "amount": 32.3,
+      "status": "paid",
+      "reference": "XEYIZEVFK5Z51E1S",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 7813,
+      "userId": 175,
+      "date": "2024-06-27",
+      "amount": 27.44,
+      "status": "cancelled",
+      "reference": "4ZLUW7ER629WV5ID",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 4773,
+      "userId": 145,
+      "date": "2024-10-27",
+      "amount": 31.4,
+      "status": "active",
+      "reference": "G1YQOK6IX5FDYFZ3",
+      "product": "Subscription",
+      "subscriptionId": 7269
+    },
+    {
+      "id": 9317,
+      "userId": 103,
+      "date": "2024-12-28",
+      "amount": 62.14,
+      "status": "pending",
+      "reference": "W8YOC2BFPHBIZR69",
+      "product": "10 GB"
+    },
+    {
+      "id": 8028,
+      "userId": 165,
+      "date": "2024-12-25",
+      "amount": 46.97,
+      "status": "expired",
+      "reference": "5NT8I91I91JQMII1",
+      "product": "Subscription",
+      "subscriptionId": 5940
+    },
+    {
+      "id": 4004,
+      "userId": 174,
+      "date": "2025-01-03",
+      "amount": 96.43,
+      "status": "expired",
+      "reference": "E8SQSEQCKLBFQGA4",
+      "product": "100 Credits"
+    },
+    {
+      "id": 9894,
+      "userId": 137,
+      "date": "2024-06-14",
+      "amount": 57.68,
+      "status": "active",
+      "reference": "NE0ACCBZX64BBB3T",
+      "product": "Subscription",
+      "subscriptionId": 7802
+    },
+    {
+      "id": 8340,
+      "userId": 191,
+      "date": "2024-10-21",
+      "amount": 29.48,
+      "status": "expired",
+      "reference": "IJZEDWNDHF3I4IKA",
+      "product": "100 Credits"
+    },
+    {
+      "id": 4675,
+      "userId": 121,
+      "date": "2024-11-29",
+      "amount": 49.35,
+      "status": "cancelled",
+      "reference": "LWY2F3L74W3BA20I",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 2694,
+      "userId": 152,
+      "date": "2024-10-07",
+      "amount": 35.27,
+      "status": "expired",
+      "reference": "UXNT2UDZZVKS44VR",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 5768,
+      "userId": 170,
+      "date": "2024-08-03",
+      "amount": 33.65,
+      "status": "paid",
+      "reference": "TPEA2EP89F12CAS5",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 7569,
+      "userId": 164,
+      "date": "2024-03-06",
+      "amount": 31.49,
+      "status": "active",
+      "reference": "INCCKJ22ZXAY5RQ6",
+      "product": "Subscription",
+      "subscriptionId": 9885
+    },
+    {
+      "id": 6191,
+      "userId": 105,
+      "date": "2024-02-18",
+      "amount": 29.76,
+      "status": "cancelled",
+      "reference": "FLG10U18WH8PCSBZ",
+      "product": "Subscription",
+      "subscriptionId": 9165
+    },
+    {
+      "id": 7835,
+      "userId": 122,
+      "date": "2024-07-12",
+      "amount": 52.26,
+      "status": "paid",
+      "reference": "1GHG6DY9GDTYVDXW",
+      "product": "Subscription",
+      "subscriptionId": 6239
+    },
+    {
+      "id": 7871,
+      "userId": 179,
+      "date": "2025-01-19",
+      "amount": 75.64,
+      "status": "paid",
+      "reference": "F2IG33OIUFYNQI7G",
+      "product": "500 Credits"
+    },
+    {
+      "id": 1086,
+      "userId": 135,
+      "date": "2024-05-11",
+      "amount": 21.93,
+      "status": "cancelled",
+      "reference": "WRZN05W3ZCN21S1D",
+      "product": "100 Credits"
+    },
+    {
+      "id": 9154,
+      "userId": 100,
+      "date": "2024-06-04",
+      "amount": 52.96,
+      "status": "paid",
+      "reference": "IGNICOKR5CTNT3G6",
+      "product": "Subscription",
+      "subscriptionId": 5111
+    },
+    {
+      "id": 8509,
+      "userId": 167,
+      "date": "2024-09-26",
+      "amount": 59.12,
+      "status": "refund",
+      "reference": "HRN8WK7XWT0F90AW",
+      "product": "5 GB"
+    },
+    {
+      "id": 6600,
+      "userId": 193,
+      "date": "2024-03-08",
+      "amount": 84.03,
+      "status": "refund",
+      "reference": "PY7YQYPY5E3IPPJX",
+      "product": "Subscription",
+      "subscriptionId": 4315
+    },
+    {
+      "id": 3379,
+      "userId": 148,
+      "date": "2024-09-11",
+      "amount": 28.56,
+      "status": "refund",
+      "reference": "V8B8Y8KO3MYKK8WG",
+      "product": "Unlimited"
+    },
+    {
+      "id": 3327,
+      "userId": 179,
+      "date": "2024-12-12",
+      "amount": 34.43,
+      "status": "expired",
+      "reference": "26H911UH231I2LS9",
+      "product": "Subscription",
+      "subscriptionId": 3614
+    },
+    {
+      "id": 3051,
+      "userId": 139,
+      "date": "2024-07-12",
+      "amount": 78.3,
+      "status": "pending",
+      "reference": "WT15NG8FUCYDQK8V",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 3538,
+      "userId": 143,
+      "date": "2024-04-16",
+      "amount": 41.65,
+      "status": "pending",
+      "reference": "ME5UXRRG3A5SJB8V",
+      "product": "Subscription",
+      "subscriptionId": 5384
+    },
+    {
+      "id": 3495,
+      "userId": 188,
+      "date": "2024-10-31",
+      "amount": 87.69,
+      "status": "refund",
+      "reference": "845RMQRA8ALUYKS4",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 8024,
+      "userId": 180,
+      "date": "2025-01-03",
+      "amount": 50.16,
+      "status": "expired",
+      "reference": "Y49LCEEOQFLYY8E3",
+      "product": "Subscription",
+      "subscriptionId": 6067
+    },
+    {
+      "id": 6805,
+      "userId": 195,
+      "date": "2024-04-12",
+      "amount": 39.03,
+      "status": "refund",
+      "reference": "76LKDIMMG04GERI5",
+      "product": "5 GB"
+    },
+    {
+      "id": 4707,
+      "userId": 127,
+      "date": "2024-09-11",
+      "amount": 44.41,
+      "status": "refund",
+      "reference": "VPAAGL1E9EFFA7C9",
+      "product": "Subscription",
+      "subscriptionId": 3605
+    },
+    {
+      "id": 9192,
+      "userId": 189,
+      "date": "2024-09-11",
+      "amount": 25.52,
+      "status": "pending",
+      "reference": "3WOA2M4F6ZHDV1WB",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 6724,
+      "userId": 137,
+      "date": "2024-09-06",
+      "amount": 48.72,
+      "status": "pending",
+      "reference": "59RHKZUO6F18DOUC",
+      "product": "Subscription",
+      "subscriptionId": 3498
+    },
+    {
+      "id": 6980,
+      "userId": 156,
+      "date": "2025-02-23",
+      "amount": 77.95,
+      "status": "paid",
+      "reference": "4SZ2HQK2ZUAKP6OC",
+      "product": "Subscription",
+      "subscriptionId": 4468
+    },
+    {
+      "id": 1232,
+      "userId": 109,
+      "date": "2025-01-16",
+      "amount": 92.66,
+      "status": "refund",
+      "reference": "NOL1FQ5XJ8FXXH90",
+      "product": "Subscription",
+      "subscriptionId": 7592
+    },
+    {
+      "id": 2055,
+      "userId": 190,
+      "date": "2024-08-05",
+      "amount": 78.48,
+      "status": "active",
+      "reference": "D4Q75X7555M5FLFN",
+      "product": "5 GB"
+    },
+    {
+      "id": 7552,
+      "userId": 121,
+      "date": "2025-04-24",
+      "amount": 27.86,
+      "status": "cancelled",
+      "reference": "7KG49W4ALGGG3N9P",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 6877,
+      "userId": 111,
+      "date": "2024-03-03",
+      "amount": 43.32,
+      "status": "expired",
+      "reference": "2UMMMQ0ZSA861IIX",
+      "product": "500 Credits"
+    },
+    {
+      "id": 3917,
+      "userId": 132,
+      "date": "2024-07-10",
+      "amount": 38.95,
+      "status": "paid",
+      "reference": "OLZT9QY2QMYEUCU8",
+      "product": "10 GB"
+    },
+    {
+      "id": 3433,
+      "userId": 183,
+      "date": "2025-04-03",
+      "amount": 60.36,
+      "status": "expired",
+      "reference": "BZFD812IZUCBVFF1",
+      "product": "500 Credits"
+    },
+    {
+      "id": 2935,
+      "userId": 188,
+      "date": "2024-05-08",
+      "amount": 58.01,
+      "status": "cancelled",
+      "reference": "UZ1Q8CQJ3TTIZMXR",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 2113,
+      "userId": 165,
+      "date": "2025-04-16",
+      "amount": 54.42,
+      "status": "active",
+      "reference": "T4X1071FQTY0R9Q7",
+      "product": "10 GB"
+    },
+    {
+      "id": 2203,
+      "userId": 106,
+      "date": "2024-05-29",
+      "amount": 65.8,
+      "status": "paid",
+      "reference": "R2QRNJW0FDQ9NQ17",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 1249,
+      "userId": 153,
+      "date": "2024-05-24",
+      "amount": 77.65,
+      "status": "refund",
+      "reference": "MUN1Y4OY2FYI4825",
+      "product": "Subscription",
+      "subscriptionId": 9044
+    },
+    {
+      "id": 6594,
+      "userId": 115,
+      "date": "2024-02-26",
+      "amount": 42.07,
+      "status": "refund",
+      "reference": "QEZ33OBHAMVMVW0O",
+      "product": "Subscription",
+      "subscriptionId": 7028
+    },
+    {
+      "id": 9417,
+      "userId": 100,
+      "date": "2024-07-04",
+      "amount": 38.93,
+      "status": "expired",
+      "reference": "W6C1G47MFCHBD36B",
+      "product": "10 GB"
+    },
+    {
+      "id": 8887,
+      "userId": 141,
+      "date": "2024-04-01",
+      "amount": 67.44,
+      "status": "refund",
+      "reference": "PD5E49BHCBXJ3IVF",
+      "product": "100 Credits"
+    },
+    {
+      "id": 3978,
+      "userId": 187,
+      "date": "2025-03-27",
+      "amount": 50.95,
+      "status": "paid",
+      "reference": "OJ5L64A4RVDCOK67",
+      "product": "Subscription",
+      "subscriptionId": 5944
+    },
+    {
+      "id": 6451,
+      "userId": 108,
+      "date": "2024-09-02",
+      "amount": 61.36,
+      "status": "cancelled",
+      "reference": "6DS8BA4V7O83NJYU",
+      "product": "Subscription",
+      "subscriptionId": 9162
+    },
+    {
+      "id": 4807,
+      "userId": 193,
+      "date": "2024-03-12",
+      "amount": 77.99,
+      "status": "pending",
+      "reference": "SQNGUYV5UZ6LYVH4",
+      "product": "Subscription",
+      "subscriptionId": 9497
+    },
+    {
+      "id": 7859,
+      "userId": 132,
+      "date": "2024-09-11",
+      "amount": 53.04,
+      "status": "refund",
+      "reference": "LSMFKMJA77TGM8OW",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1519,
+      "userId": 170,
+      "date": "2025-04-01",
+      "amount": 37.25,
+      "status": "expired",
+      "reference": "E0VAY6W3R9MVUE7O",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 2997,
+      "userId": 154,
+      "date": "2024-12-28",
+      "amount": 76.31,
+      "status": "active",
+      "reference": "L31IL10DAVBC2398",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 6097,
+      "userId": 145,
+      "date": "2024-04-20",
+      "amount": 38.34,
+      "status": "active",
+      "reference": "ZRAE6NA4KNDZ4HPH",
+      "product": "Subscription",
+      "subscriptionId": 7562
+    },
+    {
+      "id": 7284,
+      "userId": 160,
+      "date": "2024-01-05",
+      "amount": 89.28,
+      "status": "paid",
+      "reference": "XAVGH3ZNBFUPGRF6",
+      "product": "Subscription",
+      "subscriptionId": 9162
+    },
+    {
+      "id": 9371,
+      "userId": 120,
+      "date": "2024-10-08",
+      "amount": 24.9,
+      "status": "pending",
+      "reference": "8Z0DEL6LVASN649U",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 6509,
+      "userId": 184,
+      "date": "2025-03-01",
+      "amount": 72.42,
+      "status": "cancelled",
+      "reference": "5L3GUT5HIHF196OQ",
+      "product": "500 Credits"
+    },
+    {
+      "id": 3599,
+      "userId": 129,
+      "date": "2024-08-18",
+      "amount": 56.2,
+      "status": "pending",
+      "reference": "DHG253W96N2JEVC9",
+      "product": "Subscription",
+      "subscriptionId": 3645
+    },
+    {
+      "id": 8350,
+      "userId": 147,
+      "date": "2024-10-31",
+      "amount": 32.58,
+      "status": "pending",
+      "reference": "RNY29F4KK42PEFZR",
+      "product": "Subscription",
+      "subscriptionId": 8189
+    },
+    {
+      "id": 1380,
+      "userId": 113,
+      "date": "2025-02-18",
+      "amount": 52.24,
+      "status": "pending",
+      "reference": "N31WPDM5CS2EUM7N",
+      "product": "Subscription",
+      "subscriptionId": 7592
+    },
+    {
+      "id": 8615,
+      "userId": 165,
+      "date": "2025-04-15",
+      "amount": 24.58,
+      "status": "paid",
+      "reference": "YFGOU7OB4XDEFW5N",
+      "product": "Unlimited"
+    },
+    {
+      "id": 2654,
+      "userId": 105,
+      "date": "2024-10-10",
+      "amount": 33.72,
+      "status": "refund",
+      "reference": "IS57Y8XHTFMHKSD8",
+      "product": "Subscription",
+      "subscriptionId": 5111
+    },
+    {
+      "id": 2688,
+      "userId": 122,
+      "date": "2024-01-20",
+      "amount": 63.07,
+      "status": "cancelled",
+      "reference": "XE5Q01LP2ABOXZXF",
+      "product": "Subscription",
+      "subscriptionId": 9582
+    },
+    {
+      "id": 5611,
+      "userId": 172,
+      "date": "2024-01-27",
+      "amount": 69.64,
+      "status": "active",
+      "reference": "ZBO6FF5FQI99KKEM",
+      "product": "Subscription",
+      "subscriptionId": 7429
+    },
+    {
+      "id": 8775,
+      "userId": 195,
+      "date": "2025-01-09",
+      "amount": 73.62,
+      "status": "refund",
+      "reference": "BOO300J2T55OCIX4",
+      "product": "5 GB"
+    },
+    {
+      "id": 5490,
+      "userId": 194,
+      "date": "2025-01-20",
+      "amount": 77.31,
+      "status": "expired",
+      "reference": "9PF5F68CPL0ZE9UT",
+      "product": "Subscription",
+      "subscriptionId": 7548
+    },
+    {
+      "id": 5081,
+      "userId": 157,
+      "date": "2025-03-07",
+      "amount": 42.45,
+      "status": "paid",
+      "reference": "J96MAW18ES5BBJH0",
+      "product": "5 GB"
+    },
+    {
+      "id": 6502,
+      "userId": 149,
+      "date": "2024-04-21",
+      "amount": 31.76,
+      "status": "expired",
+      "reference": "YW7WDPKTVO1I0SWK",
+      "product": "Subscription",
+      "subscriptionId": 1274
+    },
+    {
+      "id": 7413,
+      "userId": 199,
+      "date": "2024-10-13",
+      "amount": 69.7,
+      "status": "active",
+      "reference": "JZPVPU90R5GT187O",
+      "product": "Subscription",
+      "subscriptionId": 7269
+    },
+    {
+      "id": 1836,
+      "userId": 200,
+      "date": "2025-02-09",
+      "amount": 70.67,
+      "status": "expired",
+      "reference": "2YDDRWFTUEXPE17R",
+      "product": "Subscription",
+      "subscriptionId": 9888
+    },
+    {
+      "id": 8757,
+      "userId": 124,
+      "date": "2024-06-19",
+      "amount": 33.78,
+      "status": "refund",
+      "reference": "N5LM77X56EDAI4RE",
+      "product": "Unlimited"
+    },
+    {
+      "id": 6224,
+      "userId": 133,
+      "date": "2025-04-01",
+      "amount": 62.23,
+      "status": "paid",
+      "reference": "RS2AKKJXZTR0VOJB",
+      "product": "1000 Credits"
+    },
+    {
+      "id": 8205,
+      "userId": 148,
+      "date": "2024-05-01",
+      "amount": 96.24,
+      "status": "paid",
+      "reference": "MC1AD0RB4BMVCT5P",
+      "product": "5 GB"
+    },
+    {
+      "id": 5693,
+      "userId": 124,
+      "date": "2024-07-06",
+      "amount": 40.75,
+      "status": "expired",
+      "reference": "5SI2JR4SQBUOETFC",
+      "product": "Unlimited"
+    },
+    {
+      "id": 1295,
+      "userId": 186,
+      "date": "2024-12-02",
+      "amount": 60.06,
+      "status": "refund",
+      "reference": "12ZNFQ0810P0A8TV",
+      "product": "10 GB"
+    },
+    {
+      "id": 9491,
+      "userId": 163,
+      "date": "2024-06-05",
+      "amount": 65.73,
+      "status": "cancelled",
+      "reference": "V6C2O42ZZD7I9FAF",
+      "product": "Subscription",
+      "subscriptionId": 4827
+    },
+    {
+      "id": 3684,
+      "userId": 129,
+      "date": "2024-03-24",
+      "amount": 90.76,
+      "status": "expired",
+      "reference": "ACAHSRIND043S6UQ",
+      "product": "Unlimited"
+    },
+    {
+      "id": 4624,
+      "userId": 164,
+      "date": "2025-05-04",
+      "amount": 94.39,
+      "status": "cancelled",
+      "reference": "785GV6ZEXRGF7B9J",
+      "product": "Subscription",
+      "subscriptionId": 1479
+    },
+    {
+      "id": 3424,
+      "userId": 126,
+      "date": "2024-10-12",
+      "amount": 56.14,
+      "status": "cancelled",
+      "reference": "J4789Z2TTACFZ0S6",
+      "product": "Subscription",
+      "subscriptionId": 5368
+    },
+    {
+      "id": 7989,
+      "userId": 199,
+      "date": "2025-03-30",
+      "amount": 32.28,
+      "status": "expired",
+      "reference": "JWAP2DC95KWUFAEW",
+      "product": "Unlimited"
+    },
+    {
+      "id": 5641,
+      "userId": 177,
+      "date": "2024-11-07",
+      "amount": 85.62,
+      "status": "expired",
+      "reference": "ILWMIDU7AULP57TK",
+      "product": "Subscription",
+      "subscriptionId": 4315
+    },
+    {
+      "id": 1323,
+      "userId": 143,
+      "date": "2024-04-11",
+      "amount": 55.28,
+      "status": "paid",
+      "reference": "U380PVJI1IS0MTAR",
+      "product": "Subscription",
+      "subscriptionId": 1274
+    },
+    {
+      "id": 9443,
+      "userId": 123,
+      "date": "2024-09-17",
+      "amount": 74.65,
+      "status": "paid",
+      "reference": "UW9OSUAEDUMYHYYQ",
+      "product": "Subscription",
+      "subscriptionId": 2891
+    },
+    {
+      "id": 2713,
+      "userId": 124,
+      "date": "2024-07-03",
+      "amount": 50.06,
+      "status": "cancelled",
+      "reference": "HYBPW8CGT9MIDXI2",
+      "product": "Subscription",
+      "subscriptionId": 5706
+    },
+    {
+      "id": 2514,
+      "userId": 149,
+      "date": "2024-03-31",
+      "amount": 79.52,
+      "status": "expired",
+      "reference": "6DTEWJPW5527IHMO",
+      "product": "Subscription",
+      "subscriptionId": 9064
+    },
+    {
+      "id": 1561,
+      "userId": 127,
+      "date": "2025-01-06",
+      "amount": 91.66,
+      "status": "pending",
+      "reference": "EOGRZT6OZSOLBOGC",
+      "product": "Subscription",
+      "subscriptionId": 7028
+    },
+    {
+      "id": 7988,
+      "userId": 131,
+      "date": "2024-05-27",
+      "amount": 73.33,
+      "status": "expired",
+      "reference": "C3T0CXRYPDT6DTYV",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 2761,
+      "userId": 188,
+      "date": "2024-03-17",
+      "amount": 42.48,
+      "status": "pending",
+      "reference": "9TURY8G6SUBS6P4K",
+      "product": "5 GB"
+    },
+    {
+      "id": 3556,
+      "userId": 110,
+      "date": "2024-11-09",
+      "amount": 74.12,
+      "status": "pending",
+      "reference": "549E8CJ4HBZKRY4X",
+      "product": "Subscription",
+      "subscriptionId": 9913
+    },
+    {
+      "id": 2050,
+      "userId": 184,
+      "date": "2025-04-03",
+      "amount": 60.38,
+      "status": "cancelled",
+      "reference": "DFWZXHVBZBC7NR8I",
+      "product": "Subscription",
+      "subscriptionId": 5065
+    },
+    {
+      "id": 8003,
+      "userId": 124,
+      "date": "2024-03-04",
+      "amount": 74.99,
+      "status": "expired",
+      "reference": "GC3AFRVSZ6KOSOX7",
+      "product": "Subscription",
+      "subscriptionId": 5065
+    },
+    {
+      "id": 1704,
+      "userId": 168,
+      "date": "2024-05-20",
+      "amount": 39.01,
+      "status": "cancelled",
+      "reference": "6UT4Z94Z442T1H9A",
+      "product": "Subscription",
+      "subscriptionId": 1890
+    },
+    {
+      "id": 4066,
+      "userId": 188,
+      "date": "2024-03-25",
+      "amount": 68.94,
+      "status": "pending",
+      "reference": "ARKHE2YJQIS7K35O",
+      "product": "Subscription",
+      "subscriptionId": 3286
+    },
+    {
+      "id": 4833,
+      "userId": 165,
+      "date": "2024-08-27",
+      "amount": 29.7,
+      "status": "paid",
+      "reference": "AEV3LVR315GLDL8J",
+      "product": "Subscription",
+      "subscriptionId": 4468
+    },
+    {
+      "id": 8486,
+      "userId": 141,
+      "date": "2025-01-08",
+      "amount": 94.78,
+      "status": "expired",
+      "reference": "TCM6BUV1R8D5A7DK",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 1049,
+      "userId": 137,
+      "date": "2024-11-27",
+      "amount": 70.45,
+      "status": "active",
+      "reference": "ID966AIW02EUKM1Y",
+      "product": "Subscription",
+      "subscriptionId": 3818
+    },
+    {
+      "id": 7740,
+      "userId": 124,
+      "date": "2025-03-04",
+      "amount": 34.83,
+      "status": "pending",
+      "reference": "P920YZIDZ5YIGDUO",
+      "product": "Subscription",
+      "subscriptionId": 3498
+    },
+    {
+      "id": 3679,
+      "userId": 158,
+      "date": "2024-01-08",
+      "amount": 27.62,
+      "status": "expired",
+      "reference": "EE8Q8ES6M3T8GLF4",
+      "product": "100 Credits"
+    },
+    {
+      "id": 4765,
+      "userId": 130,
+      "date": "2024-07-04",
+      "amount": 62.62,
+      "status": "cancelled",
+      "reference": "OFJHLX7DF72M1M61",
+      "product": "10 GB"
+    },
+    {
+      "id": 6898,
+      "userId": 198,
+      "date": "2024-12-16",
+      "amount": 66.73,
+      "status": "active",
+      "reference": "OHEDDEXCACULBN5M",
+      "product": "Subscription",
+      "subscriptionId": 5383
+    },
+    {
+      "id": 5949,
+      "userId": 136,
+      "date": "2025-03-28",
+      "amount": 29.96,
+      "status": "active",
+      "reference": "KZ59TQ38I6URUCQR",
+      "product": "Subscription",
+      "subscriptionId": 2240
+    },
+    {
+      "id": 5367,
+      "userId": 101,
+      "date": "2025-04-12",
+      "amount": 32.21,
+      "status": "refund",
+      "reference": "PIRI980LMRAQSOV2",
+      "product": "Subscription",
+      "subscriptionId": 3818
+    },
+    {
+      "id": 3621,
+      "userId": 165,
+      "date": "2024-11-18",
+      "amount": 40.42,
+      "status": "cancelled",
+      "reference": "FJMKRJF3TI8EC5R0",
+      "product": "5 GB"
+    },
+    {
+      "id": 6239,
+      "userId": 170,
+      "date": "2024-02-21",
+      "amount": 67.54,
+      "status": "expired",
+      "reference": "1WRLID325VYK32LW",
+      "product": "Subscription",
+      "subscriptionId": 7993
+    },
+    {
+      "id": 9665,
+      "userId": 145,
+      "date": "2024-03-25",
+      "amount": 41.6,
+      "status": "active",
+      "reference": "30TXTXHO2T71ADWW",
+      "product": "5 GB"
+    },
+    {
+      "id": 8504,
+      "userId": 158,
+      "date": "2024-10-06",
+      "amount": 56.11,
+      "status": "active",
+      "reference": "BQXT7YKFEWAQR8I9",
+      "product": "Subscription",
+      "subscriptionId": 3818
+    },
+    {
+      "id": 5889,
+      "userId": 138,
+      "date": "2024-09-27",
+      "amount": 84.88,
+      "status": "expired",
+      "reference": "PK1OLMSRK3RL4YYZ",
+      "product": "500 Credits"
+    },
+    {
+      "id": 8916,
+      "userId": 143,
+      "date": "2024-02-16",
+      "amount": 27.2,
+      "status": "refund",
+      "reference": "2B8R2F24IZEDNP12",
+      "product": "Subscription",
+      "subscriptionId": 6326
+    },
+    {
+      "id": 1849,
+      "userId": 118,
+      "date": "2024-07-15",
+      "amount": 20.32,
+      "status": "expired",
+      "reference": "KRBKC3S7M6S7K1BM",
+      "product": "Subscription",
+      "subscriptionId": 6724
+    },
+    {
+      "id": 2996,
+      "userId": 123,
+      "date": "2024-03-13",
+      "amount": 57.39,
+      "status": "expired",
+      "reference": "U28KY3XBZC6J202Y",
+      "product": "Subscription",
+      "subscriptionId": 3832
+    },
+    {
+      "id": 4241,
+      "userId": 148,
+      "date": "2024-03-30",
+      "amount": 98.94,
+      "status": "cancelled",
+      "reference": "VAK69WB2KA5LXAM0",
+      "product": "5 GB"
+    },
+    {
+      "id": 7670,
+      "userId": 195,
+      "date": "2024-09-30",
+      "amount": 95.88,
+      "status": "paid",
+      "reference": "KA9K0MDIFOPOPY2T",
+      "product": "Subscription",
+      "subscriptionId": 3946
+    },
+    {
+      "id": 7518,
+      "userId": 173,
+      "date": "2024-05-08",
+      "amount": 83.67,
+      "status": "paid",
+      "reference": "HKJ49VLWC8CHY6SC",
+      "product": "Subscription",
+      "subscriptionId": 2730
+    },
+    {
+      "id": 4022,
+      "userId": 113,
+      "date": "2024-11-21",
+      "amount": 76.34,
+      "status": "refund",
+      "reference": "ZCLF3QWUDSEG9RSV",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 1993,
+      "userId": 113,
+      "date": "2024-06-26",
+      "amount": 71.98,
+      "status": "paid",
+      "reference": "Z6QQA398PDB23HP5",
+      "product": "Subscription",
+      "subscriptionId": 3421
+    },
+    {
+      "id": 4621,
+      "userId": 121,
+      "date": "2024-03-25",
+      "amount": 90.04,
+      "status": "expired",
+      "reference": "XKWO6RFDWEWJ5SY0",
+      "product": "100 Credits"
+    },
+    {
+      "id": 4871,
+      "userId": 112,
+      "date": "2024-10-02",
+      "amount": 47,
+      "status": "refund",
+      "reference": "1J7UCIRE4S15TFWD",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 5742,
+      "userId": 112,
+      "date": "2024-09-02",
+      "amount": 23.26,
+      "status": "refund",
+      "reference": "NJVVTAUKJL0KSQTK",
+      "product": "Subscription",
+      "subscriptionId": 3498
+    },
+    {
+      "id": 8530,
+      "userId": 114,
+      "date": "2024-09-22",
+      "amount": 87.61,
+      "status": "paid",
+      "reference": "GD6D7F37AGWZVBRI",
+      "product": "Subscription",
+      "subscriptionId": 5368
+    },
+    {
+      "id": 1119,
+      "userId": 127,
+      "date": "2025-02-21",
+      "amount": 66.41,
+      "status": "active",
+      "reference": "IS5G6V6T564ZZMQI",
+      "product": "Subscription",
+      "subscriptionId": 7269
+    },
+    {
+      "id": 6190,
+      "userId": 136,
+      "date": "2025-04-13",
+      "amount": 75.9,
+      "status": "paid",
+      "reference": "OUGI7QVYIQBHJWYB",
+      "product": "Subscription",
+      "subscriptionId": 9182
+    },
+    {
+      "id": 6823,
+      "userId": 116,
+      "date": "2024-09-17",
+      "amount": 53.47,
+      "status": "pending",
+      "reference": "30IKTXPVKKH6JQC6",
+      "product": "Subscription",
+      "subscriptionId": 7993
+    },
+    {
+      "id": 7024,
+      "userId": 101,
+      "date": "2024-05-26",
+      "amount": 50.51,
+      "status": "paid",
+      "reference": "623XZNZ63JNUIE45",
+      "product": "Subscription",
+      "subscriptionId": 7217
+    },
+    {
+      "id": 3807,
+      "userId": 195,
+      "date": "2024-10-16",
+      "amount": 24.2,
+      "status": "active",
+      "reference": "C4J10OFFD2JWEAIQ",
+      "product": "Subscription",
+      "subscriptionId": 5383
     }
   ]
 }
